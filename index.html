@@ -4,74 +4,114 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CS 132 Spring - Group 12</title>
-    <style>
-        body {
-            font-family: Helvetica, sans-serif;
-            scroll-behavior: smooth;
-            margin: 0; /* Remove default margin */
-        }
-        .tab-container {
-            position: fixed; /* Fix the tabs at the top */
-            width: 100%; /* Make the container full width */
-            background: linear-gradient(to bottom,rgb(222, 222, 222), rgba(255, 255, 255, 0.5)); /* Background color of the tab */
-            color: white;
-            opacity: 100%;
-            top: 0; /* Align the tabs to the top of the page */
-            z-index: 1000; /* Ensure the tabs are above other content */
-            text-align: center; /* Center the tab buttons */
-        }
-        .tab {
-            display: inline-block; /* Display the tab buttons in a line */
-        }
-        .tab button {
-            background-color: inherit;
-            border: none;
-            outline: none;
-            cursor: pointer;
-            padding: 14px 16px;
-            transition: background-color 0.3s;
-            font-size: 17px;
-            font-weight: bold; /* Make the text bold */
-        }
-        .tab button:hover {
-            background-color: #ddd;
-        }
-        .tab button.active {
-            background-color: inherit;
-        }
-        .section {
-            padding: 20px;
-            height: 600px; /* Adjust the height as needed */
-            margin-top: 60px; /* Ensure content is not hidden behind the fixed tabs */
-        }
-        .text {
-            margin-left: 200px; /* Add margin to the text paragraph */
-            margin-right: 200px;
-            font-size: 20px;
-            text-align: justify;
-        }
-        .bold-text {
-            font-weight: bold; /* Make text bold */
-        } 
-        .red-text {
-            color: red; /* Set text color to red */
-        }
-        #Home {background-color: #f9f9f9;}
-        #News {background-color: #e9e9e9;}
-        #Contact {background-color: #d9d9d9;}
-        #About {background-color: #c9c9c9;}
-        h2{
-            text-align: center; /* Center the h2 text */
-            font-size: 50px;
-            margin-top: 80px; /* Add top margin to provide space above the h2 */
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts.js"></script>
 </head>
 <body>
 
 <h2>[title here]</h2>
-<p class="text">Our project is an analysis on <span class="bold-text">the current state of education in the country.</span> Particularly, this project aims to answer the question: Is the student-teacher ratio in the Philippines statistically significantly lower than the global average? An additional question this paper hopes to answer is: are there any significant differences in the ratio between education levels (Primary, Lower Secondary, Upper Secondary)? With this supporting research question we aim to find possible factors relating to teacher’s employment so that we may find possible solutions to the problem.</p>
-
+<ul>
+    <li>About Us:
+        <ul>
+            <li>Group 12</li>
+            <li>Members:
+                <ol>
+                    <li>De Vera, Cedric</li>
+                    <li>Domingo, John</li>
+                    <li>Galang, Elijah
+                        <ul>
+                            <li>Elijah Galang is a student from BS Computer Science </li>
+                        </ul>
+                    </li>
+                </ol>
+            </li>
+        </ul>
+    </li>
+    <li>Description
+        <ol>
+            <li>Research Question
+                <ul>
+                    <li>Our project is an analysis on <span class="bold-text">the current state of education in the country.</span> Particularly, this project aims to answer the question: Is the student-teacher ratio in the Philippines statistically significantly lower than the global average? An additional question this paper hopes to answer is: are there any significant differences in the ratio between education levels (Primary, Lower Secondary, Upper Secondary)? With this supporting research question we aim to find possible factors relating to teacher’s employment so that we may find possible solutions to the problem.</li>
+                </ul>
+            </li>
+            <li>Background
+                <ul>
+                    <li>“There may be changes to the curriculum or even to the physical condition of our classrooms and schools, but the condition of the teachers is the most important and should be given priority. Our teachers are still overburdened with redundant clerical work that gets worse every day. Class sizes can reach as high as 50 to 55, and yet we expect our teachers to teach better,” 
+    - TDC chairman Benjo Basas said in a separate statement.
+    
+        Education is vital to painting a brighter future for the youth, although the majority of children in the Philippines have access to education or have been educated, the question of quality still remains. The quality of education can detrimentally be influenced by the ratio between students and teachers. A teacher with too many students is unable to properly tend to all of them, which adversely affects the teachers’ well-being and the students’ learning experience and academic performance. As such, we aim to find insights on how this ratio in the Philippines compares with the rest of the world.
+                    </li>
+                </ul>
+            </li>
+            <li>Hypotheses
+                <ul>
+                    <li>For whether there are enough teachers to support the rate of growth of the number of students, we hypothesize that There is a statistically significant difference between the teacher-student ratio in the Philippines and the global average teacher-student ratio.
+                        <ul>
+                            <li>Null Hypothesis: There is no significant difference between the teacher-student ratio in the Philippines and the global average.</li>
+                            <li>Alternative Hypothesis: There is a statistically significant difference between the teacher-student ratio in the Philippines and the global average.</li>
+                        </ul>
+                    </li>
+                    <li>As for whether there is a statistically significant difference in the ratio between the Philippines’ and the global averages depending on division levels, we hypothesize that There is a statistically significant difference between the teacher-student ratio between all levels. Specifically: 
+                        <ul>
+                            <li>For the primary level:
+                                <ul>
+                                    <li>Null hypothesis: There is no difference between the teacher-student ratios of the Philippines and the global averages in the primary level.</li>
+                                    <li>Alternative Hypothesis: There exists a statistically significant difference between the teacher-student ratio of the Philippines and the global averages in the primary level.</li>
+                                </ul>
+                            </li>
+                            <li>For the lower secondary level:
+                                <ul>
+                                    <li>Null hypothesis: There is no difference between the teacher-student ratios of the Philippines and the global averages in the lower secondary level.</li>
+                                    <li>Alternative Hypothesis: There exists a statistically significant difference between the teacher-student ratio of the Philippines and the global averages in the lower secondary level.</li>
+                                </ul>
+                            </li>
+                            <li>For the upper secondary level:
+                                <ul>
+                                    <li>Null hypothesis: There is no difference between the teacher-student ratios of the Philippines and the global averages in the upper secondary level.</li>
+                                    <li>Alternative Hypothesis: There exists a statistically significant difference between the teacher-student ratio of the Philippines and the global averages in the uppersecondary level.</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ol>
+    </li>
+    <li>Data Set
+        <ol>
+            <li>Description
+                <ul>
+                    <li>The following data sets obtained are from the official datasets provided by the Department of Education. They have readily available data up to the School Year 2020-2021, which is the latest and available data used for the study.</li>
+                    <li>The first data set contains the amount of Public School teachers in the Philippines. It is subdivided by what academic year the teachers taught in and it is further classified by what level of education they teach, namely: Elementary, Junior High School, and Senior High School, and what region they are located in.</li>
+                    <li>The second data set is the data containing the enrolment of students in the country. It includes enrollment data from private, public, and state universities and colleges (SUCs) and Local Universities and Colleges (LUCs), The data is also subdivided by the academic year the students were enrolled in, and further classified into the region the students are located in, their birth sex, their grade level, and in the case of Senior High School students, their strand.
+                        <ol>
+                            <li>For the purpose of this study, only the data on Public School enrollees will be collected and considered as part of the data set. The enrollees for the Senior High School students are also combined by their grade level and not their specific strand.</li>
+                            <li>With DepEd’s special education program (Sped), an additional grade level is considered, labeled as Non-Grade. These are learners with special needs which require them not to be included in the regular class setup. They are also clustered by their level of education (Non-Grade Elementary and Non-Grade Junior High).</li>
+                        </ol>
+                    </li>
+                </ul>
+            </li>
+            <li>Data Set Size
+                <ul>
+                    <li>The data set containing the enrollment data has 111,337,379 participants, ranging from AY 2016-2017 up to AY 2020-2021. Specifically, 21,398,088 were enrolled in AY 2016-2017, ranging from Kindergarten to Senior Highschool. Furthermore, 22,096,820 were enrolled in AY 2017-2018, 22,557,139 in AY 2018-2019, 22,572,923 in AY 2019-2020, and finally, 22,712,409 in AY 2020-2021.</li>
+                    <li>For the data set containing the number of teachers in the country, there were a total of 4,000,702 participants, spread throughout AY 2016-2017 up to AY 2020-2021. Specifically, there were 724,005 in AY 2016-2017, 755,573 in AY 2017-2018, 808,089 in AY 2018-2019, 836,193 in AY 2019-2020, and finally, 876,842 in AY 2020-2021.</li>
+                </ul>
+            </li>
+            <li>Pre-Processing
+                <ul>
+                    <li>The data set for the enrollment data was arranged according to four criterias which contained the number of enrollees for each. They are grouped according to school year, region, grade level and birth sex. There were 2482 samples obtained from this.</li>
+                    <li>A similar data set was obtained for the number of public school teachers, which lacks the birth sex criteria, thus there are only three criterias to group each sample. The data made available for teachers only categorizes them according to the level of education (Elementary, Junior High School, Senior High School), and not their specific grade level, which means there are only three different groups for this. A total of 255 samples were obtained using this criteria.</li>
+                </ul>
+            </li>
+        </ol>
+    </li>
+</ul>
+<ol>References:
+    <li>Bollozos, W. (2023, August 29). 'Glaring' teacher shortage on school opening day needs 'strategic' solutions — lawmaker. https://www.philstar.com/headlines/2023/08/29/2292294/glaring-teacher-shortage-school-opening-day-needs-strategic-solutions-lawmaker#:~:text=While%20DepEd%20in%20recent%20years,to%20have%20large%20class%20sizes.</li>
+    <li>Gumban, E. (2023, August 30). Teachers lament worsening education system. https://www.philstar.com/headlines/2023/08/30/2292411/teachers-lament-worsening-education-system</li>
+    <li>Inero, A., Galang, A., Dela Cruz, A., Dela Cruz, R. (2021, June 30). INVESTIGATING STUDENT-TEACHER RATIO AS A FACTOR IN READING PERFORMANCE: THE CASE OF THE PHILIPPINES. https://journal.uin-alauddin.ac.id/index.php/Eternal/article/view/20876</li>
+    <li>Rabago-Mingoa, T. (2017, June). Filipino teachers’ stress levels and coping strategies. https://www.dlsu.edu.ph/wp-content/uploads/pdf/conferences/research-congress-proceedings/2017/LLI/LLI-I-020.pdf</li>
+</ol>
 <div class="tab-container">
     <div class="tab">
         <button class="tablinks" onclick="scrollToSection(event, 'Home')">Home</button>
@@ -100,20 +140,5 @@
     <h3>About</h3>
     <p>Learn more about us.</p>
 </div>
-
-<script>
-    function scrollToSection(evt, sectionId) {
-        // Scroll to the target section
-        document.getElementById(sectionId).scrollIntoView({behavior: "smooth"});
-
-        // Update the active class on the buttons
-        var tablinks = document.getElementsByClassName("tablinks");
-        for (var i = 0; i < tablinks.length; i++) {
-            tablinks[i].className = tablinks[i].className.replace(" active", "");
-        }
-        evt.currentTarget.className += " active";
-    }
-</script>
-
 </body>
 </html>

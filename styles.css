@@ -1,0 +1,63 @@
+body {
+    font-family: Helvetica, sans-serif;
+    scroll-behavior: smooth;
+    margin: 0; /* Remove default margin */
+    background-image: url(media/classroom.jpg);
+}
+h2 {
+}
+.tab-container {
+    position: fixed; /* Fix the tabs at the top */
+    width: 100%; /* Make the container full width */
+    background: linear-gradient(to bottom,rgb(222, 222, 222), rgba(255, 255, 255, 0.5)); /* Background color of the tab */
+    color: white;
+    opacity: 100%;
+    top: 0; /* Align the tabs to the top of the page */
+    z-index: 1000; /* Ensure the tabs are above other content */
+    text-align: center; /* Center the tab buttons */
+}
+.tab {
+    display: inline-block; /* Display the tab buttons in a line */
+}
+.tab button {
+    background-color: inherit;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: background-color 0.3s;
+    font-size: 17px;
+    font-weight: bold; /* Make the text bold */
+}
+.tab button:hover {
+    background-color: #ddd;
+}
+.tab button.active {
+    background-color: inherit;
+}
+.section {
+    padding: 20px;
+    height: 600px; /* Adjust the height as needed */
+    margin-top: 60px; /* Ensure content is not hidden behind the fixed tabs */
+}
+.text {
+    margin-left: 200px; /* Add margin to the text paragraph */
+    margin-right: 200px;
+    font-size: 20px;
+    text-align: justify;
+}
+.bold-text {
+    font-weight: bold; /* Make text bold */
+} 
+.red-text {
+    color: red; /* Set text color to red */
+}
+#Home {background-color: #f9f9f9;}
+#News {background-color: #e9e9e9;}
+#Contact {background-color: #d9d9d9;}
+#About {background-color: #c9c9c9;}
+h2{
+    text-align: center; /* Center the h2 text */
+    font-size: 50px;
+    margin-top: 80px; /* Add top margin to provide space above the h2 */
+}
