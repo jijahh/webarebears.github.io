@@ -163,6 +163,7 @@ h3{
     height: 450px; /* Set the desired height */
     position: relative;
     overflow: hidden;
+    text-align: center;
 }
 
 .cover-image {
