@@ -9,136 +9,108 @@
 </head>
 <body>
 
-<h2>[title here]</h2>
-<ul>
-    <li>About Us:
-        <ul>
-            <li>Group 12</li>
-            <li>Members:
-                <ol>
-                    <li>De Vera, Cedric</li>
-                    <li>Domingo, John</li>
-                    <li>Galang, Elijah
-                        <ul>
-                            <li>Elijah Galang is a student from BS Computer Science </li>
-                        </ul>
-                    </li>
-                </ol>
-            </li>
-        </ul>
-    </li>
-    <li>Description
-        <ol>
-            <li>Research Question
-                <ul>
-                    <li>Our project is an analysis on <span class="bold-text">the current state of education in the country.</span> Particularly, this project aims to answer the question: Is the student-teacher ratio in the Philippines statistically significantly lower than the global average? An additional question this paper hopes to answer is: are there any significant differences in the ratio between education levels (Primary, Lower Secondary, Upper Secondary)? With this supporting research question we aim to find possible factors relating to teacher’s employment so that we may find possible solutions to the problem.</li>
-                </ul>
-            </li>
-            <li>Background
-                <ul>
-                    <li>“There may be changes to the curriculum or even to the physical condition of our classrooms and schools, but the condition of the teachers is the most important and should be given priority. Our teachers are still overburdened with redundant clerical work that gets worse every day. Class sizes can reach as high as 50 to 55, and yet we expect our teachers to teach better,” 
-    - TDC chairman Benjo Basas said in a separate statement.
-    
-        Education is vital to painting a brighter future for the youth, although the majority of children in the Philippines have access to education or have been educated, the question of quality still remains. The quality of education can detrimentally be influenced by the ratio between students and teachers. A teacher with too many students is unable to properly tend to all of them, which adversely affects the teachers’ well-being and the students’ learning experience and academic performance. As such, we aim to find insights on how this ratio in the Philippines compares with the rest of the world.
-                    </li>
-                </ul>
-            </li>
-            <li>Hypotheses
-                <ul>
-                    <li>For whether there are enough teachers to support the rate of growth of the number of students, we hypothesize that There is a statistically significant difference between the teacher-student ratio in the Philippines and the global average teacher-student ratio.
-                        <ul>
-                            <li>Null Hypothesis: There is no significant difference between the teacher-student ratio in the Philippines and the global average.</li>
-                            <li>Alternative Hypothesis: There is a statistically significant difference between the teacher-student ratio in the Philippines and the global average.</li>
-                        </ul>
-                    </li>
-                    <li>As for whether there is a statistically significant difference in the ratio between the Philippines’ and the global averages depending on division levels, we hypothesize that There is a statistically significant difference between the teacher-student ratio between all levels. Specifically: 
-                        <ul>
-                            <li>For the primary level:
-                                <ul>
-                                    <li>Null hypothesis: There is no difference between the teacher-student ratios of the Philippines and the global averages in the primary level.</li>
-                                    <li>Alternative Hypothesis: There exists a statistically significant difference between the teacher-student ratio of the Philippines and the global averages in the primary level.</li>
-                                </ul>
-                            </li>
-                            <li>For the lower secondary level:
-                                <ul>
-                                    <li>Null hypothesis: There is no difference between the teacher-student ratios of the Philippines and the global averages in the lower secondary level.</li>
-                                    <li>Alternative Hypothesis: There exists a statistically significant difference between the teacher-student ratio of the Philippines and the global averages in the lower secondary level.</li>
-                                </ul>
-                            </li>
-                            <li>For the upper secondary level:
-                                <ul>
-                                    <li>Null hypothesis: There is no difference between the teacher-student ratios of the Philippines and the global averages in the upper secondary level.</li>
-                                    <li>Alternative Hypothesis: There exists a statistically significant difference between the teacher-student ratio of the Philippines and the global averages in the uppersecondary level.</li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ol>
-    </li>
-    <li>Data Set
-        <ol>
-            <li>Description
-                <ul>
-                    <li>The following data sets obtained are from the official datasets provided by the Department of Education. They have readily available data up to the School Year 2020-2021, which is the latest and available data used for the study.</li>
-                    <li>The first data set contains the amount of Public School teachers in the Philippines. It is subdivided by what academic year the teachers taught in and it is further classified by what level of education they teach, namely: Elementary, Junior High School, and Senior High School, and what region they are located in.</li>
-                    <li>The second data set is the data containing the enrolment of students in the country. It includes enrollment data from private, public, and state universities and colleges (SUCs) and Local Universities and Colleges (LUCs), The data is also subdivided by the academic year the students were enrolled in, and further classified into the region the students are located in, their birth sex, their grade level, and in the case of Senior High School students, their strand.
-                        <ol>
-                            <li>For the purpose of this study, only the data on Public School enrollees will be collected and considered as part of the data set. The enrollees for the Senior High School students are also combined by their grade level and not their specific strand.</li>
-                            <li>With DepEd’s special education program (Sped), an additional grade level is considered, labeled as Non-Grade. These are learners with special needs which require them not to be included in the regular class setup. They are also clustered by their level of education (Non-Grade Elementary and Non-Grade Junior High).</li>
-                        </ol>
-                    </li>
-                </ul>
-            </li>
-            <li>Data Set Size
-                <ul>
-                    <li>The data set containing the enrollment data has 111,337,379 participants, ranging from AY 2016-2017 up to AY 2020-2021. Specifically, 21,398,088 were enrolled in AY 2016-2017, ranging from Kindergarten to Senior Highschool. Furthermore, 22,096,820 were enrolled in AY 2017-2018, 22,557,139 in AY 2018-2019, 22,572,923 in AY 2019-2020, and finally, 22,712,409 in AY 2020-2021.</li>
-                    <li>For the data set containing the number of teachers in the country, there were a total of 4,000,702 participants, spread throughout AY 2016-2017 up to AY 2020-2021. Specifically, there were 724,005 in AY 2016-2017, 755,573 in AY 2017-2018, 808,089 in AY 2018-2019, 836,193 in AY 2019-2020, and finally, 876,842 in AY 2020-2021.</li>
-                </ul>
-            </li>
-            <li>Pre-Processing
-                <ul>
-                    <li>The data set for the enrollment data was arranged according to four criterias which contained the number of enrollees for each. They are grouped according to school year, region, grade level and birth sex. There were 2482 samples obtained from this.</li>
-                    <li>A similar data set was obtained for the number of public school teachers, which lacks the birth sex criteria, thus there are only three criterias to group each sample. The data made available for teachers only categorizes them according to the level of education (Elementary, Junior High School, Senior High School), and not their specific grade level, which means there are only three different groups for this. A total of 255 samples were obtained using this criteria.</li>
-                </ul>
-            </li>
-        </ol>
-    </li>
-</ul>
-<ol>References:
-    <li>Bollozos, W. (2023, August 29). 'Glaring' teacher shortage on school opening day needs 'strategic' solutions — lawmaker. https://www.philstar.com/headlines/2023/08/29/2292294/glaring-teacher-shortage-school-opening-day-needs-strategic-solutions-lawmaker#:~:text=While%20DepEd%20in%20recent%20years,to%20have%20large%20class%20sizes.</li>
-    <li>Gumban, E. (2023, August 30). Teachers lament worsening education system. https://www.philstar.com/headlines/2023/08/30/2292411/teachers-lament-worsening-education-system</li>
-    <li>Inero, A., Galang, A., Dela Cruz, A., Dela Cruz, R. (2021, June 30). INVESTIGATING STUDENT-TEACHER RATIO AS A FACTOR IN READING PERFORMANCE: THE CASE OF THE PHILIPPINES. https://journal.uin-alauddin.ac.id/index.php/Eternal/article/view/20876</li>
-    <li>Rabago-Mingoa, T. (2017, June). Filipino teachers’ stress levels and coping strategies. https://www.dlsu.edu.ph/wp-content/uploads/pdf/conferences/research-congress-proceedings/2017/LLI/LLI-I-020.pdf</li>
-</ol>
+<div class="background">
+    <img src="media/classroom.jpg" alt="Background Image" class="background-image">
+    <div class="heading">
+        <h1>classroom <span class="blue-text">numbers</span></h1>
+        <h2>Analyzing the student-teacher ratios in Philippine education</h2>
+        <div class="subtitle">a CS 132 Data Science Project by Group 12 WFV Spring</div>
+    </div>
+</div>
+
 <div class="tab-container">
     <div class="tab">
-        <button class="tablinks" onclick="scrollToSection(event, 'Home')">Home</button>
-        <button class="tablinks" onclick="scrollToSection(event, 'News')">News</button>
-        <button class="tablinks" onclick="scrollToSection(event, 'Contact')">Contact</button>
+        <button class="tablinks" onclick="scrollToSection(event, 'Overview')">Overview</button>
+        <button class="tablinks" onclick="scrollToSection(event, 'Background')">Background</button>
+        <button class="tablinks" onclick="scrollToSection(event, 'Data')">Data</button>
+        <button class="tablinks" onclick="scrollToSection(event, 'Results')">Results</button>
+        <button class="tablinks" onclick="scrollToSection(event, 'References')">References</button>
         <button class="tablinks" onclick="scrollToSection(event, 'About')">About</button>
     </div>
 </div>
 
-<div id="Home" class="section">
-    <h3>Home</h3>
-    <p>Welcome to the home page!</p>
+<div id="Overview" class="section">
+    <h3>Overview</h3>
+    <div class ="sectionbody">
+        <p>Are there enough teachers to handle the students in the country? Is the class size optimal for both teaching and learning?</p>
+        <p>These are the questions to be answered by the project, which can be measured through the student to teacher ratio. By comparing this to the global averages, it determines how the Philippines will be <span class="bold-text">higher </span> (having larger class sizes) or <span class="bold-text">lower </span>(having lower class sizes). Moreover, this study also aims to seek <span class="bold-text">differences in ratios between the education levels</span> (Primary, Lower Secondary and Upper Secondary).</p>
+    </div>
+    <div class="res-title"> Primary Research Question</div>
+    <div class="sectionbody">
+        Is the student-teacher ratio in the Philippines <span class="blue-text">significantly higher</span> than the global average?
+    </div>
+    <div class="res-title"> Secondary Research Question</div>
+    <div class="sectionbody">
+        Are there any significant differences in the ratio between education levels (Primary, Lower Secondary, Upper Secondary)?
+    </div>
+
 </div>
 
-<div id="News" class="section">
-    <h3>News</h3>
-    <p>Stay updated with the latest news.</p>
+<div id="Background" class="section">
+    <h3>Background</h3>
+    <div class ="background-header">“Our teachers are still overburdened with redundant clerical work that gets worse every day. Class sizes can reach as high as 50 to 55, and yet we expect our teachers to teach better.”</div>
+    <div class ="background-sub"> A statement by Teachers’ Dignity Coalition chairman Benjo Basas <a href="https://www.philstar.com/headlines/2023/08/30/2292411/teachers-lament-worsening-education-system" target="_blank">(Mateo and Crisostomo, 2023)</a></div>
+    <div class = "background-body"> 
+        <p>Despite the student’s access to education, the quality can be heavily influenced by the <span class="bold-text">ratio between students and teachers.</span></p>
+        <p> A teacher with too many students is unable to properly tend to all of them, which affects the teachers’ well-being and the students’ learning and performance.  <a href="https://www.dlsu.edu.ph/wp-content/uploads/pdf/conferences/research-congress-proceedings/2017/LLI/LLI-I-020.pdf" target="_blank"> A study by Mingoa (2017)</a> presents <span class="bold-text">oversized classes as one of the factors affecting teachers’ stress.</span> </p>
+        <p> Another study by  <a href="https://journal.uin-alauddin.ac.id/index.php/Eternal/article/view/20876" target="_blank"> Galang et al. (2021)</a> identifies that <span class="bold-text">smaller student-teacher ratios among Asian countries yield better academic results,</span> measured by Programme for International Student Assessment (PISA) scores. </p>
+        <p> As such, this project aims to find insights on how the ratio of the Philippines compares with the rest of the world.</p>
+    </div>
 </div>
 
-<div id="Contact" class="section">
-    <h3>Contact</h3>
-    <p>Contact us for more information.</p>
+<div id="Data" class="section">
+    <h3>Data</h3>
+    <div class ="sectionbody">
+        The datasets are obtained official datasets provided by <a href="https://www.deped.gov.ph/alternative-learning-system/resources/facts-and-figures/datasets/" target="_blank">DepEd (Local Source)</a>  and <a href="http://data.uis.unesco.org/#" target="_blank">UNESCO UIS (Global Source).</a>
+    </div>
+    <div class="res-title"> DepEd Data</div>
+    <div class="sectionbody">
+        <p>There are two datasets provided by DepEd which are necessary for the study: number of teachers by school year and enrollment data by school year. The amount of teachers are sub grouped by region and by the level of education they teach: <span class="bold-text">Elementary, Junior High School, and Senior High School</span>. Enrollment data on the other hand, are grouped by region, birth sex, and grade level.</p>
+        <p>Due to the scope of the study, the enrollment data only focuses on public school students, as the DepEd can only disclose the amount of public school teachers.
+    </div>
+    <div class="res-title"> UNESCO UIS Data</div>
+    <div class="sectionbody">
+        <p>The UNESCO UIS Data also presents both number of teachers by year and enrollment data per year. Each data is grouped by country, and can be classified further into the continent they belong. By the definition of their data, the levels of education are classified by <span class="bold-text">Primary, Lower Secondary, and Upper Secondary</span>.</p>
+    </div>
+    <div class="res-title"> Preprocessing of Data</div>
+    <div class="sectionbody">
+        <p> Before combining the two major datasets, it was necessary to set a definition that Primary (Elementary), Lower Secondary (Junior High School), and Upper Secondary (Senior High School) for brevity.</p>
+        <p> For the scope of the school years, the team selected 2017 to 2021. This is the latest data presented by DepEd and the earliest year where the Philippines implemented Senior High School (S.Y. 2016-2017).</p>
+        <p> To obtain the averages, most of the data were summed up by school year and divide the number of enrollees over the number of teachers. For the UNESCO UIS dataset, this was done individually for each country. However, due to the large size of this dataset some countries were removed due to inconsistency, that is when the data for the country's enrollment is present but the number of teachers is not, and vice versa. </p>
+        <p> <a href="https://docs.google.com/spreadsheets/d/1cBuVQqX7rkTXdTVc2JC6s8txDGckQg25vXUqh52-Bo8/edit?usp=sharing" target="_blank">The preprocessed dataset can be found by clicking here.</a> </p>
+    </div>
+    <div class="res-title"> Visualization</div>
+    <div class="sectionbody">
+        <p></p>
+    </div>
+</div>
+
+<div id="Results" class="section">
+    <h3>Results</h3>
+    <div class ="sectionbody"></div>
+</div>
+
+<div id="References" class="section">
+    <h3>References</h3>
+    <div class ="refbody"></div>
 </div>
 
 <div id="About" class="section">
-    <h3>About</h3>
-    <p>Learn more about us.</p>
+    <h3>About the Team</h3>
+    <div class="res-title"> Elijah Galang</div>
+    <div class="sectionbody">
+        <p>The UNESCO UIS Data also presents both number of teachers by year and enrollment data per year. Each data is grouped by country, and can be classified further into the continent they belong. By the definition of their data, the levels of education are classified by <span class="bold-text">Primary, Lower Secondary, and Upper Secondary</span>.</p>
+    </div>
+    <div class="res-title"> John Domingo</div>
+    <div class="sectionbody">
+        <p>The UNESCO UIS Data also presents both number of teachers by year and enrollment data per year. Each data is grouped by country, and can be classified further into the continent they belong. By the definition of their data, the levels of education are classified by <span class="bold-text">Primary, Lower Secondary, and Upper Secondary</span>.</p>
+    </div>
+    <div class="res-title"> Cedric De Vera</div>
+    <div class="sectionbody">
+        <p>The UNESCO UIS Data also presents both number of teachers by year and enrollment data per year. Each data is grouped by country, and can be classified further into the continent they belong. By the definition of their data, the levels of education are classified by <span class="bold-text">Primary, Lower Secondary, and Upper Secondary</span>.</p>
+    </div>
 </div>
+
+
 </body>
 </html>
