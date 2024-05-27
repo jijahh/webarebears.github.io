@@ -160,7 +160,7 @@ h3{
     margin-top: 60px; /* Add top margin to provide space above the h2 */
 }
 .responsive-image {
-    max-width: 100%;
+    max-width: 30%;
     height: auto;
     display: block; /* Remove the bottom space if inside a container with text */
 }
