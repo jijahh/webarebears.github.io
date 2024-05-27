@@ -159,3 +159,8 @@ h3{
     font-size: 30px;
     margin-top: 60px; /* Add top margin to provide space above the h2 */
 }
+.responsive-image {
+    max-width: 100%;
+    height: auto;
+    display: block; /* Remove the bottom space if inside a container with text */
+}
