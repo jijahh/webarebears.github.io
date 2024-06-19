@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>classroom numbers</title>
+    <style>
+        body {
+            font-family: Helvetica, sans-serif;
+            scroll-behavior: smooth;
+            margin: 0; /* Remove default margin */
+        }
+        hr {
+            border: none;
+            height: 0.5px;
+            background-color: lightgrey;
+            width: 50%;
+        }
+        a {
+            color: inherit; /* Change text color */
+            text-decoration: none; /* Add underline */
+        }
+        a:hover {
+            color: #0077b6; /* Change text color */
+        }
+        .tab-container {
+            position: fixed; /* Fix the tabs at the top */
+            width: 100%; /* Make the container full width */
+            height: 80px;
+            background: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255),rgba(255, 255, 255, 0)); /* Background color of the tab */
+            /* radial-gradient(rgb(222, 222, 222), rgba(255, 255, 255, 1)) */
+            opacity: 100%;
+            top: 0; /* Align the tabs to the top of the page */
+            z-index: 1000; /* Ensure the tabs are above other content */
+            text-align: center; /* Center the tab buttons */
+        }
+        .tab {
+            display: inline-block; /* Display the tab buttons in a line */
+        }
+        .tab button {
+            background-color: inherit;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 14px 16px;
+            transition: background-color 0.3s;
+            font-size: 17px;
+            font-weight: bold; /* Make the text bold */
+        }
+        .tab button:hover {
+            color: #0077b6;
+        }
+        .tab button.active {
+            background-color: inherit;
+        }
+        .section {
+            padding: 20px;
+            height: auto; /* Adjust the height as needed */
+            margin-top: 0px; /* Ensure content is not hidden behind the fixed tabs */
+            margin-left: 18vw;
+            margin-right: 18vw;
+            margin-bottom: 20px;
+        }
+        .text {
+            margin-left: 200px; /* Add margin to the text paragraph */
+            margin-right: 200px;
+            font-size: 20px;
+            text-align: justify;
+        }
+        .bold-text {
+            font-weight: bold; /* Make text bold */
+        } 
+        .blue-text {
+            color: #0077b6; /* Set text color to red */
+        }
+        .blue-legend{
+            color: #11a6eb;
+        }
+        .orange-legend{
+            color: #ef7e1c;
+        }
+        .heading{
+            /* background-image: url('classroom.jpg'); 
+            background-color: rgba(255, 255, 255, 0.85);
+            height: 800px; */
+            z-index: 3;
+            background-color: rgba(255, 255, 255, 0.85);
+        }
+        .background-image {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1;
+            object-fit: cover;
+            opacity: 0.05; /* Initial opacity */
+            transition: opacity 1s ease; /* Smooth transition */
+        }
+        .background {
+            position: relative;
+            width: 100%;
+            height: 100vh;
+            overflow: hidden;
+        }
+        .sectionbody {
+            margin-top: 10px;
+            font-size: 25px;
+            opacity: 80%;
+            text-align: justify;
+            font-weight: lighter;
+        }
+        .sectionbody2 {
+            margin-top: 10px;
+            font-size: 20px;
+            opacity: 80%;
+            text-align: justify;
+            font-weight: lighter;
+        }
+        .refbody {
+            margin-top: 10px;
+            font-size: 25px;
+            opacity: 80%;
+            text-align: justify;
+            font-weight: lighter;
+        }
+        .background-header {
+            font-size: 30px;
+            opacity: 60%;
+            margin-top: 50px;
+            text-align: justify;
+            font-style: italic;
+            font-weight: lighter;
+        }
+        .background-sub{
+            margin-top: 20px;
+            text-align: justify;
+            font-style: italic;
+            font-weight: lighter;
+            opacity: 60%;
+        }
+        .background-body{
+            margin-top: 60px;
+            text-align: justify;
+            font-weight: lighter;
+            font-size: 25px;
+            opacity: 80%;
+            margin-bottom: 40px;
+        }
+        .container {
+            display: flex;
+        }
+
+        .column {
+            flex: 1; /* Distribute space equally */
+            padding: 30px;
+        }
+        #Overview {background-color: white;}
+        #Background {background-color: white;}
+        #Data {background-color: white;}
+        #Results {background-color: white;}
+        #Discussion {background-color: white;}
+        #About {background-color: white;}
+
+        h1{
+            text-align: center; /* Center the h2 text */
+            font-size: 70px;
+            margin-top: 200px; /* Add top margin to provide space above the h2 */
+            line-height: 0.8;
+        }
+        h2{
+            text-align: center; /* Center the h2 text */
+            font-size: 23pxs;
+            margin-top: -40px; /* Add top margin to provide space above the h2 */
+            font-style: italic
+        }
+        h3{
+            text-align: center;
+            font-size: 40px;
+            margin-top: 50px; /* Add top margin to provide space above the h2 */
+        }
+        hr{
+            margin-top: 50px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 18px;
+            text-align: left;
+        }
+
+        th, td {
+            padding: 12px;
+            border: 0.5px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        .center-text{
+            text-align: center;
+        }
+        .subtitle{
+            text-align: center; /* Center the h2 text */
+            font-size: 20px;
+            margin-top: 50px; /* Add top margin to provide space above the h2 */
+            opacity: 50%;
+            font-weight: lighter;
+        }
+        .res-title{
+            text-align: left;
+            font-size: 30px;
+            margin-top: 60px; /* Add top margin to provide space above the h2 */
+        }
+        .res-title2{
+            text-align: left;
+            font-size: 30px;
+            margin-top: 0px; /* Add top margin to provide space above the h2 */
+        }
+        .image-container {
+            width: 100%; /* Adjust width as needed */
+            height: 450px; /* Set the desired height */
+            position: relative;
+            overflow: hidden;
+            text-align: center;
+        }
+
+        .cover-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Cover the container without distortion */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="background">
+        <img src="media/classroom.jpg" alt="Background Image" class="background-image">
+        <div class="heading">
+            <h1>classroom <span class="blue-text">numbers</span></h1>
+            <h2>Analyzing the student-teacher ratios in Philippine education</h2>
+            <div class="subtitle">a CS 132 Data Science Project by Group 12 WFV Spring</div>
+        </div>
+    </div>
+    
+    <div class="tab-container">
+        <div class="tab">
+            <button class="tablinks" onclick="scrollToSection(event, 'Overview')">Overview</button>
+            <button class="tablinks" onclick="scrollToSection(event, 'Background')">Background</button>
+            <button class="tablinks" onclick="scrollToSection(event, 'Data')">Data</button>
+            <button class="tablinks" onclick="scrollToSection(event, 'Results')">Results</button>
+            <button class="tablinks" onclick="scrollToSection(event, 'Discussion')">Discussion</button>
+            <button class="tablinks" onclick="scrollToSection(event, 'About')">About</button>
+        </div>
+    </div>
+    
+    <div id="Overview" class="section">
+        <h3>Overview</h3>
+        <div class ="sectionbody">
+            <p>Are there enough teachers to handle the students in the country? Is the class size optimal for both teaching and learning?</p>
+            <p>These are the questions to be answered by the project, which can be measured through the student to teacher ratio. By comparing this to the global averages, it determines how the Philippines will be <span class="blue-legend"><span class="bold-text">higher </span> (having larger class sizes)</span> or <span class="orange-legend"><span class="bold-text">lower </span>(having smaller class sizes).</span> Moreover, this study also aims to seek <span class="bold-text">differences in ratios between the education levels</span> (Primary, Lower Secondary and Upper Secondary).</p>
+        </div>
+        <div class="res-title"> Primary Research Question</div>
+        <div class="sectionbody">
+            Is the student-teacher ratio in the Philippines <span class="blue-text">significantly higher</span> than the global average?
+        </div>
+        <div class="res-title"> Secondary Research Question</div>
+        <div class="sectionbody">
+            Are there any significant differences in the ratio between education levels (Primary, Lower Secondary, Upper Secondary)?
+        </div>
+    
+        <div class="res-title">Null Hypothesis</div>
+        <div class="sectionbody">
+            There is no significant difference between the teacher-student ratio in the Philippines and the global average.
+        </div>
+    
+        <div class="res-title">Alternative Hypothesis</div>
+        <div class="sectionbody">
+            There is a significant difference between the teacher-student ratio in the Philippines and the global average.
+        </div>
+    
+    </div>
+
+    <hr>
+    
+    <div id="Background" class="section">
+        <h3>Background</h3>
+        <div class ="background-header">“Our teachers are still overburdened with redundant clerical work that gets worse every day. Class sizes can reach as high as 50 to 55, and yet we expect our teachers to teach better.”</div>
+        <div class ="background-sub"> A statement by Teachers’ Dignity Coalition chairman Benjo Basas <a href="https://www.philstar.com/headlines/2023/08/30/2292411/teachers-lament-worsening-education-system" target="_blank">(Mateo and Crisostomo, 2023)</a></div>
+        <div class = "background-body"> 
+            <p>Despite the student’s access to education, the quality can be heavily influenced by the <span class="bold-text">ratio between students and teachers.</span></p>
+            <p> A teacher with too many students is unable to properly tend to all of them, which affects the teachers’ well-being and the students’ learning and performance.  <a href="https://www.dlsu.edu.ph/wp-content/uploads/pdf/conferences/research-congress-proceedings/2017/LLI/LLI-I-020.pdf" target="_blank"> A study by Mingoa (2017)</a> presents <span class="bold-text">oversized classes as one of the factors affecting teachers’ stress.</span> </p>
+            <p> Another study by  <a href="https://journal.uin-alauddin.ac.id/index.php/Eternal/article/view/20876" target="_blank"> Galang et al. (2021)</a> identifies that <span class="bold-text">smaller student-teacher ratios among Asian countries yield better academic results,</span> measured by Programme for International Student Assessment (PISA) scores. </p>
+            <p> As such, this project aims to find insights on how the ratio of the Philippines compares with the rest of the world.</p>
+        </div>
+    </div>
+
+    <hr>
+    
+    <div id="Data" class="section">
+        <h3>Data</h3>
+        <div class ="sectionbody">
+            The datasets are obtained official datasets provided by <a href="https://www.deped.gov.ph/alternative-learning-system/resources/facts-and-figures/datasets/" target="_blank">DepEd (Local Source)</a>  and <a href="http://data.uis.unesco.org/#" target="_blank">UNESCO UIS (Global Source).</a>
+        </div>
+        <div class="res-title"> DepEd Data (Local Source)</div>
+        <div class="sectionbody">
+            <p>There are two datasets provided by DepEd which are necessary for the study: number of teachers by school year and enrollment data by school year. The amount of teachers are sub grouped by region and by the level of education they teach: <span class="bold-text">Elementary, Junior High School, and Senior High School</span>. Enrollment data on the other hand, are grouped by region, birth sex, and grade level.</p>
+            <p>Due to the scope of the study, the enrollment data only focuses on public school students, as the DepEd can only disclose the amount of public school teachers.
+        </div>
+        <div class="res-title"> UNESCO UIS Data (Global Source)</div>
+        <div class="sectionbody">
+            <p>The UNESCO UIS Data also presents both number of teachers by year and enrollment data per year. Each data is grouped by country, and can be classified further into the continent they belong. By the definition of their data, the levels of education are classified by <span class="bold-text">Primary, Lower Secondary, and Upper Secondary</span>.</p>
+        </div>
+
+        <hr>
+
+        <div class="res-title"> Preprocessing of Data</div>
+        <div class="sectionbody">
+            <p> Before combining the two major datasets, it was necessary to set a definition that Primary (Elementary), Lower Secondary (Junior High School), and Upper Secondary (Senior High School) for brevity.</p>
+            <p> For the scope of the school years, the team selected 2017 to 2021. This is the latest data presented by DepEd and the earliest year where the Philippines implemented Senior High School (S.Y. 2016-2017).</p>
+            <p> To obtain the averages, most of the data were summed up by school year and divide the number of enrollees over the number of teachers. For the UNESCO UIS dataset, this was done individually for each country. However, due to the large size of this dataset some countries were removed due to inconsistency, that is when the data for the country's enrollment is present but the number of teachers is not, and vice versa. </p>
+            <p> <a href="https://docs.google.com/spreadsheets/d/1cBuVQqX7rkTXdTVc2JC6s8txDGckQg25vXUqh52-Bo8/edit?usp=sharing" target="_blank">The preprocessed dataset can be found by clicking here.</a> </p>
+        </div>
+
+        <hr>
+
+        <div class="res-title"> Visualization</div>
+        <div class="sectionbody">
+            <p>Primary Research Question</p>
+            <p>The graph shows that the <span class="orange-legend">average student-teacher ratio of the Philippines</span> is higher than the <span class = "blue-legend">global average.</span> This means that the Philippines holds a larger average class size for one teacher.</p>
+            <div class="image-container">
+                <img src="media/rq1.png" alt="research question 1" class="cover-image">
+            </div>   
+    
+            <p>Secondary Research Question</p>
+            <p>This graph shows the variations of the <span class="orange-legend">Philippine average student-teacher ratio</span> vs the <span class = "blue-legend"> global average</span> across the levels of education. Despite the low global average of Upper Secondary education, the Philippine's ratio for the education level is extremely high.</p>
+            <div class="image-container">
+                <img src="media/rq2.png" alt="research question 2" class="cover-image">
+            </div> 
+        </div>
+    </div>
+
+    <hr>
+    
+    <div id="Results" class="section">
+        <h3>Results</h3>
+        <div class="res-title">Methods</div>
+        <div class="sectionbody">
+            <p>To analyze the data in accordance with our hypothesis, we used an <span class="bold-text">independent samples t-test </span>comparing the data from the Philippines with the Global Averages. This test is used since the values for the global averages are not yet known and there was no formal sampling done to obtain the local data.</p>
+        </div>
+        <br>
+        <table>
+            <tr>
+              <th>Education Level</th>
+              <th>PH Mean</th>
+              <th>Global Mean</th>
+              <th>T-value</th>
+              <th>P-value</th>
+              <th>Action</th>
+            </tr>
+            <tr>
+                <td>All Levels</td>
+                <td>27.9598</td>
+                <td>17.5372</td>
+                <td>3.8522537620</td>
+                <td>0.0012135709</td>
+                <td>Reject null hypothesis</td>
+            </tr>
+            <tr>
+                <td>Primary</td>
+                <td>24.8189</td>
+                <td>21.1054</td>
+                <td>0.7053675400</td>
+                <td>0.4808020180</td>
+                <td>Accept null hypothesis</td>
+            </tr>
+            <tr>
+                <td>Lower Secondary</td>
+                <td>25.3394</td>
+                <td>15.5298</td>
+                <td>2.2816610469</td>
+                <td>0.0229238344</td>
+                <td>Reject null hypothesis</td>
+            </tr>
+            <tr>
+                <td>Upper Secondary</td>
+                <td>33.7210</td>
+                <td>13.8681</td>
+                <td>6.7001625537</td>
+                <td>6.18x10<sup>-11</sup></td>
+                <td>Reject null hypothesis</td>
+            </tr>
+          </table>
+
+        <br>
+        <div class="sectionbody">
+            <p>The following results are presented above. The screenshot of the actual results can be seen by <a href="https://github.com/jijahh/webarebears.github.io/blob/main/Screenshot%20of%20Results.png" target="_blank">clicking here.</a></p>
+            <p>Note that all tests are conducted with <span class="bold-text">a 95% confidence level.</span></p>
+        </div>
+
+        <br>
+        <br>
+        <div class="res-title">Results for the Primary Research Question</div>
+        <br>
+        <table>
+            <tr>
+              <th>Education Level</th>
+              <th>PH Mean</th>
+              <th>Global Mean</th>
+              <th>T-value</th>
+              <th>P-value</th>
+              <th>Action</th>
+            </tr>
+            <tr>
+                <td>All Levels</td>
+                <td>27.9598</td>
+                <td>17.5372</td>
+                <td>3.8522537620</td>
+                <td>0.0012135709</td>
+                <td><span class="blue-legend">Reject null hypothesis</span> </td>
+            </tr>
+          </table>
+        <div class="sectionbody">
+            <p>Since the p-value is less than 0.05, we reject the null hypothesis, <span class="blue-legend">indicating a statistically significant difference</span> between the Philippines' ratio and the global averages.</p>
+            <br>
+        </div>
+        <div class="res-title">Results for the Secondary Research Question</div>
+        <div class="sectionbody">
+            <p>We want to find the difference between the Philippines ratios vs the Global averages among the different levels, that is, comparing the Philippines' primary level data with the global primary data, and so on. The following comparisons are presented below.</p>
+            <br>
+            <table>
+                <tr>
+                  <th>Education Level</th>
+                  <th>PH Mean</th>
+                  <th>Global Mean</th>
+                  <th>T-value</th>
+                  <th>P-value</th>
+                  <th>Action</th>
+                </tr>
+                <tr>
+                    <td>Primary</td>
+                    <td>24.8189</td>
+                    <td>21.1054</td>
+                    <td>0.7053675400</td>
+                    <td>0.4808020180</td>
+                    <td><span class="orange-legend">Accept null hypothesis</span></td>
+                </tr>
+              </table>
+            <p>For the primary level, we found <span class="orange-legend">no statistically significant difference</span> since the p-value is greater than 0.05, meaning the null hypothesis must be accepted.</p>
+            <br>
+            <table>
+                <tr>
+                  <th>Education Level</th>
+                  <th>PH Mean</th>
+                  <th>Global Mean</th>
+                  <th>T-value</th>
+                  <th>P-value</th>
+                  <th>Action</th>
+                </tr>
+                <tr>
+                    <td>Lower Secondary</td>
+                    <td>25.3394</td>
+                    <td>15.5298</td>
+                    <td>2.2816610469</td>
+                    <td>0.0229238344</td>
+                    <td><span class="blue-legend">Reject null hypothesis</span></td>
+                </tr>
+              </table>
+              <p>For the lower secondary level, a <span class="blue-legend">statistically significant difference</span> is indicated.</p>
+            <br>
+            <table>
+                <tr>
+                  <th>Education Level</th>
+                  <th>PH Mean</th>
+                  <th>Global Mean</th>
+                  <th>T-value</th>
+                  <th>P-value</th>
+                  <th>Action</th>
+                </tr>
+                <tr>
+                    <td>Upper Secondary</td>
+                    <td>33.7210</td>
+                    <td>13.8681</td>
+                    <td>6.7001625537</td>
+                    <td>6.18x10<sup>-11</sup></td>
+                    <td><span class="blue-legend">Reject null hypothesis</span></td>
+                </tr>
+              </table>
+              <p>For the upper secondary level, a <span class="blue-legend">strong difference</span> is indicated given the shockingly low p-value obtained.</p>
+        </div>
+        <div class ="sectionbody"></div>
+    </div>
+
+    <hr>
+    
+
+    <div id="Discussion" class="section">
+        <h3>Discussion</h3>
+        <div class="res-title">Interpretation</div>
+        <div class="sectionbody">
+            <p>	With the T-test results and acceptance/rejection of the hypotheses, we obtain insight for the different research questions. For the primary research question, it can be seen that the average student-teacher ratio (of all levels) of the Philippines is significantly higher compared to the global average. In other words, classrooms in the Philippines are more likely to feature a large number of students in a single section or class.</p>
+            <p> As for the secondary research questions, we can see that the same can be said for the lower-secondary, and upper-secondary levels of education, with the upper-secondary ratio showing a more concerning difference hinted by it having the highest T-value and lowest p-value. Among the three levels of education, only the primary level bears no significant difference when compared to its global average counterpart. </p>
+        </div>
+        <br>
+        <div class="res-title">Relevance to research questions and potential impacts on the Philippines</div>
+        <div class="sectionbody">
+            <p> With this information, we can imply that teachers in the Philippines are stretched thinly with more students to juggle which affects their ability to cater to all of their students’ individual needs and, equally important, their own needs and well-being. </p>
+        </div>
+        <br>
+        <div class="res-title">Address limitations</div>
+        <div class="sectionbody">
+            <p> Missing data – In certain “year” categories, some countries had no data/missing data. To overcome this the research instead focused on continental averages instead of averages per country.</p>
+            <p> Formatting consistency – With the mentioned missing data, in order to crunch all the numbers, new data sets were formed to handle missing values and to make the coding process easier.</p>
+            <p> Dealing with outliers – Given the nature of the research topic/question, there are little to no outliers (since this topic covers ratios and averages of large samples instead of individual samples) so “outliers”, if any, were left as is. </p>
+        </div>
+        <br>
+        <br>
+        <h3>Conclusion</h3>
+        <div class="sectionbody">
+            <p> Teachers in the Philippines, except for primary-level teachers, handle more students than normal. This greatly adds challenge to an already difficult job as they would have to manage larger records, guide more pupils, check more tests, etc… The added workload can potentially negatively affect the teacher’s well-being, and if a teacher cannot teach properly, students cannot learn properly. </p>
+        </div>
+
+    </div>
+
+    <hr>
+
+    <div id="About" class="section">
+        <h3>About the Team</h3>
+        <div class="container">
+            <div class="column">
+            <div class="res-title2"> Elijah Galang</div>
+            <div class="sectionbody2">
+                <p>I am a 3rd year standing BS Computer Science student from UP Diliman. I am still not sure why I decided to pursue this course and have no idea when I will be able to graduate. I just thought using computers is cool and that I will learn how to hack facebook accounts.</p>
+                <p>I have many hobbies, including reading mangas, playing video games, playing instruments, and spending time with friends. However, I waste most of my time watching reels instead of doing things I should be doing. Thank you very much!</p>
+                <p><a href="mailto:eagalang@up.edu.ph">eagalang@up.edu.ph</a></p>
+            </div>
+            </div>
+
+            <div class="column">
+            <div class="res-title2"> John Domingo</div>
+            <div class="sectionbody2">
+                <p>Hello, I'm John and I am currently a computer science student at the University of the Philippines Diliman. I've personally been part of 40+ student classes so I'm glad to have the opportunity to dig deeper about this topic using the math and programming skills I have honed throughout my studies.</p>
+                <p>In stark contrast to the heavy math and programming in my course, I have a deep passion for art, both digital and traditional. I also love getting into the details and analyzing all forms of art, especially movies, music, and other forms of media.</p>
+                <p><a href="mailto:jsdomingo3@up.edu.ph">jsdomingo3@up.edu.ph</a></p>
+            </div>
+            </div>
+
+            <div class="column">
+            <div class="res-title2"> Cedric De Vera</div>
+            <div class="sectionbody2">
+                <p>I am Cedric, a 2nd year BS Computer Science student from the University of the Philippines Diliman. As an avid C language user, taking up CS 132 has become my first and actual application of some programming languages. I have learned a lot about Python and HTML through the contributions I have made to this portfolio.</p>
+                <p>My drive for problem solving has helped me enjoy these projects, in spite of the fact that I have no programming background before starting college.</p>
+                <p><a href="mailto:cldevera1@up.edu.ph">cldevera1@up.edu.ph</a></p>
+            </div>
+            </div>
+        </div>
+
+    </div>
+
+<script>
+    function scrollToSection(evt, sectionId) {
+        // Scroll to the target section
+        document.getElementById(sectionId).scrollIntoView({behavior: "smooth"});
+
+        // Update the active class on the buttons
+        var tablinks = document.getElementsByClassName("tablinks");
+        for (var i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        evt.currentTarget.className += " active";
+    }
+</script>
+
+</body>
+</html>
