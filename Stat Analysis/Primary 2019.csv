@@ -1,0 +1,155 @@
+Level of Education,Year,Continent,Country,Number of teachers,Number of students,Ratio
+Primary Education,2019,Africa,Algeria,222838,4580288,20.55434
+Primary Education,2019,Africa,Benin,53341,2180896,40.88592
+Primary Education,2019,Africa,Burkina Faso,82083,3233784,39.39651
+Primary Education,2019,Africa,Burundi,51545,2212532,42.92428
+Primary Education,2019,Africa,Cabo Verde,3093,62596,20.23796
+Primary Education,2019,Africa,Cameroon,96546,4399897,45.57306
+Primary Education,2019,Africa,Chad,44691,2468784,55.24119
+Primary Education,2019,Africa,Côte d'Ivoire,96255,4003884,41.59663
+Primary Education,2019,Africa,Egypt,530666,13265036,24.99696
+Primary Education,2019,Africa,Equatorial Guinea,5222,118004,22.59747
+Primary Education,2019,Africa,Eritrea,9375,347482,37.06475
+Primary Education,2019,Africa,Eswatini,9139,236002,25.82361
+Primary Education,2019,Africa,Gabon,10060,269677,26.80686
+Primary Education,2019,Africa,Gambia,10101,374678,37.09316
+Primary Education,2019,Africa,Ghana,168546,4549875,26.99486
+Primary Education,2019,Africa,Guinea,42135,1989274,47.21191
+Primary Education,2019,Africa,Madagascar,126649,4648600,36.70459
+Primary Education,2019,Africa,Malawi,83431,4593328,55.05541
+Primary Education,2019,Africa,Mauritania,16630,677458,40.7371
+Primary Education,2019,Africa,Mauritius,5639,85730,15.20305
+Primary Education,2019,Africa,Morocco,171812,4432229,25.79697
+Primary Education,2019,Africa,Mozambique,121488,6940864,57.1321
+Primary Education,2019,Africa,Namibia,18566,507120,27.31445
+Primary Education,2019,Africa,Niger,67285,2666748,39.63362
+Primary Education,2019,Africa,Nigeria,1001336,28078437,28.04097
+Primary Education,2019,Africa,Rwanda,43878,2512465,57.26024
+Primary Education,2019,Africa,Senegal,64577,2171967,33.63376
+Primary Education,2019,Africa,Seychelles,636,9383,14.75314
+Primary Education,2019,Africa,Sierra Leone,47738,1770368,37.08509
+Primary Education,2019,Africa,Togo,40626,1584376,38.99906
+Primary Education,2019,Africa,United Republic of Tanzania,196437,10605430,53.98896
+Primary Education,2019,Africa,Zambia,80919,3382087,41.79596
+Primary Education,2019,Africa,Zimbabwe,75183,2789692,37.10536
+Primary Education,2019,Asia,Afghanistan,135751,6777785,49.92807
+Primary Education,2019,Asia,Armenia,7215,154409,21.40111
+Primary Education,2019,Asia,Azerbaijan,40946,645392,15.76203
+Primary Education,2019,Asia,Bahrain,9460,115819,12.24302
+Primary Education,2019,Asia,Bhutan,2481,89894,36.23297
+Primary Education,2019,Asia,Brunei Darussalam,4014,39236,9.774788
+Primary Education,2019,Asia,Cambodia,51578,2040257,39.55673
+Primary Education,2019,Asia,China,6363952,1.04E+08,16.39315
+Primary Education,2019,Asia,"China, Hong Kong Special Administrative Region",28522,376310,13.19368
+Primary Education,2019,Asia,"China, Macao Special Administrative Region",2402,32530,13.54288
+Primary Education,2019,Asia,India,4339390,1.20E+08,27.66398
+Primary Education,2019,Asia,Indonesia,1771614,29120793,16.43744
+Primary Education,2019,Asia,Israel,78939.87,957167,12.12527
+Primary Education,2019,Asia,Japan,431048,6.49E+06,15.06587
+Primary Education,2019,Asia,Jordan,70057,1147202,16.37527
+Primary Education,2019,Asia,Kazakhstan,84896,1461448,17.21457
+Primary Education,2019,Asia,Kuwait,33015,276318,8.369468
+Primary Education,2019,Asia,Kyrgyzstan,21484,551210,25.65677
+Primary Education,2019,Asia,Lao People's Democratic Republic,35891,770659,21.47221
+Primary Education,2019,Asia,Lebanon,40600,516514,12.72202
+Primary Education,2019,Asia,Malaysia,250694,3066391,12.23161
+Primary Education,2019,Asia,Maldives,4951,49373,9.972329
+Primary Education,2019,Asia,Mongolia,10736,327015,30.45967
+Primary Education,2019,Asia,Nepal,201075,3970016,19.74396
+Primary Education,2019,Asia,Oman,28044,290045,10.3425
+Primary Education,2019,Asia,Pakistan,492753,23587997,47.86982
+Primary Education,2019,Asia,Palestine,21621,497002,22.987
+Primary Education,2019,Asia,Philippines,514231,13195088,25.65985
+Primary Education,2019,Asia,Qatar,13093,159109,12.15222
+Primary Education,2019,Asia,Republic of Korea,166710,2755682,16.52979
+Primary Education,2019,Asia,Saudi Arabia,231117,3153747,13.64567
+Primary Education,2019,Asia,Singapore,16545,234947,14.20048
+Primary Education,2019,Asia,Sri Lanka,78641,1710466,21.75031
+Primary Education,2019,Asia,Thailand,378131,4752205,12.56762
+Primary Education,2019,Asia,Timor-Leste,7749.491,206505,26.64756
+Primary Education,2019,Asia,Turkmenistan,21699,557184,25.67787
+Primary Education,2019,Asia,Türkiye,300732,5267378,17.51519
+Primary Education,2019,Asia,United Arab Emirates,29769,553678,18.59915
+Primary Education,2019,Asia,Uzbekistan,118835,2505930,21.08747
+Primary Education,2019,Asia,Viet Nam,390754,8506562,21.76961
+Primary Education,2019,Europe,Albania,9778,167104,17.08979
+Primary Education,2019,Europe,Andorra,411,4322,10.51582
+Primary Education,2019,Europe,Austria,32234.34,342064,10.61179
+Primary Education,2019,Europe,Belarus,22269,432888,19.43904
+Primary Education,2019,Europe,Belgium,73859,823109,11.14433
+Primary Education,2019,Europe,Bosnia and Herzegovina,9415,157304,16.70781
+Primary Education,2019,Europe,Bulgaria,20668,256857,12.42776
+Primary Education,2019,Europe,Croatia,12546,159336,12.70014
+Primary Education,2019,Europe,Cyprus,5063,58473,11.54908
+Primary Education,2019,Europe,Denmark,46321,461874,9.971158
+Primary Education,2019,Europe,Estonia,7982.235,89618,11.22718
+Primary Education,2019,Europe,Finland,27433,371103,13.52761
+Primary Education,2019,Europe,Georgia,34555,316542,9.160527
+Primary Education,2019,Europe,Germany,250559.4,2996959,11.96107
+Primary Education,2019,Europe,Gibraltar,205,2889,14.09268
+Primary Education,2019,Europe,Greece,74311,635950,8.557952
+Primary Education,2019,Europe,Hungary,37681,364424,9.671293
+Primary Education,2019,Europe,Iceland,3282,32811,9.997258
+Primary Education,2019,Europe,Italy,251885,2834910,11.25478
+Primary Education,2019,Europe,Latvia,10563,120787,11.43491
+Primary Education,2019,Europe,Liechtenstein,263,1979,7.524715
+Primary Education,2019,Europe,Lithuania,8507,117676,13.83284
+Primary Education,2019,Europe,Luxembourg,4916,39146,7.962978
+Primary Education,2019,Europe,Malta,2102.04,26788,12.74381
+Primary Education,2019,Europe,Monaco,170,1989,11.7
+Primary Education,2019,Europe,Netherlands,101033.7,1170170,11.58197
+Primary Education,2019,Europe,North Macedonia,7484,108483,14.49532
+Primary Education,2019,Europe,Norway,51481.44,448655,8.714888
+Primary Education,2019,Europe,Poland,253077,2312509,9.137571
+Primary Education,2019,Europe,Portugal,51126,612700,11.98412
+Primary Education,2019,Europe,Republic of Moldova,7771,139612,17.96577
+Primary Education,2019,Europe,Romania,48156,931419,19.3417
+Primary Education,2019,Europe,San Marino,243,1653,6.802469
+Primary Education,2019,Europe,Serbia,18754,264194,14.08734
+Primary Education,2019,Europe,Slovakia,14949,231720,15.5007
+Primary Education,2019,Europe,Spain,235723,3038332,12.88942
+Primary Education,2019,Europe,Sweden,70395,888850.3,12.62661
+Primary Education,2019,Europe,Switzerland,52635,521087,9.900009
+Primary Education,2019,Europe,Ukraine,108283,1724664,15.92738
+Primary Education,2019,Europe,United Kingdom of Great Britain and Northern Ireland,280504.7,4919259,17.53717
+Primary Education,2019,North America,Anguilla,154,1512,9.818182
+Primary Education,2019,North America,Antigua and Barbuda,852,9943,11.67019
+Primary Education,2019,North America,Bahamas,1482,30207,20.38259
+Primary Education,2019,North America,Barbados,1398,19895,14.23104
+Primary Education,2019,North America,Belize,2623,50388,19.21006
+Primary Education,2019,North America,British Virgin Islands,268,2750,10.26119
+Primary Education,2019,North America,Cayman Islands,306.8,4418,14.40026
+Primary Education,2019,North America,Costa Rica,42720,497065,11.63542
+Primary Education,2019,North America,Cuba,80503,750567,9.323466
+Primary Education,2019,North America,Dominica,525,6144,11.70286
+Primary Education,2019,North America,Dominican Republic,65556.12,1300211,19.83356
+Primary Education,2019,North America,Guatemala,116490,2365800,20.30904
+Primary Education,2019,North America,Honduras,44007,1103956,25.08592
+Primary Education,2019,North America,Jamaica,11347,232694,20.50709
+Primary Education,2019,North America,Mexico,572104,14012770,24.4934
+Primary Education,2019,North America,Montserrat,29,438,15.10345
+Primary Education,2019,North America,Panama,23360,421965,18.06357
+Primary Education,2019,North America,Saint Kitts and Nevis,412,5395,13.09466
+Primary Education,2019,North America,Saint Lucia,1081,15693,14.51711
+Primary Education,2019,North America,Saint Vincent and the Grenadines,905,12962,14.32265
+Primary Education,2019,North America,United States of America,1696753,24786460,14.60817
+Primary Education,2019,Oceania,Cook Islands,112,1871,16.70536
+Primary Education,2019,Oceania,Fiji,6211,121666,19.58879
+Primary Education,2019,Oceania,Micronesia (Federated States of),600,13819,23.03167
+Primary Education,2019,Oceania,Nauru,69,1856,26.89855
+Level of Education,2019,Oceania,New Zealand,26808.57,387996,14.47283
+Primary Education,2019,Oceania,Solomon Islands,4348,107118,24.63615
+Primary Education,2019,Oceania,Tokelau,21,167,7.952381
+Primary Education,2019,Oceania,Tonga,812,17024,20.96552
+Primary Education,2019,Oceania,Tuvalu,106,1323,12.48113
+Primary Education,2019,Oceania,Vanuatu,1928,54816,28.43154
+Primary Education,2019,South America,Argentina,289504,4800419,16.58153
+Primary Education,2019,South America,Bolivia (Plurinational State of),76543,1386548,18.11463
+Primary Education,2019,South America,Brazil,783517,15690307,20.02548
+Primary Education,2019,South America,Chile,91681.52,1552914,16.93814
+Primary Education,2019,South America,Colombia,184695,4263988,23.08665
+Primary Education,2019,South America,Ecuador,79990.27,1904379,23.80763
+Primary Education,2019,South America,Guyana,4060,81529,20.08103
+Primary Education,2019,South America,Peru,212567,3715130,17.47745
+Primary Education,2019,South America,Suriname,5257,68147,12.9631
+Primary Education,2019,South America,Uruguay,25054,292536,11.67622

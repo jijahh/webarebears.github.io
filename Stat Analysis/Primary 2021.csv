@@ -1,0 +1,148 @@
+Level of Education,Year,Continent,Country,Number of teachers,Number of students,Ratio
+Primary Education,2021,Africa,Algeria,200749,4852322,24.17109
+Primary Education,2021,Africa,Benin,58524,2279608,38.95168
+Primary Education,2021,Africa,Botswana,14313,365288,25.52141
+Primary Education,2021,Africa,Burkina Faso,92911,3289736,35.40739
+Primary Education,2021,Africa,Cabo Verde,3070,61251,19.95147
+Primary Education,2021,Africa,Cameroon,105989,4731585,44.64223
+Primary Education,2021,Africa,Chad,48394,2719364,56.19217
+Primary Education,2021,Africa,Côte d'Ivoire,100263,4102825,40.92063
+Primary Education,2021,Africa,Democratic Republic of the Congo,511999,20169275,39.39319
+Primary Education,2021,Africa,Djibouti,2437,70324,28.85679
+Primary Education,2021,Africa,Egypt,526106,14555423,27.66633
+Primary Education,2021,Africa,Ethiopia,516403,18447497,35.72306
+Primary Education,2021,Africa,Gambia,12116,401333,33.12422
+Primary Education,2021,Africa,Ghana,172817,4729514,27.36718
+Primary Education,2021,Africa,Guinea,45766,2072250,45.27925
+Primary Education,2021,Africa,Madagascar,133272,5349010,40.13604
+Primary Education,2021,Africa,Mali,68691,2742648,39.92733
+Primary Education,2021,Africa,Mauritius,5936,84129,14.17268
+Primary Education,2021,Africa,Morocco,171569,4552752,26.53598
+Primary Education,2021,Africa,Namibia,19201,533290,27.77407
+Primary Education,2021,Africa,Niger,69272,2806023,40.50732
+Primary Education,2021,Africa,Nigeria,913305,30455582,33.34656
+Primary Education,2021,Africa,Rwanda,60666,2729116,44.98592
+Primary Education,2021,Africa,Senegal,67548,2269617,33.60006
+Primary Education,2021,Africa,Seychelles,589,9441,16.02886
+Primary Education,2021,Africa,Sierra Leone,43747,1964346,44.90242
+Primary Education,2021,Africa,Togo,42250,1629064,38.55773
+Primary Education,2021,Africa,Tunisia,78774,1303758,16.55061
+Primary Education,2021,Africa,United Republic of Tanzania,197919,11196788,56.57258
+Primary Education,2021,Africa,Zimbabwe,80175,2899259,36.16163
+Primary Education,2021,Asia,Armenia,8093,155673,19.23551
+Primary Education,2021,Asia,Azerbaijan,40270,645551,16.03057
+Primary Education,2021,Asia,Bangladesh,359095,16964967,47.24367
+Primary Education,2021,Asia,Bhutan,2787,79834,28.64514
+Primary Education,2021,Asia,Cambodia,44875,2132705,47.52546
+Primary Education,2021,Asia,China,6683229,1.08E+08,16.11946
+Primary Education,2021,Asia,"China, Hong Kong Special Administrative Region",29450,368255,12.50441
+Primary Education,2021,Asia,"China, Macao Special Administrative Region",2642,35450,13.41787
+Primary Education,2021,Asia,India,4648082,1.22E+08,26.25336
+Primary Education,2021,Asia,Indonesia,1506717,29241826,19.40764
+Primary Education,2021,Asia,Israel,83068,998253,12.0173
+Primary Education,2021,Asia,Japan,440700,6379989,14.47694
+Primary Education,2021,Asia,Jordan,60951,1112411,18.25091
+Primary Education,2021,Asia,Kazakhstan,94887,1525544,16.07748
+Primary Education,2021,Asia,Kuwait,32782,265113,8.087151
+Primary Education,2021,Asia,Kyrgyzstan,23012,577057,25.07635
+Primary Education,2021,Asia,Lao People's Democratic Republic,33892,756191,22.31178
+Primary Education,2021,Asia,Lebanon,36960,509734,13.7915
+Primary Education,2021,Asia,Malaysia,266743,3087886,11.57626
+Primary Education,2021,Asia,Mongolia,11260,356904,31.69663
+Primary Education,2021,Asia,Nepal,201296,3455711,17.16731
+Primary Education,2021,Asia,Oman,25232,310336,12.2993
+Primary Education,2021,Asia,Pakistan,472197,24276648,51.41212
+Primary Education,2021,Asia,Palestine,23601,500687,21.21465
+Primary Education,2021,Asia,Philippines,527228,12529116,23.76413
+Primary Education,2021,Asia,Qatar,13077,163290,12.48681
+Primary Education,2021,Asia,Republic of Korea,167074,2681829,16.05174
+Primary Education,2021,Asia,Saudi Arabia,239942,3229497,13.45949
+Primary Education,2021,Asia,Singapore,16925,234240,13.83988
+Primary Education,2021,Asia,Sri Lanka,71903,1665457,23.16255
+Primary Education,2021,Asia,Thailand,326752,4696273,14.37259
+Primary Education,2021,Asia,Turkmenistan,23350,609096,26.08548
+Primary Education,2021,Asia,Türkiye,306937,5328391,17.35988
+Primary Education,2021,Asia,Uzbekistan,122587,2504025,20.42651
+Primary Education,2021,Asia,Viet Nam,384737,8884964,23.0936
+Primary Education,2021,Europe,Albania,9738,158528,16.27932
+Primary Education,2021,Europe,Andorra,410,4110,10.02439
+Primary Education,2021,Europe,Austria,32848.09,346610.5,10.55192
+Primary Education,2021,Europe,Belarus,22500,444581,19.75916
+Primary Education,2021,Europe,Bosnia and Herzegovina,9457,147690,15.617
+Primary Education,2021,Europe,Bulgaria,22885,237737,10.38833
+Primary Education,2021,Europe,Croatia,13085,151652,11.58976
+Primary Education,2021,Europe,Cyprus,5196,58543,11.26694
+Primary Education,2021,Europe,Denmark,43985,443943,10.09305
+Primary Education,2021,Europe,Estonia,8371.14,88991.5,10.63075
+Primary Education,2021,Europe,Finland,27793,371364,13.36178
+Primary Education,2021,Europe,Georgia,32677,336036,10.28356
+Primary Education,2021,Europe,Germany,261075.7,3038181,11.63716
+Primary Education,2021,Europe,Gibraltar,226,2946,13.0354
+Primary Education,2021,Europe,Greece,76829,610718,7.949056
+Primary Education,2021,Europe,Hungary,37490,367591,9.805041
+Primary Education,2021,Europe,Iceland,3446,33023,9.582995
+Primary Education,2021,Europe,Ireland,39152,557157,14.23061
+Primary Education,2021,Europe,Italy,248937,2671011,10.72967
+Primary Education,2021,Europe,Latvia,10240,119274,11.64785
+Primary Education,2021,Europe,Liechtenstein,283,1984,7.010601
+Primary Education,2021,Europe,Lithuania,8439,116682,13.82652
+Primary Education,2021,Europe,Luxembourg,5490.895,40575,7.389506
+Primary Education,2021,Europe,Malta,2102.42,26941,12.81428
+Primary Education,2021,Europe,Monaco,182,1932,10.61538
+Primary Education,2021,Europe,Netherlands,101614,1154994,11.36648
+Primary Education,2021,Europe,North Macedonia,7525,108163,14.37382
+Primary Education,2021,Europe,Norway,51613.11,443967,8.601827
+Primary Education,2021,Europe,Poland,132447,1499410,11.32083
+Primary Education,2021,Europe,Portugal,52436,583173,11.12161
+Primary Education,2021,Europe,Republic of Moldova,7579,137332,18.12007
+Primary Education,2021,Europe,Romania,47048,876906,18.63854
+Primary Education,2021,Europe,Russian Federation,327198,7553839,23.08645
+Primary Education,2021,Europe,San Marino,244,1558,6.385246
+Primary Education,2021,Europe,Serbia,18501,254754,13.76974
+Primary Education,2021,Europe,Slovakia,14857,232330,15.63775
+Primary Education,2021,Europe,Spain,247980,2926681,11.80208
+Primary Education,2021,Europe,Sweden,70777,880821.9,12.44503
+Primary Education,2021,Europe,Switzerland,54453,533258,9.792996
+Primary Education,2021,Europe,Ukraine,116084,1722098,14.83493
+Primary Education,2021,Europe,United Kingdom of Great Britain and Northern Ireland,285964.6,4867378,17.02091
+Primary Education,2021,North America,Bahamas,1722,29381,17.06214
+Primary Education,2021,North America,Barbados,1537,18518,12.04815
+Primary Education,2021,North America,Belize,2501,47442,18.96921
+Primary Education,2021,North America,British Virgin Islands,300,2763,9.21
+Primary Education,2021,North America,Cayman Islands,333.2,4350,13.05522
+Primary Education,2021,North America,Costa Rica,42732.57,487445,11.40687
+Primary Education,2021,North America,Cuba,88326,755990,8.559088
+Primary Education,2021,North America,Dominica,535,6142,11.48037
+Primary Education,2021,North America,Dominican Republic,59968.65,1116804,18.62313
+Primary Education,2021,North America,Grenada,747,11817,15.81928
+Primary Education,2021,North America,Guatemala,114476,2396898,20.938
+Primary Education,2021,North America,Honduras,44392,1046037,23.56364
+Primary Education,2021,North America,Jamaica,10421,217131,20.83591
+Primary Education,2021,North America,Mexico,568857,13716407,24.11222
+Primary Education,2021,North America,Panama,22102,465799,21.07497
+Primary Education,2021,North America,Saint Kitts and Nevis,428,5491,12.82944
+Primary Education,2021,North America,Saint Lucia,1090,15424,14.15046
+Primary Education,2021,North America,Saint Vincent and the Grenadines,952,12861,13.50945
+Primary Education,2021,North America,Trinidad and Tobago,7889,130038,16.48346
+Primary Education,2021,North America,Turks and Caicos Islands,230.25,3386,14.70575
+Primary Education,2021,North America,United States of America,1762360,23913326,13.56892
+Primary Education,2021,Oceania,Cook Islands,115,1737,15.10435
+Primary Education,2021,Oceania,Fiji,6247,118951,19.0413
+Primary Education,2021,Oceania,Marshall Islands,504.2,6452,12.79651
+Primary Education,2021,Oceania,Micronesia (Federated States of),864,12776,14.78704
+Primary Education,2021,Oceania,New Zealand,26607.22,384843,14.46385
+Primary Education,2021,Oceania,Niue,12,214,17.83333
+Primary Education,2021,Oceania,Tokelau,21,187,8.904762
+Primary Education,2021,Oceania,Tonga,810,16440,20.2963
+Primary Education,2021,Oceania,Tuvalu,137,1450,10.58394
+Primary Education,2021,Oceania,Vanuatu,2080,57072,27.43846
+Primary Education,2021,South America,Argentina,289846,4821380,16.63428
+Level of Education,2021,South America,Bolivia (Plurinational State of),76564,1394450,18.21287
+Primary Education,2021,South America,Brazil,772790,15201414,19.67082
+Primary Education,2021,South America,Chile,91385.73,1539846,16.84996
+Primary Education,2021,South America,Colombia,173243,4190726,24.18987
+Primary Education,2021,South America,Ecuador,76140.46,1849678,24.29297
+Primary Education,2021,South America,Guyana,5427,91399,16.84153
+Primary Education,2021,South America,Peru,212859,3834938,18.01633
+Primary Education,2021,South America,Suriname,5068,63325,12.49507
+Primary Education,2021,South America,Uruguay,20537,299722,14.59424

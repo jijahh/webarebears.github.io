@@ -1,0 +1,148 @@
+Level of Education,Year,Continent,Country,Number of teachers,Number of students,Ratio
+Primary Education,2017,Africa,Algeria,"176,809",4283207,24.22505
+Primary Education,2017,Africa,Angola,"103,562",6246294,60.31454
+Primary Education,2017,Africa,Benin,"51,677",2251555,43.56977
+Primary Education,2017,Africa,Burkina Faso,"74,747",3040802,40.68126
+Primary Education,2017,Africa,Burundi,"42,854",2126173,49.61434
+Primary Education,2017,Africa,Cabo Verde,"3,016",63582,21.08156
+Primary Education,2017,Africa,Cameroon,"97,984",4371381,44.61321
+Primary Education,2017,Africa,Central African Republic,"11,334",1028839,90.77457
+Primary Education,2017,Africa,Chad,"39,611",2060946,52.02964
+Primary Education,2017,Africa,Comoros,"6,429",121517,18.90138
+Primary Education,2017,Africa,Côte d'Ivoire,"88,910",3772136,42.42645
+Primary Education,2017,Africa,Djibouti,"2,033",61846,30.42105
+Primary Education,2017,Africa,Egypt,"511,478",12161376,23.77693
+Primary Education,2017,Africa,Equatorial Guinea,"4,491",110684,24.64574
+Primary Education,2017,Africa,Eritrea,"8,842",347009,39.24553
+Primary Education,2017,Africa,Eswatini,"8,928",237451,26.59621
+Primary Education,2017,Africa,Gambia,"8,528",329828,38.67589
+Primary Education,2017,Africa,Ghana,"160,939",4393061,27.29644
+Primary Education,2017,Africa,Guinea,"39,914",1929881,48.35098
+Primary Education,2017,Africa,Lesotho,"11,167",367931,32.94806
+Primary Education,2017,Africa,Liberia,"28,468",635478,22.32254
+Primary Education,2017,Africa,Madagascar,"120,351",5004479,41.58236
+Primary Education,2017,Africa,Mali,"66,418",2538502,38.22009
+Primary Education,2017,Africa,Mauritania,"16,964",616647,36.35033
+Primary Education,2017,Africa,Mauritius,"5,184",92989,17.93769
+Primary Education,2017,Africa,Morocco,"150,198",4210676,28.03417
+Primary Education,2017,Africa,Mozambique,"117,065",6138518,52.43683
+Primary Education,2017,Africa,Namibia,"18,070",476360,26.36193
+Primary Education,2017,Africa,Niger,"76,185",2768305,36.33661
+Primary Education,2017,Africa,Nigeria,"480,112",24543722,51.12083
+Primary Education,2017,Africa,Rwanda,"43,906",2540374,57.85938
+Primary Education,2017,Africa,Sao Tome and Principe,"1,193",37172,31.15842
+Primary Education,2017,Africa,Seychelles,644,9037,14.03261
+Primary Education,2017,Africa,Sierra Leone,"37,703",1486939,39.43821
+Primary Education,2017,Africa,Togo,"37,985",1524191,40.12613
+Primary Education,2017,Africa,Tunisia,"70,630",1170470,16.57185
+Primary Education,2017,Africa,Uganda,"207,238",8840589,42.65911
+Primary Education,2017,Africa,United Republic of Tanzania,"197,563",9315656,47.15284
+Primary Education,2017,Africa,Zambia,"78,099",3284841,42.05996
+Primary Education,2017,Africa,Zimbabwe,"71,242",2676485,37.56892
+Primary Education,2017,Asia,Afghanistan,"132,347",6350404,47.98298
+Primary Education,2017,Asia,Azerbaijan,"39,293",607391,15.458
+Primary Education,2017,Asia,Bahrain,"9,332",113470,12.15924
+Primary Education,2017,Asia,Bangladesh,"574,001",17195385,29.95706
+Primary Education,2017,Asia,Bhutan,"2,565",94184,36.71891
+Primary Education,2017,Asia,Brunei Darussalam,"3,890",39610,10.18252
+Primary Education,2017,Asia,Cambodia,"46,149",2022061,43.81592
+Primary Education,2017,Asia,China,"6,045,682",1.00E+08,16.59383
+Primary Education,2017,Asia,"China, Hong Kong Special Administrative Region","25,599",352469,13.76886
+Primary Education,2017,Asia,"China, Macao Special Administrative Region","2,105",28438,13.50974
+Primary Education,2017,Asia,India,"4,373,417",1.24E+08,28.30919
+Primary Education,2017,Asia,Indonesia,"1,827,213",29351817,16.06371
+Primary Education,2017,Asia,Iran (Islamic Republic of),"286,476",8171667,28.52479
+Primary Education,2017,Asia,Japan,"417,071",6531731,15.66096
+Primary Education,2017,Asia,Jordan,"52,598",1106611,21.03903
+Primary Education,2017,Asia,Kazakhstan,"65,356",1356500,20.75555
+Primary Education,2017,Asia,Kuwait,"31,081",275334,8.858595
+Primary Education,2017,Asia,Kyrgyzstan,"20,110",501011,24.91353
+Primary Education,2017,Asia,Lao People's Democratic Republic,"36,204",808705,22.33745
+Primary Education,2017,Asia,Lebanon,"40,256",502505,12.48274
+Primary Education,2017,Asia,Malaysia,"264,648",3084630,11.6556
+Primary Education,2017,Asia,Maldives,"4,460",45326,10.16278
+Primary Education,2017,Asia,Mongolia,"9,564",288337,30.14816
+Primary Education,2017,Asia,Myanmar,"233,815",5388349,23.04535
+Primary Education,2017,Asia,Nepal,"202,116",3970016,19.64226
+Primary Education,2017,Asia,Oman,"37,916",384001,10.12768
+Primary Education,2017,Asia,Pakistan,"484,267",21686451,44.78201
+Primary Education,2017,Asia,Palestine,"19,298",477204,24.72816
+Primary Education,2017,Asia,Philippines,"482,743",14039867,29.08352
+Primary Education,2017,Asia,Qatar,"12,435",146418,11.77467
+Primary Education,2017,Asia,Republic of Korea,"164,663",2681815,16.28669
+Primary Education,2017,Asia,Saudi Arabia,"264,175",3197141,12.10236
+Primary Education,2017,Asia,Singapore,"15,969",234653,14.69428
+Primary Education,2017,Asia,Sri Lanka,"76,173",1746843,22.93257
+Primary Education,2017,Asia,Tajikistan,"34,575",771040,22.30051
+Primary Education,2017,Asia,Thailand,"293,265.00",4817883,16.42843
+Primary Education,2017,Asia,Timor-Leste,"8,058",222830,27.65421
+Primary Education,2017,Asia,Türkiye,"292,878",4972430,16.97782
+Primary Education,2017,Asia,Uzbekistan,"113,072",2391489,21.15014
+Primary Education,2017,Asia,Viet Nam,397098,7801560,19.64643
+Primary Education,2017,Europe,Albania,"9,743.00",174836,17.94478
+Primary Education,2017,Europe,Andorra,406,4263,10.5
+Primary Education,2017,Europe,Austria,"33,438",334933.2,10.01653
+Primary Education,2017,Europe,Belarus,"22,497",423001,18.80255
+Primary Education,2017,Europe,Belgium,"72,269",814974,11.27695
+Primary Education,2017,Europe,Bosnia and Herzegovina,"9,389",161483,17.19917
+Primary Education,2017,Europe,Bulgaria,"17,393",264503,15.20744
+Primary Education,2017,Europe,Cyprus,"4,640.00",55862,12.03922
+Primary Education,2017,Europe,Estonia,7453,85617,11.48759
+Primary Education,2017,Europe,Finland,"26,633",363990,13.66688
+Primary Education,2017,Europe,Georgia,"33,398",301094,9.01533
+Primary Education,2017,Europe,Germany,"240,170",2954775,12.30285
+Primary Education,2017,Europe,Gibraltar,200.00,2834,14.17
+Primary Education,2017,Europe,Greece,69214,649246,9.38027
+Primary Education,2017,Europe,Italy,"252,806.00",2902379,11.48066
+Primary Education,2017,Europe,Latvia,"10,532",121506,11.53684
+Primary Education,2017,Europe,Liechtenstein,257.00,2005,7.801556
+Primary Education,2017,Europe,Lithuania,"8,425",113881,13.51703
+Primary Education,2017,Europe,Malta,"1,994",25796,12.93931
+Primary Education,2017,Europe,Monaco,193,2018,10.45596
+Primary Education,2017,Europe,Netherlands,"100,110",1181893,11.80592
+Primary Education,2017,Europe,North Macedonia,"7,317",109121,14.91335
+Primary Education,2017,Europe,Norway,"51,737",444638,8.594178
+Primary Education,2017,Europe,Poland,"225,581",2296529,10.18051
+Primary Education,2017,Europe,Portugal,"50,982",629804,12.35346
+Primary Education,2017,Europe,Republic of Moldova,"7,880",139335,17.68211
+Primary Education,2017,Europe,Romania,"48,009",928245,19.33481
+Primary Education,2017,Europe,Russian Federation,"309,219.00",6573633,21.25883
+Primary Education,2017,Europe,Serbia,18829,268952,14.28392
+Primary Education,2017,Europe,Slovakia,"14,507",225427,15.53919
+Primary Education,2017,Europe,Spain,"231,683",3042396,13.13172
+Primary Education,2017,Europe,Sweden,70389,861086,12.23325
+Primary Education,2017,Europe,Switzerland,"51,133",507686,9.928735
+Primary Education,2017,Europe,Ukraine,"126,535",1644263,12.99453
+Primary Education,2017,Europe,United Kingdom of Great Britain and Northern Ireland,"318,533",4820283,15.13275
+Primary Education,2017,North America,Antigua and Barbuda,825,9946,12.05576
+Primary Education,2017,North America,Barbados,"1,446",20384,14.09682
+Primary Education,2017,North America,Belize,"2,630",51512,19.58631
+Primary Education,2017,North America,British Virgin Islands,287,3334,11.61672
+Primary Education,2017,North America,Costa Rica,"40,627",472421,11.62825
+Primary Education,2017,North America,Cuba,"83,125",733770,8.827308
+Primary Education,2017,North America,Dominican Republic,"66,255",1253342,18.91694
+Primary Education,2017,North America,El Salvador,23987,678137,28.27102
+Primary Education,2017,North America,Grenada,832,13464,16.18269
+Primary Education,2017,North America,Guatemala,116396,2348863,20.17993
+Primary Education,2017,North America,Honduras,43908,1123945,25.59773
+Primary Education,2017,North America,Jamaica,11172,246972,22.10634
+Primary Education,2017,North America,Mexico,"573,284.00",14182288,24.73868
+Primary Education,2017,North America,Montserrat,30,452,15.06667
+Primary Education,2017,North America,Panama,"19,072",418852,21.96162
+Primary Education,2017,North America,Saint Lucia,"1,054",16054,15.2315
+Primary Education,2017,North America,Saint Vincent and the Grenadines,905,13026,14.39337
+Primary Education,2017,North America,United States of America,"1,769,451.00",25123677,14.19857
+Primary Education,2017,Oceania,Cook Islands,117,1838,15.7094
+Primary Education,2017,Oceania,Kiribati,655.00,16695,25.48855
+Primary Education,2017,Oceania,Micronesia (Federated States of),642,13854,21.57944
+Primary Education,2017,Oceania,New Zealand,"25,762",384251,14.91552
+Primary Education,2017,Oceania,Solomon Islands,"4,205",108396,25.77788
+Primary Education,2017,South America,Argentina,280094,4753843,16.97231
+Primary Education,2017,South America,Bolivia (Plurinational State of),"76,851",1368580,17.80823
+Primary Education,2017,South America,Brazil,796457,16106812,20.22308
+Primary Education,2017,South America,Chile,85129.62,1514761,17.79358
+Primary Education,2017,South America,Colombia,184384,4351705,23.60132
+Primary Education,2017,South America,Ecuador,78815.91,1929416,24.48003
+Primary Education,2017,South America,Peru,197603,3544359,17.93677
+Primary Education,2017,South America,Suriname,5309,68612,12.92371
+Primary Education,2017,South America,Uruguay,27616,304309,11.0193

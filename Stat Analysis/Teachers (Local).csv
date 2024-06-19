@@ -1,0 +1,256 @@
+Amount,School Year,Region,Grade Level
+"24,237",2016-2017,Region I - Ilocos Region,Elementary
+"18,098",2016-2017,Region II - Cagayan Valley,Elementary
+"43,342",2016-2017,Region III - Central Luzon,Elementary
+"49,530",2016-2017,Region IV-A - CALABARZON,Elementary
+"16,982",2016-2017,Region IV-B - MIMAROPA,Elementary
+"33,594",2016-2017,Region V - Bicol Region,Elementary
+"38,203",2016-2017,Region VI - Western Visayas,Elementary
+"34,372",2016-2017,Region VII - Central Visayas,Elementary
+"27,765",2016-2017,Region VIII - Eastern Visayas,Elementary
+"20,879",2016-2017,Region IX - Zamboanga Peninsula,Elementary
+"22,996",2016-2017,Region X - Northern Mindanao,Elementary
+"22,184",2016-2017,Region XI - Davao Region,Elementary
+"21,705",2016-2017,Region XII - Soccsksargen,Elementary
+"15,055",2016-2017,CARAGA - CARAGA,Elementary
+"15,361",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Elementary
+"9,838",2016-2017,CAR - Cordillera Administrative Region,Elementary
+"35,993",2016-2017,NCR - National Capital Region,Elementary
+"24,768",2017-2018,Region I - Ilocos Region,Elementary
+"18,420",2017-2018,Region II - Cagayan Valley,Elementary
+"44,493",2017-2018,Region III - Central Luzon,Elementary
+"51,167",2017-2018,Region IV-A - CALABARZON,Elementary
+"17,394",2017-2018,Region IV-B - MIMAROPA,Elementary
+"34,463",2017-2018,Region V - Bicol Region,Elementary
+"38,947",2017-2018,Region VI - Western Visayas,Elementary
+"35,385",2017-2018,Region VII - Central Visayas,Elementary
+"28,516",2017-2018,Region VIII - Eastern Visayas,Elementary
+"21,592",2017-2018,Region IX - Zamboanga Peninsula,Elementary
+"23,857",2017-2018,Region X - Northern Mindanao,Elementary
+"23,257",2017-2018,Region XI - Davao Region,Elementary
+"22,384",2017-2018,Region XII - Soccsksargen,Elementary
+"15,647",2017-2018,CARAGA - CARAGA,Elementary
+"14,811",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Elementary
+"10,007",2017-2018,CAR - Cordillera Administrative Region,Elementary
+"37,191",2017-2018,NCR - National Capital Region,Elementary
+"25,737",2018-2019,Region I - Ilocos Region,Elementary
+"19,289",2018-2019,Region II - Cagayan Valley,Elementary
+"48,160",2018-2019,Region III - Central Luzon,Elementary
+"55,041",2018-2019,Region IV-A - CALABARZON,Elementary
+"17,946",2018-2019,Region IV-B - MIMAROPA,Elementary
+"35,681",2018-2019,Region V - Bicol Region,Elementary
+"40,507",2018-2019,Region VI - Western Visayas,Elementary
+"37,766",2018-2019,Region VII - Central Visayas,Elementary
+"30,034",2018-2019,Region VIII - Eastern Visayas,Elementary
+"21,505",2018-2019,Region IX - Zamboanga Peninsula,Elementary
+"24,781",2018-2019,Region X - Northern Mindanao,Elementary
+"24,489",2018-2019,Region XI - Davao Region,Elementary
+"24,097",2018-2019,Region XII - Soccsksargen,Elementary
+"16,529",2018-2019,CARAGA - CARAGA,Elementary
+"15,863",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Elementary
+"10,349",2018-2019,CAR - Cordillera Administrative Region,Elementary
+"36,632",2018-2019,NCR - National Capital Region,Elementary
+"25,955",2019-2020,Region I - Ilocos Region,Elementary
+"19,546",2019-2020,Region II - Cagayan Valley,Elementary
+"48,812",2019-2020,Region III - Central Luzon,Elementary
+"57,348",2019-2020,Region IV-A - CALABARZON,Elementary
+"18,509",2019-2020,Region IV-B - MIMAROPA,Elementary
+"36,886",2019-2020,Region V - Bicol Region,Elementary
+"41,336",2019-2020,Region VI - Western Visayas,Elementary
+"39,516",2019-2020,Region VII - Central Visayas,Elementary
+"30,273",2019-2020,Region VIII - Eastern Visayas,Elementary
+"22,624",2019-2020,Region IX - Zamboanga Peninsula,Elementary
+"25,494",2019-2020,Region X - Northern Mindanao,Elementary
+"25,098",2019-2020,Region XI - Davao Region,Elementary
+"24,475",2019-2020,Region XII - Soccsksargen,Elementary
+"16,700",2019-2020,CARAGA - CARAGA,Elementary
+"16,348",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Elementary
+"10,610",2019-2020,CAR - Cordillera Administrative Region,Elementary
+"37,670",2019-2020,NCR - National Capital Region,Elementary
+"26,699",2020-2021,Region I - Ilocos Region,Elementary
+"20,534",2020-2021,Region II - Cagayan Valley,Elementary
+"49,911",2020-2021,Region III - Central Luzon,Elementary
+"60,421",2020-2021,Region IV-A - CALABARZON,Elementary
+"19,277",2020-2021,Region IV-B - MIMAROPA,Elementary
+"38,012",2020-2021,Region V - Bicol Region,Elementary
+"42,132",2020-2021,Region VI - Western Visayas,Elementary
+"40,653",2020-2021,Region VII - Central Visayas,Elementary
+"30,620",2020-2021,Region VIII - Eastern Visayas,Elementary
+"23,305",2020-2021,Region IX - Zamboanga Peninsula,Elementary
+"26,810",2020-2021,Region X - Northern Mindanao,Elementary
+"26,010",2020-2021,Region XI - Davao Region,Elementary
+"25,244",2020-2021,Region XII - Soccsksargen,Elementary
+"17,440",2020-2021,CARAGA - CARAGA,Elementary
+"17,228",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Elementary
+"11,007",2020-2021,CAR - Cordillera Administrative Region,Elementary
+"38,796",2020-2021,NCR - National Capital Region,Elementary
+"13,006",2016-2017,Region I - Ilocos Region,Junior High School
+"8,670",2016-2017,Region II - Cagayan Valley,Junior High School
+"25,270",2016-2017,Region III - Central Luzon,Junior High School
+"29,975",2016-2017,Region IV-A - CALABARZON,Junior High School
+"8,083",2016-2017,Region IV-B - MIMAROPA,Junior High School
+"17,142",2016-2017,Region V - Bicol Region,Junior High School
+"19,539",2016-2017,Region VI - Western Visayas,Junior High School
+"18,940",2016-2017,Region VII - Central Visayas,Junior High School
+"12,907",2016-2017,Region VIII - Eastern Visayas,Junior High School
+"9,170",2016-2017,Region IX - Zamboanga Peninsula,Junior High School
+"10,300",2016-2017,Region X - Northern Mindanao,Junior High School
+"10,520",2016-2017,Region XI - Davao Region,Junior High School
+"10,446",2016-2017,Region XII - Soccsksargen,Junior High School
+"7,323",2016-2017,CARAGA - CARAGA,Junior High School
+"4,447",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Junior High School
+"4,728",2016-2017,CAR - Cordillera Administrative Region,Junior High School
+"26,617",2016-2017,NCR - National Capital Region,Junior High School
+"13,471",2017-2018,Region I - Ilocos Region,Junior High School
+"8,930",2017-2018,Region II - Cagayan Valley,Junior High School
+"25,948",2017-2018,Region III - Central Luzon,Junior High School
+"31,166",2017-2018,Region IV-A - CALABARZON,Junior High School
+"8,607",2017-2018,Region IV-B - MIMAROPA,Junior High School
+"17,566",2017-2018,Region V - Bicol Region,Junior High School
+"20,036",2017-2018,Region VI - Western Visayas,Junior High School
+"20,229",2017-2018,Region VII - Central Visayas,Junior High School
+"13,268",2017-2018,Region VIII - Eastern Visayas,Junior High School
+"9,466",2017-2018,Region IX - Zamboanga Peninsula,Junior High School
+"10,310",2017-2018,Region X - Northern Mindanao,Junior High School
+"11,321",2017-2018,Region XI - Davao Region,Junior High School
+"11,003",2017-2018,Region XII - Soccsksargen,Junior High School
+"7,826",2017-2018,CARAGA - CARAGA,Junior High School
+"4,732",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Junior High School
+"4,564",2017-2018,CAR - Cordillera Administrative Region,Junior High School
+"27,652",2017-2018,NCR - National Capital Region,Junior High School
+"13,916",2018-2019,Region I - Ilocos Region,Junior High School
+"9,564",2018-2019,Region II - Cagayan Valley,Junior High School
+"28,299",2018-2019,Region III - Central Luzon,Junior High School
+"34,583",2018-2019,Region IV-A - CALABARZON,Junior High School
+"9,430",2018-2019,Region IV-B - MIMAROPA,Junior High School
+"19,481",2018-2019,Region V - Bicol Region,Junior High School
+"21,956",2018-2019,Region VI - Western Visayas,Junior High School
+"21,089",2018-2019,Region VII - Central Visayas,Junior High School
+"15,195",2018-2019,Region VIII - Eastern Visayas,Junior High School
+"10,517",2018-2019,Region IX - Zamboanga Peninsula,Junior High School
+"11,271",2018-2019,Region X - Northern Mindanao,Junior High School
+"13,149",2018-2019,Region XI - Davao Region,Junior High School
+"12,108",2018-2019,Region XII - Soccsksargen,Junior High School
+"8,731",2018-2019,CARAGA - CARAGA,Junior High School
+"4,965",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Junior High School
+"4,733",2018-2019,CAR - Cordillera Administrative Region,Junior High School
+"29,540",2018-2019,NCR - National Capital Region,Junior High School
+"14,741",2019-2020,Region I - Ilocos Region,Junior High School
+"9,535",2019-2020,Region II - Cagayan Valley,Junior High School
+"28,892",2019-2020,Region III - Central Luzon,Junior High School
+"35,036",2019-2020,Region IV-A - CALABARZON,Junior High School
+"10,212",2019-2020,Region IV-B - MIMAROPA,Junior High School
+"20,246",2019-2020,Region V - Bicol Region,Junior High School
+"22,567",2019-2020,Region VI - Western Visayas,Junior High School
+"22,526",2019-2020,Region VII - Central Visayas,Junior High School
+"15,498",2019-2020,Region VIII - Eastern Visayas,Junior High School
+"11,001",2019-2020,Region IX - Zamboanga Peninsula,Junior High School
+"11,830",2019-2020,Region X - Northern Mindanao,Junior High School
+"13,683",2019-2020,Region XI - Davao Region,Junior High School
+"12,681",2019-2020,Region XII - Soccsksargen,Junior High School
+"9,018",2019-2020,CARAGA - CARAGA,Junior High School
+"5,236",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Junior High School
+"4,808",2019-2020,CAR - Cordillera Administrative Region,Junior High School
+"29,883",2019-2020,NCR - National Capital Region,Junior High School
+"15,117",2020-2021,Region I - Ilocos Region,Junior High School
+"10,127",2020-2021,Region II - Cagayan Valley,Junior High School
+"29,860",2020-2021,Region III - Central Luzon,Junior High School
+"36,551",2020-2021,Region IV-A - CALABARZON,Junior High School
+"10,325",2020-2021,Region IV-B - MIMAROPA,Junior High School
+"21,228",2020-2021,Region V - Bicol Region,Junior High School
+"23,296",2020-2021,Region VI - Western Visayas,Junior High School
+"24,145",2020-2021,Region VII - Central Visayas,Junior High School
+"15,841",2020-2021,Region VIII - Eastern Visayas,Junior High School
+"11,756",2020-2021,Region IX - Zamboanga Peninsula,Junior High School
+"12,888",2020-2021,Region X - Northern Mindanao,Junior High School
+"14,773",2020-2021,Region XI - Davao Region,Junior High School
+"12,774",2020-2021,Region XII - Soccsksargen,Junior High School
+"9,356",2020-2021,CARAGA - CARAGA,Junior High School
+"5,505",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Junior High School
+"5,128",2020-2021,CAR - Cordillera Administrative Region,Junior High School
+"30,017",2020-2021,NCR - National Capital Region,Junior High School
+"2,082",2016-2017,Region I - Ilocos Region,Senior High School
+"1,246",2016-2017,Region II - Cagayan Valley,Senior High School
+"4,011",2016-2017,Region III - Central Luzon,Senior High School
+"4,942",2016-2017,Region IV-A - CALABARZON,Senior High School
+"1,471",2016-2017,Region IV-B - MIMAROPA,Senior High School
+"2,634",2016-2017,Region V - Bicol Region,Senior High School
+"3,127",2016-2017,Region VI - Western Visayas,Senior High School
+"2,858",2016-2017,Region VII - Central Visayas,Senior High School
+"1,994",2016-2017,Region VIII - Eastern Visayas,Senior High School
+"1,310",2016-2017,Region IX - Zamboanga Peninsula,Senior High School
+"1,564",2016-2017,Region X - Northern Mindanao,Senior High School
+"1,609",2016-2017,Region XI - Davao Region,Senior High School
+"1,598",2016-2017,Region XII - Soccsksargen,Senior High School
+"1,071",2016-2017,CARAGA - CARAGA,Senior High School
+934,2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Senior High School
+645,2016-2017,CAR - Cordillera Administrative Region,Senior High School
+"3,692",2016-2017,NCR - National Capital Region,Senior High School
+"3,594",2017-2018,Region I - Ilocos Region,Senior High School
+"2,276",2017-2018,Region II - Cagayan Valley,Senior High School
+"5,415",2017-2018,Region III - Central Luzon,Senior High School
+"5,152",2017-2018,Region IV-A - CALABARZON,Senior High School
+"2,159",2017-2018,Region IV-B - MIMAROPA,Senior High School
+"3,363",2017-2018,Region V - Bicol Region,Senior High School
+"4,639",2017-2018,Region VI - Western Visayas,Senior High School
+"3,264",2017-2018,Region VII - Central Visayas,Senior High School
+"3,454",2017-2018,Region VIII - Eastern Visayas,Senior High School
+"1,399",2017-2018,Region IX - Zamboanga Peninsula,Senior High School
+"2,027",2017-2018,Region X - Northern Mindanao,Senior High School
+"2,123",2017-2018,Region XI - Davao Region,Senior High School
+"2,707",2017-2018,Region XII - Soccsksargen,Senior High School
+"1,703",2017-2018,CARAGA - CARAGA,Senior High School
+600,2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Senior High School
+842,2017-2018,CAR - Cordillera Administrative Region,Senior High School
+"2,462",2017-2018,NCR - National Capital Region,Senior High School
+"3,899",2018-2019,Region I - Ilocos Region,Senior High School
+"2,715",2018-2019,Region II - Cagayan Valley,Senior High School
+"6,068",2018-2019,Region III - Central Luzon,Senior High School
+"5,951",2018-2019,Region IV-A - CALABARZON,Senior High School
+"2,444",2018-2019,Region IV-B - MIMAROPA,Senior High School
+"4,662",2018-2019,Region V - Bicol Region,Senior High School
+"5,701",2018-2019,Region VI - Western Visayas,Senior High School
+"3,756",2018-2019,Region VII - Central Visayas,Senior High School
+"3,774",2018-2019,Region VIII - Eastern Visayas,Senior High School
+"1,928",2018-2019,Region IX - Zamboanga Peninsula,Senior High School
+"2,367",2018-2019,Region X - Northern Mindanao,Senior High School
+"2,566",2018-2019,Region XI - Davao Region,Senior High School
+"2,894",2018-2019,Region XII - Soccsksargen,Senior High School
+"2,104",2018-2019,CARAGA - CARAGA,Senior High School
+393,2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Senior High School
+668,2018-2019,CAR - Cordillera Administrative Region,Senior High School
+"3,266",2018-2019,NCR - National Capital Region,Senior High School
+"4,507",2019-2020,Region I - Ilocos Region,Senior High School
+"2,868",2019-2020,Region II - Cagayan Valley,Senior High School
+"6,405",2019-2020,Region III - Central Luzon,Senior High School
+"6,470",2019-2020,Region IV-A - CALABARZON,Senior High School
+"2,687",2019-2020,Region IV-B - MIMAROPA,Senior High School
+"5,441",2019-2020,Region V - Bicol Region,Senior High School
+"6,166",2019-2020,Region VI - Western Visayas,Senior High School
+"4,454",2019-2020,Region VII - Central Visayas,Senior High School
+"4,188",2019-2020,Region VIII - Eastern Visayas,Senior High School
+"2,290",2019-2020,Region IX - Zamboanga Peninsula,Senior High School
+"2,594",2019-2020,Region X - Northern Mindanao,Senior High School
+"2,978",2019-2020,Region XI - Davao Region,Senior High School
+"3,278",2019-2020,Region XII - Soccsksargen,Senior High School
+"2,421",2019-2020,CARAGA - CARAGA,Senior High School
+610,2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Senior High School
+908,2019-2020,CAR - Cordillera Administrative Region,Senior High School
+"3,335",2019-2020,NCR - National Capital Region,Senior High School
+"5,138",2020-2021,Region I - Ilocos Region,Senior High School
+"3,441",2020-2021,Region II - Cagayan Valley,Senior High School
+"7,357",2020-2021,Region III - Central Luzon,Senior High School
+"7,536",2020-2021,Region IV-A - CALABARZON,Senior High School
+"3,127",2020-2021,Region IV-B - MIMAROPA,Senior High School
+"6,696",2020-2021,Region V - Bicol Region,Senior High School
+"7,060",2020-2021,Region VI - Western Visayas,Senior High School
+"6,144",2020-2021,Region VII - Central Visayas,Senior High School
+"4,735",2020-2021,Region VIII - Eastern Visayas,Senior High School
+"3,236",2020-2021,Region IX - Zamboanga Peninsula,Senior High School
+"3,414",2020-2021,Region X - Northern Mindanao,Senior High School
+"3,365",2020-2021,Region XI - Davao Region,Senior High School
+"3,691",2020-2021,Region XII - Soccsksargen,Senior High School
+"3,106",2020-2021,CARAGA - CARAGA,Senior High School
+755,2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Senior High School
+"1,258",2020-2021,CAR - Cordillera Administrative Region,Senior High School
+"3,997",2020-2021,NCR - National Capital Region,Senior High School

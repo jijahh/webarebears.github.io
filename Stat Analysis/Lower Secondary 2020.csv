@@ -1,0 +1,98 @@
+Level of Education,Year,Continent,Country,Number of teachers,Number of students,Ratio
+Lower Secondary Education,2020,Africa,Burkina Faso,50148,1049792,20.93388
+Lower Secondary Education,2020,Africa,Cabo Verde,1896,32765,17.28112
+Lower Secondary Education,2020,Africa,Djibouti,1485,44811,30.17576
+Lower Secondary Education,2020,Africa,Egypt,297967,5636796,18.91752
+Lower Secondary Education,2020,Africa,Gambia,7422,111752,15.05686
+Lower Secondary Education,2020,Africa,Ghana,147244,1751901,11.89794
+Lower Secondary Education,2020,Africa,Liberia,11550,168379,14.57827
+Lower Secondary Education,2020,Africa,Mali,34268,718943,20.98001
+Lower Secondary Education,2020,Africa,Morocco,79478,1862787,23.43777
+Lower Secondary Education,2020,Africa,Nigeria,409871,7422948,18.11045
+Lower Secondary Education,2020,Africa,Senegal,19380,826277,42.63555
+Lower Secondary Education,2020,Africa,Sierra Leone,19734,467585,23.69439
+Lower Secondary Education,2020,Africa,South Africa,78846.32,2152857,27.30447
+Lower Secondary Education,2020,Africa,Tunisia,37999,545906,14.36633
+Lower Secondary Education,2020,Asia,Armenia,11166,174014,15.58427
+Lower Secondary Education,2020,Asia,Azerbaijan,90894,691493,7.607686
+Lower Secondary Education,2020,Asia,Bangladesh,200448,8105296,40.4359
+Lower Secondary Education,2020,Asia,Bhutan,4116,52112,12.66084
+Lower Secondary Education,2020,Asia,Cambodia,14368,656949,45.72307
+Lower Secondary Education,2020,Asia,China,3819658,48450047,12.68439
+Lower Secondary Education,2020,Asia,"China, Macao Special Administrative Region",1333,14097,10.57539
+Lower Secondary Education,2020,Asia,India,3505404,64881897,18.50911
+Lower Secondary Education,2020,Asia,Indonesia,675733,13780237,20.39302
+Lower Secondary Education,2020,Asia,Israel,31266.96,439477,14.05564
+Lower Secondary Education,2020,Asia,Japan,279418,3278467,11.7332
+Lower Secondary Education,2020,Asia,Jordan,41351,643339,15.558
+Lower Secondary Education,2020,Asia,Lao People's Democratic Republic,24539,431319,17.57688
+Lower Secondary Education,2020,Asia,Nepal,55881,1816776,32.51152
+Lower Secondary Education,2020,Asia,Palestine,31441,558750,17.77138
+Lower Secondary Education,2020,Asia,Philippines,356526,8501213,23.84458
+Lower Secondary Education,2020,Asia,Qatar,5004,64823,12.95424
+Lower Secondary Education,2020,Asia,Republic of Korea,102682,1327235,12.92568
+Lower Secondary Education,2020,Asia,Saudi Arabia,122559,1424812,11.62552
+Lower Secondary Education,2020,Asia,Sri Lanka,79096,1401075,17.7136
+Lower Secondary Education,2020,Asia,Thailand,132918,2996525,22.54416
+Lower Secondary Education,2020,Asia,Timor-Leste,3471.33,89335,25.73509
+Lower Secondary Education,2020,Asia,Türkiye,371590,5701564,15.3437
+Lower Secondary Education,2020,Asia,United Arab Emirates,27851,357415,12.83311
+Lower Secondary Education,2020,Asia,Uzbekistan,277525,2738392,9.86719
+Lower Secondary Education,2020,Asia,Viet Nam,284139,5599918,19.70838
+Lower Secondary Education,2020,Europe,Albania,14702,132709,9.026595
+Lower Secondary Education,2020,Europe,Austria,43843.29,341516,7.78947
+Lower Secondary Education,2020,Europe,Belarus,51300,490763,9.56653
+Lower Secondary Education,2020,Europe,Belgium,51092,440421,8.620156
+Lower Secondary Education,2020,Europe,Bosnia and Herzegovina,14918,121701,8.157997
+Lower Secondary Education,2020,Europe,Bulgaria,18227,198514,10.89121
+Lower Secondary Education,2020,Europe,Croatia,25089,176472,7.03384
+Lower Secondary Education,2020,Europe,Cyprus,3535,28267,7.996322
+Lower Secondary Education,2020,Europe,Denmark,27361,243090,8.884544
+Lower Secondary Education,2020,Europe,Estonia,4817.47,42754.58,8.874904
+Lower Secondary Education,2020,Europe,Finland,21811,186665,8.558296
+Lower Secondary Education,2020,Europe,Georgia,17455,142226,8.148152
+Lower Secondary Education,2020,Europe,Germany,421125.2,4478174,10.63383
+Lower Secondary Education,2020,Europe,Greece,42701,332800,7.793728
+Lower Secondary Education,2020,Europe,Hungary,37696,393848,10.44801
+Lower Secondary Education,2020,Europe,Iceland,1448,13422,9.269337
+Lower Secondary Education,2020,Europe,Italy,175385,1777516,10.13494
+Lower Secondary Education,2020,Europe,Latvia,7089,58130,8.200028
+Lower Secondary Education,2020,Europe,Liechtenstein,273,1567,5.739927
+Lower Secondary Education,2020,Europe,Lithuania,20849,164579,7.893856
+Lower Secondary Education,2020,Europe,Malta,1960.3,13306.5,6.787992
+Lower Secondary Education,2020,Europe,Monaco,199,1853,9.311558
+Lower Secondary Education,2020,Europe,Netherlands,57628.37,771962,13.39552
+Lower Secondary Education,2020,Europe,North Macedonia,11126,79951,7.185961
+Lower Secondary Education,2020,Europe,Norway,25442.86,200606,7.88457
+Lower Secondary Education,2020,Europe,Poland,186449,1744202,9.354848
+Lower Secondary Education,2020,Europe,Portugal,40857,348892,8.539345
+Lower Secondary Education,2020,Europe,Republic of Moldova,15481,158637,10.24721
+Lower Secondary Education,2020,Europe,Romania,68347,718564,10.51347
+Lower Secondary Education,2020,Europe,San Marino,155,1008,6.503226
+Lower Secondary Education,2020,Europe,Serbia,36733,263204,7.165328
+Lower Secondary Education,2020,Europe,Slovakia,23681,262951,11.10388
+Lower Secondary Education,2020,Europe,Spain,148661,1702246,11.45052
+Lower Secondary Education,2020,Europe,Sweden,37348,398179.4,10.66133
+Lower Secondary Education,2020,Europe,Switzerland,30795,258850,8.405585
+Lower Secondary Education,2020,Europe,United Kingdom of Great Britain and Northern Ireland,148946.9,2689098,18.05407
+Lower Secondary Education,2020,North America,Barbados,594,10872,18.30303
+Lower Secondary Education,2020,North America,Belize,1797,29816,16.5921
+Lower Secondary Education,2020,North America,Cayman Islands,176.1,1931,10.96536
+Lower Secondary Education,2020,North America,Costa Rica,22768,292149,12.83156
+Lower Secondary Education,2020,North America,Cuba,37142,337127,9.076706
+Lower Secondary Education,2020,North America,Guatemala,62555,763565,12.2063
+Lower Secondary Education,2020,North America,Mexico,444371,8164773,18.37378
+Lower Secondary Education,2020,North America,Saint Lucia,628,6610,10.52548
+Lower Secondary Education,2020,North America,United States of America,888006.6,12935200,14.56656
+Lower Secondary Education,2020,Oceania,Kiribati,410,7756,18.91707
+Lower Secondary Education,2020,Oceania,Marshall Islands,503,2643,5.254473
+Lower Secondary Education,2020,Oceania,Micronesia (Federated States of),537,3574,6.655493
+Lower Secondary Education,2020,Oceania,Nauru,8,792,99
+Lower Secondary Education,2020,Oceania,New Zealand,18045.71,270892,15.01144
+Lower Secondary Education,2020,Oceania,Niue,5,105,21
+Lower Secondary Education,2020,Oceania,Tokelau,15,176,11.73333
+Lower Secondary Education,2020,South America,Brazil,753044,13102388,17.39923
+Lower Secondary Education,2020,South America,Chile,28537.27,523710,18.35179
+Lower Secondary Education,2020,South America,Colombia,123222,3474033,28.19329
+Lower Secondary Education,2020,South America,Ecuador,41400.06,983718,23.76127
+Lower Secondary Education,2020,South America,Suriname,3114,37464,12.03083

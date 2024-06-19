@@ -1,0 +1,103 @@
+Level of Education,Year,Continent,Country,Number of teachers,Number of students,Ratio
+Lower Secondary Education,2018,Africa,Burkina Faso,45431,1050354,23.11976
+Lower Secondary Education,2018,Africa,Burundi,10702,381966,35.69109
+Lower Secondary Education,2018,Africa,Cabo Verde,2048,32123,15.68506
+Lower Secondary Education,2018,Africa,Chad,10366,359618,34.69207
+Lower Secondary Education,2018,Africa,Comoros,5538,50755,9.164861
+Lower Secondary Education,2018,Africa,Congo,19320,346144,17.91636
+Lower Secondary Education,2018,Africa,Djibouti,1418,40857,28.81312
+Lower Secondary Education,2018,Africa,Egypt,310995,5215559,16.77056
+Lower Secondary Education,2018,Africa,Eritrea,4322,174356,40.34151
+Lower Secondary Education,2018,Africa,Gambia,5074,98108,19.33544
+Lower Secondary Education,2018,Africa,Ghana,123045,1646374,13.38026
+Lower Secondary Education,2018,Africa,Madagascar,58607,1156820,19.7386
+Lower Secondary Education,2018,Africa,Mali,23636,702660,29.72838
+Lower Secondary Education,2018,Africa,Mauritania,4321,162471,37.60032
+Lower Secondary Education,2018,Africa,Morocco,77973,1765179,22.63834
+Lower Secondary Education,2018,Africa,Nigeria,382346,6841953,17.89466
+Lower Secondary Education,2018,Africa,Rwanda,13922,422093,30.31842
+Lower Secondary Education,2018,Africa,Sierra Leone,20250,315500,15.58025
+Lower Secondary Education,2018,Africa,Tunisia,37408,509713,13.62578
+Lower Secondary Education,2018,Asia,Afghanistan,58539,1982869,33.87261
+Lower Secondary Education,2018,Asia,Armenia,13777,165734,12.02976
+Lower Secondary Education,2018,Asia,Azerbaijan,89180,623467,6.991108
+Lower Secondary Education,2018,Asia,Bahrain,4655,52650,11.31042
+Lower Secondary Education,2018,Asia,Bhutan,4368,55327,12.66644
+Lower Secondary Education,2018,Asia,Brunei Darussalam,1456,13933,9.569368
+Lower Secondary Education,2018,Asia,Cambodia,29011,605097,20.8575
+Lower Secondary Education,2018,Asia,China,3618804,44601929,12.32505
+Lower Secondary Education,2018,Asia,"China, Macao Special Administrative Region",1239,12829,10.35432
+Lower Secondary Education,2018,Asia,India,2625507,65448214,24.92784
+Lower Secondary Education,2018,Asia,Indonesia,889803,13719808,15.41893
+Lower Secondary Education,2018,Asia,Israel,30021,432648,14.41151
+Lower Secondary Education,2018,Asia,Japan,280827,3388130,12.06483
+Lower Secondary Education,2018,Asia,Jordan,40460,588696,14.55007
+Lower Secondary Education,2018,Asia,Lao People's Democratic Republic,25892,448658,17.32805
+Lower Secondary Education,2018,Asia,Maldives,2984,16289,5.45878
+Lower Secondary Education,2018,Asia,Myanmar,106459,3058732,28.73155
+Lower Secondary Education,2018,Asia,Oman,31973,331686,10.37394
+Lower Secondary Education,2018,Asia,Pakistan,448074,7362135,16.43062
+Lower Secondary Education,2018,Asia,Palestine,28690,533831,18.60687
+Lower Secondary Education,2018,Asia,Philippines,325226,7826794,24.06571
+Lower Secondary Education,2018,Asia,Qatar,5064,59059,11.66252
+Lower Secondary Education,2018,Asia,Republic of Korea,102780,1345861,13.09458
+Lower Secondary Education,2018,Asia,Saudi Arabia,131645,1391450,10.56971
+Lower Secondary Education,2018,Asia,Sri Lanka,81609,1388002,17.00795
+Lower Secondary Education,2018,Asia,Thailand,126483,3123554,24.69545
+Lower Secondary Education,2018,Asia,Timor-Leste,3324.742,89598,26.94886
+Lower Secondary Education,2018,Asia,Türkiye,339850,5590134,16.44883
+Lower Secondary Education,2018,Asia,Uzbekistan,220128,2497050,11.34363
+Lower Secondary Education,2018,Asia,Viet Nam,306110,5373639,17.5546
+Lower Secondary Education,2018,Europe,Albania,15067,148810,9.876551
+Lower Secondary Education,2018,Europe,Belarus,53577,451073,8.419154
+Lower Secondary Education,2018,Europe,Belgium,49641,428690,8.635805
+Lower Secondary Education,2018,Europe,Bosnia and Herzegovina,14562,123566,8.48551
+Lower Secondary Education,2018,Europe,Bulgaria,17318,200538,11.57974
+Lower Secondary Education,2018,Europe,Croatia,23865,174506,7.312215
+Lower Secondary Education,2018,Europe,Cyprus,3096,26826,8.664729
+Lower Secondary Education,2018,Europe,Denmark,26734,240450,8.994165
+Lower Secondary Education,2018,Europe,Estonia,4449,39280.33,8.829025
+Lower Secondary Education,2018,Europe,Finland,20341,181468,8.921292
+Lower Secondary Education,2018,Europe,Georgia,17760,147101,8.282714
+Lower Secondary Education,2018,Europe,Germany,413060,4524853,10.95447
+Lower Secondary Education,2018,Europe,Greece,41847,323303,7.725835
+Lower Secondary Education,2018,Europe,Iceland,1361,12774,9.385746
+Lower Secondary Education,2018,Europe,Italy,173246,1775876,10.2506
+Lower Secondary Education,2018,Europe,Latvia,7419,56501,7.615716
+Lower Secondary Education,2018,Europe,Liechtenstein,274,1527,5.572993
+Lower Secondary Education,2018,Europe,Lithuania,21732,164367,7.563363
+Lower Secondary Education,2018,Europe,Luxembourg,2222,22455,10.10576
+Lower Secondary Education,2018,Europe,Monaco,180,1864,10.35556
+Lower Secondary Education,2018,Europe,Netherlands,58416.23,802327,13.73466
+Lower Secondary Education,2018,Europe,North Macedonia,11178,83871,7.503221
+Lower Secondary Education,2018,Europe,Norway,24809.6,195481,7.879248
+Lower Secondary Education,2018,Europe,Poland,86459,1102661,12.75357
+Lower Secondary Education,2018,Europe,Portugal,39990,366044,9.153388
+Lower Secondary Education,2018,Europe,Republic of Moldova,16396,160232,9.772627
+Lower Secondary Education,2018,Europe,Romania,68248,730037,10.69683
+Lower Secondary Education,2018,Europe,San Marino,152,954,6.276316
+Lower Secondary Education,2018,Europe,Serbia,36305,283160,7.799477
+Lower Secondary Education,2018,Europe,Slovakia,23018,254233,11.04496
+Lower Secondary Education,2018,Europe,Spain,139938,1662286,11.87873
+Lower Secondary Education,2018,Europe,Sweden,36299,382256,10.53076
+Lower Secondary Education,2018,Europe,Switzerland,30577,256131,8.37659
+Lower Secondary Education,2018,Europe,United Kingdom of Great Britain and Northern Ireland,150036.6,2619718,17.46053
+Lower Secondary Education,2018,North America,Bahamas,1078,13603,12.61874
+Lower Secondary Education,2018,North America,Barbados,547,11195,20.46618
+Lower Secondary Education,2018,North America,Belize,1775,30732,17.3138
+Lower Secondary Education,2018,North America,Cayman Islands,164,1898,11.57317
+Lower Secondary Education,2018,North America,Costa Rica,23423,293326,12.52299
+Lower Secondary Education,2018,North America,Cuba,38560,374471,9.711385
+Lower Secondary Education,2018,North America,El Salvador,11101,308565,27.79614
+Lower Secondary Education,2018,North America,Grenada,438,5605,12.7968
+Lower Secondary Education,2018,North America,Guatemala,65176,805074,12.35231
+Lower Secondary Education,2018,North America,Puerto Rico,6551,109611,16.73195
+Lower Secondary Education,2018,North America,Saint Lucia,608,6837,11.24507
+Lower Secondary Education,2018,North America,United States of America,877106.7,12681766,14.45864
+Lower Secondary Education,2018,Oceania,Micronesia (Federated States of),642,4212,6.560748
+Lower Secondary Education,2018,Oceania,New Zealand,16951.69,253919,14.97898
+Lower Secondary Education,2018,Oceania,Tuvalu,76,598,7.868421
+Lower Secondary Education,2018,South America,Brazil,763031,13340212,17.48318
+Lower Secondary Education,2018,South America,Chile,27644.01,501357,18.13619
+Lower Secondary Education,2018,South America,Ecuador,42995.89,979570,22.78288
+Lower Secondary Education,2018,South America,Suriname,2722,38703,14.21859

@@ -1,0 +1,97 @@
+Level of Education,Year,Continent,Country,Number of teachers,Number of students,Ratio
+Upper Secondary Education,2018,Africa,Burkina Faso,9976,230653,23.12079
+Upper Secondary Education,2018,Africa,Burundi,14670,292889,19.96517
+Upper Secondary Education,2018,Africa,Cabo Verde,1412,21232,15.03683
+Upper Secondary Education,2018,Africa,Chad,9772,152223,15.57747
+Upper Secondary Education,2018,Africa,Comoros,3332,22940,6.884754
+Upper Secondary Education,2018,Africa,Congo,6527,170818,26.17098
+Upper Secondary Education,2018,Africa,Djibouti,1145,24287,21.21135
+Upper Secondary Education,2018,Africa,Egypt,291584,3921230,13.44803
+Upper Secondary Education,2018,Africa,Eritrea,3114,86065,27.63809
+Upper Secondary Education,2018,Africa,Ghana,44105,1030771,23.37084
+Upper Secondary Education,2018,Africa,Madagascar,21620,391388,18.10305
+Upper Secondary Education,2018,Africa,Mauritania,4815,74304,15.43178
+Upper Secondary Education,2018,Africa,Morocco,69832,1105864,15.83606
+Upper Secondary Education,2018,Africa,Nigeria,393702,4532131,11.51158
+Upper Secondary Education,2018,Africa,South Africa,101001.6,2891844,28.63167
+Upper Secondary Education,2018,Africa,Sudan,71881,1107886,15.41278
+Upper Secondary Education,2018,Asia,Afghanistan,33600,1081020,32.17321
+Upper Secondary Education,2018,Asia,Armenia,15534,69249,4.457899
+Upper Secondary Education,2018,Asia,Azerbaijan,35031,321759,9.184979
+Upper Secondary Education,2018,Asia,Bahrain,5016,46376,9.245614
+Upper Secondary Education,2018,Asia,Bangladesh,257156,7372422,28.66906
+Upper Secondary Education,2018,Asia,Bhutan,2554,21087,8.25646
+Upper Secondary Education,2018,Asia,Brunei Darussalam,3758,30146,8.02182
+Upper Secondary Education,2018,Asia,China,2740892,39719930,14.49161
+Upper Secondary Education,2018,Asia,"China, Macao Special Administrative Region",1488,13779,9.260081
+Upper Secondary Education,2018,Asia,Democratic People's Republic of Korea,69006,1089517,15.78873
+Upper Secondary Education,2018,Asia,Indonesia,747167,11173762,14.95484
+Upper Secondary Education,2018,Asia,Japan,356309,3607467,10.12455
+Upper Secondary Education,2018,Asia,Jordan,23956,201126,8.395642
+Upper Secondary Education,2018,Asia,Maldives,681,4304,6.320117
+Upper Secondary Education,2018,Asia,Myanmar,47201,1128010,23.89801
+Upper Secondary Education,2018,Asia,Oman,9367,90754,9.688694
+Upper Secondary Education,2018,Asia,Pakistan,206821,5995483,28.98875
+Upper Secondary Education,2018,Asia,Palestine,15442,231155,14.96924
+Upper Secondary Education,2018,Asia,Philippines,96597.86,2735683,28.32033
+Upper Secondary Education,2018,Asia,Qatar,4674,48478,10.37184
+Upper Secondary Education,2018,Asia,Republic of Korea,127560,1548118,12.13639
+Upper Secondary Education,2018,Asia,Saudi Arabia,137929,1352101,9.802877
+Upper Secondary Education,2018,Asia,Sri Lanka,73934,1339963,18.12377
+Upper Secondary Education,2018,Asia,Thailand,115001,2479513,21.5608
+Upper Secondary Education,2018,Asia,Timor-Leste,2545,66233,26.02475
+Upper Secondary Education,2018,Asia,Türkiye,347969,5689427,16.35038
+Upper Secondary Education,2018,Asia,Uzbekistan,300075,1452195,4.83944
+Upper Secondary Education,2018,Europe,Albania,8941,120062,13.42825
+Upper Secondary Education,2018,Europe,Belarus,22258,198284,8.908437
+Upper Secondary Education,2018,Europe,Belgium,82714,750644,9.075175
+Upper Secondary Education,2018,Europe,Bosnia and Herzegovina,12591,124148,9.860059
+Upper Secondary Education,2018,Europe,Bulgaria,21467,289127,13.46844
+Upper Secondary Education,2018,Europe,Croatia,28457,157954,5.55062
+Upper Secondary Education,2018,Europe,Cyprus,3721,28140,7.562483
+Upper Secondary Education,2018,Europe,Denmark,27196,290797,10.69264
+Upper Secondary Education,2018,Europe,Estonia,4235,44736.92,10.56362
+Upper Secondary Education,2018,Europe,Finland,19350,365001,18.8631
+Upper Secondary Education,2018,Europe,Georgia,19258,133324,6.923045
+Upper Secondary Education,2018,Europe,Germany,173851.8,2423944,13.94259
+Upper Secondary Education,2018,Europe,Greece,36658,344893,9.408397
+Upper Secondary Education,2018,Europe,Italy,287278,2854562,9.936584
+Upper Secondary Education,2018,Europe,Latvia,6567,60825,9.26222
+Upper Secondary Education,2018,Europe,Liechtenstein,65,1560,24
+Upper Secondary Education,2018,Europe,Lithuania,8128,68626,8.443159
+Upper Secondary Education,2018,Europe,Luxembourg,3263,26294,8.058229
+Upper Secondary Education,2018,Europe,Monaco,221,1562,7.067873
+Upper Secondary Education,2018,Europe,Montenegro,1956,28261,14.44836
+Upper Secondary Education,2018,Europe,Netherlands,56131.84,830159,14.78945
+Upper Secondary Education,2018,Europe,North Macedonia,7563,71944,9.512627
+Upper Secondary Education,2018,Europe,Norway,27901.44,253849,9.098061
+Upper Secondary Education,2018,Europe,Poland,141953,1289692,9.085345
+Upper Secondary Education,2018,Europe,Republic of Moldova,6546,66049,10.08998
+Upper Secondary Education,2018,Europe,Romania,55412,727911,13.13634
+Upper Secondary Education,2018,Europe,San Marino,131,699,5.335878
+Upper Secondary Education,2018,Europe,Serbia,30912,250946,8.118077
+Upper Secondary Education,2018,Europe,Slovakia,16575,187719,11.32543
+Upper Secondary Education,2018,Europe,Slovenia,6131,92466,15.08172
+Upper Secondary Education,2018,Europe,Spain,154210,1708783,11.08088
+Upper Secondary Education,2018,Europe,Sweden,38140,552285,14.48047
+Upper Secondary Education,2018,Europe,Switzerland,31969,352747,11.03403
+Upper Secondary Education,2018,Europe,United Kingdom of Great Britain and Northern Ireland,219103.3,3553972,16.22053
+Upper Secondary Education,2018,North America,Bahamas,1076,13281,12.34294
+Upper Secondary Education,2018,North America,Barbados,544,8376,15.39706
+Upper Secondary Education,2018,North America,Belize,638,9621,15.07994
+Upper Secondary Education,2018,North America,Canada,141968,1408614,9.922053
+Upper Secondary Education,2018,North America,Cayman Islands,153,1578,10.31373
+Upper Secondary Education,2018,North America,Costa Rica,14930,183342,12.28011
+Upper Secondary Education,2018,North America,Cuba,43989,420586,9.561163
+Upper Secondary Education,2018,North America,El Salvador,7827,213011,27.2149
+Upper Secondary Education,2018,North America,Grenada,275,3530,12.83636
+Upper Secondary Education,2018,North America,Guatemala,51776,422117,8.152754
+Upper Secondary Education,2018,North America,Puerto Rico,5274,109312,20.72658
+Upper Secondary Education,2018,North America,Saint Lucia,450,4955,11.01111
+Upper Secondary Education,2018,North America,United States of America,848439.9,12189590,14.36706
+Upper Secondary Education,2018,Oceania,New Zealand,19105.29,235979.7,12.35154
+Upper Secondary Education,2018,Oceania,Tuvalu,50,491,9.82
+Upper Secondary Education,2018,South America,Brazil,617360,9523696,15.42649
+Upper Secondary Education,2018,South America,Chile,56852.74,1020788,17.95495
+Upper Secondary Education,2018,South America,Ecuador,48737.66,912078,18.71403
+Upper Secondary Education,2018,South America,Paraguay,15730,241591,15.35861

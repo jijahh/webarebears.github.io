@@ -1,0 +1,147 @@
+Level of Education,Year,Continent,Country,Number of teachers,Number of students,Ratio
+Primary Education,2020,Africa,Algeria,200749,4852322,24.17109
+Primary Education,2020,Africa,Benin,57002,2182724,38.29206
+Primary Education,2020,Africa,Burkina Faso,87304,3240347,37.11568
+Primary Education,2020,Africa,Burundi,51921,2302280,44.34198
+Primary Education,2020,Africa,Cabo Verde,3110,61379,19.73601
+Primary Education,2020,Africa,Cameroon,100347,4578708,45.62875
+Primary Education,2020,Africa,Côte d'Ivoire,101085,4101430,40.57407
+Primary Education,2020,Africa,Democratic Republic of the Congo,446205,18789020,42.10849
+Primary Education,2020,Africa,Djibouti,2310,69134,29.92814
+Primary Education,2020,Africa,Egypt,525396,13912595,26.48021
+Primary Education,2020,Africa,Ethiopia,537596,20419152,37.98234
+Primary Education,2020,Africa,Gambia,10780,393057,36.46169
+Primary Education,2020,Africa,Ghana,185715,4584381,24.68503
+Primary Education,2020,Africa,Guinea,43914,2107661,47.9952
+Primary Education,2020,Africa,Kenya,307248,7612735,24.77717
+Primary Education,2020,Africa,Liberia,29288,607558,20.74426
+Primary Education,2020,Africa,Madagascar,129008,4774795,37.01162
+Primary Education,2020,Africa,Mali,63784,2734067,42.86446
+Primary Education,2020,Africa,Mauritius,5903,82514,13.97832
+Primary Education,2020,Africa,Morocco,166728,4535919,27.2055
+Primary Education,2020,Africa,Mozambique,124777,7219935,57.86271
+Primary Education,2020,Africa,Namibia,19038,516519,27.13095
+Primary Education,2020,Africa,Niger,73533,2895653,39.37896
+Primary Education,2020,Africa,Nigeria,823581,30100084,36.54781
+Primary Education,2020,Africa,Senegal,66447,2259988,34.01189
+Primary Education,2020,Africa,Seychelles,623,9509,15.26324
+Primary Education,2020,Africa,Sierra Leone,46677,1759773,37.70107
+Primary Education,2020,Africa,Togo,41685,1634441,39.20933
+Primary Education,2020,Africa,Tunisia,75548,1269412,16.80272
+Primary Education,2020,Africa,United Republic of Tanzania,194736,10925896,56.1062
+Primary Education,2020,Africa,Zambia,83160,3415770,41.07468
+Primary Education,2020,Africa,Zimbabwe,75960,2869735,37.77956
+Primary Education,2020,Asia,Armenia,8066,154905,19.20469
+Primary Education,2020,Asia,Azerbaijan,40160,651258,16.21658
+Primary Education,2020,Asia,Bhutan,2793,94165,33.71464
+Primary Education,2020,Asia,Brunei Darussalam,4258,39649,9.311649
+Primary Education,2020,Asia,Cambodia,51486,2165444,42.05889
+Primary Education,2020,Asia,China,6526772,1.06E+08,16.27918
+Primary Education,2020,Asia,"China, Hong Kong Special Administrative Region",29312,377202,12.86852
+Primary Education,2020,Asia,"China, Macao Special Administrative Region",2540,33961,13.37047
+Primary Education,2020,Asia,India,4600165,1.22E+08,26.4556
+Primary Education,2020,Asia,Indonesia,1445912,29329969,20.28475
+Primary Education,2020,Asia,Israel,81752.98,979555,11.98189
+Primary Education,2020,Asia,Japan,436232,6.44E+06,14.76351
+Primary Education,2020,Asia,Jordan,65410,1126254,17.21838
+Primary Education,2020,Asia,Kazakhstan,90047,1513077,16.80319
+Primary Education,2020,Asia,Kuwait,34105,2.79E+05,8.179387
+Primary Education,2020,Asia,Kyrgyzstan,21919,565711,25.80916
+Primary Education,2020,Asia,Lao People's Democratic Republic,34743,760566,21.8912
+Primary Education,2020,Asia,Lebanon,40911,517092,12.63944
+Primary Education,2020,Asia,Malaysia,255394,3081723,12.06654
+Primary Education,2020,Asia,Mongolia,10735,342634,31.91747
+Primary Education,2020,Asia,Nepal,201296,3522177,17.4975
+Primary Education,2020,Asia,Oman,28143,303890,10.79807
+Primary Education,2020,Asia,Palestine,23458,502889,21.43785
+Primary Education,2020,Asia,Philippines,524646,13214472,25.18741
+Primary Education,2020,Asia,Qatar,13131,163661,12.46371
+Primary Education,2020,Asia,Republic of Korea,166424,2702647,16.23953
+Primary Education,2020,Asia,Saudi Arabia,248318,3242120,13.05632
+Primary Education,2020,Asia,Singapore,16725,232810,13.91988
+Primary Education,2020,Asia,Sri Lanka,77927,1694722,21.74756
+Primary Education,2020,Asia,Thailand,412997,4744152,11.48713
+Primary Education,2020,Asia,Timor-Leste,7898.67,203273,25.73509
+Primary Education,2020,Asia,Turkmenistan,22695,588703,25.93977
+Primary Education,2020,Asia,Türkiye,309247,5279945,17.07355
+Primary Education,2020,Asia,United Arab Emirates,24646,462333,18.75895
+Primary Education,2020,Asia,Uzbekistan,121986,2508453,20.56345
+Primary Education,2020,Asia,Viet Nam,377876,8718356,23.072
+Primary Education,2020,Europe,Albania,9668,162170,16.77389
+Primary Education,2020,Europe,Andorra,411,4246,10.3309
+Primary Education,2020,Europe,Austria,32150.23,343980.5,10.69916
+Primary Education,2020,Europe,Belarus,22266,434763,19.52587
+Primary Education,2020,Europe,Belgium,75367,823725,10.92952
+Primary Education,2020,Europe,Bosnia and Herzegovina,9443,152333,16.13184
+Primary Education,2020,Europe,Bulgaria,22340,248354,11.11701
+Primary Education,2020,Europe,Croatia,12632,156627,12.39922
+Primary Education,2020,Europe,Cyprus,5117,59195,11.5683
+Primary Education,2020,Europe,Denmark,44763,452253,10.10328
+Primary Education,2020,Europe,Estonia,8184.64,89702,10.9598
+Primary Education,2020,Europe,Finland,28460,373173,13.11219
+Primary Education,2020,Europe,Georgia,32616,325016,9.964925
+Primary Education,2020,Europe,Germany,256762.1,3014502,11.74045
+Primary Education,2020,Europe,Gibraltar,228,2880,12.63158
+Primary Education,2020,Europe,Greece,75601,625523,8.274004
+Primary Education,2020,Europe,Hungary,37552,358766,9.553845
+Primary Education,2020,Europe,Iceland,3377,32832,9.722239
+Primary Education,2020,Europe,Italy,251650,2762544,10.97772
+Primary Education,2020,Europe,Latvia,10457,120051,11.48044
+Primary Education,2020,Europe,Liechtenstein,279,1978,7.089606
+Primary Education,2020,Europe,Lithuania,8547,118616,13.87809
+Primary Education,2020,Europe,Luxembourg,5009,40018,7.989219
+Primary Education,2020,Europe,Malta,2143.66,27035,12.61161
+Primary Education,2020,Europe,Monaco,176,1971,11.19886
+Primary Education,2020,Europe,Netherlands,101724,1161942,11.4225
+Primary Education,2020,Europe,North Macedonia,7435,108399,14.57956
+Primary Education,2020,Europe,Norway,51256.14,446218,8.70565
+Primary Education,2020,Europe,Poland,135357,1333675,9.853018
+Primary Education,2020,Europe,Portugal,51105,601972,11.77912
+Primary Education,2020,Europe,Republic of Moldova,7744,139179,17.97249
+Primary Education,2020,Europe,Romania,47414,904077,19.06772
+Primary Education,2020,Europe,Russian Federation,325500,7414586,22.77907
+Primary Education,2020,Europe,San Marino,252,1603,6.361111
+Primary Education,2020,Europe,Serbia,18851,259112,13.74527
+Primary Education,2020,Europe,Slovakia,14949,232979,15.58492
+Primary Education,2020,Europe,Spain,234884,3006992,12.80203
+Primary Education,2020,Europe,Sweden,70956,892230.8,12.57442
+Primary Education,2020,Europe,Switzerland,53554,527955,9.858367
+Primary Education,2020,Europe,Ukraine,111734,1724705,15.43581
+Primary Education,2020,Europe,United Kingdom of Great Britain and Northern Ireland,281265.8,4903628,17.43414
+Primary Education,2020,North America,Barbados,1476,19242,13.03659
+Primary Education,2020,North America,Belize,2598,49449,19.03349
+Primary Education,2020,North America,British Virgin Islands,286,2715,9.493007
+Primary Education,2020,North America,Cayman Islands,346.9,4534,13.07005
+Primary Education,2020,North America,Costa Rica,43093,492761,11.43483
+Primary Education,2020,North America,Cuba,84629,759803,8.978045
+Primary Education,2020,North America,Dominica,520,6185,11.89423
+Primary Education,2020,North America,Dominican Republic,65041.14,1223677,18.81389
+Primary Education,2020,North America,Guatemala,109432,2348398,21.45988
+Primary Education,2020,North America,Honduras,52050,1080048,20.7502
+Primary Education,2020,North America,Jamaica,11292,220074,19.48937
+Primary Education,2020,North America,Mexico,572961,13902903,24.26501
+Primary Education,2020,North America,Montserrat,29,412,14.2069
+Primary Education,2020,North America,Panama,23053,431959,18.73765
+Primary Education,2020,North America,Saint Lucia,1077,15478,14.3714
+Primary Education,2020,North America,Saint Vincent and the Grenadines,931,13029,13.99463
+Primary Education,2020,North America,Trinidad and Tobago,7532,136530,18.12666
+Primary Education,2020,North America,Turks and Caicos Islands,281,3499,12.45196
+Primary Education,2020,North America,United States of America,1694633,24465918,14.43729
+Primary Education,2020,Oceania,Cook Islands,115,1838,15.98261
+Primary Education,2020,Oceania,Kiribati,704,18404,26.14205
+Primary Education,2020,Oceania,Micronesia (Federated States of),606,12805,21.13036
+Primary Education,2020,Oceania,Nauru,63,1475,23.4127
+Primary Education,2020,Oceania,New Zealand,26684.95,387103,14.50642
+Primary Education,2020,Oceania,Niue,17,204,12
+Primary Education,2020,Oceania,Tokelau,21,173,8.238095
+Primary Education,2020,Oceania,Tonga,779,17056,21.89474
+Primary Education,2020,South America,Argentina,288107,4803554,16.67281
+Primary Education,2020,South America,Bolivia (Plurinational State of),76491,1392750,18.20802
+Level of Education,2020,South America,Brazil,774646,15366611,19.83695
+Primary Education,2020,South America,Chile,90424.45,1542099,17.054
+Primary Education,2020,South America,Colombia,176442,4193542,23.76725
+Primary Education,2020,South America,Ecuador,76296.58,1876429,24.59388
+Primary Education,2020,South America,Guyana,4627,90351,19.52691
+Primary Education,2020,South America,Peru,210704,3841744,18.2329
+Primary Education,2020,South America,Suriname,5305,67953,12.80924
+Primary Education,2020,South America,Uruguay,26181,293507,11.21069

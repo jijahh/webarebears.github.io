@@ -1,0 +1,89 @@
+Level of Education,Year,Continent,Country,Number of teachers,Number of students,Ratio
+Upper Secondary Education,2021,Africa,Botswana,4943,54845,11.09549
+Upper Secondary Education,2021,Africa,Burkina Faso,16359,328789,20.09836
+Upper Secondary Education,2021,Africa,Cabo Verde,1486,21917,14.74899
+Upper Secondary Education,2021,Africa,Djibouti,1640,22392,13.65366
+Upper Secondary Education,2021,Africa,Egypt,274190,4353977,15.87942
+Upper Secondary Education,2021,Africa,Gambia,4006,250378,62.50075
+Upper Secondary Education,2021,Africa,Ghana,64438,1344261,20.86131
+Upper Secondary Education,2021,Africa,Morocco,69436,1224501,17.63496
+Upper Secondary Education,2021,Africa,Nigeria,453786,6046834,13.3253
+Upper Secondary Education,2021,Africa,Rwanda,16853,261215,15.49961
+Upper Secondary Education,2021,Africa,Senegal,27614,383112,13.87383
+Upper Secondary Education,2021,Africa,Togo,11117,221994,19.96888
+Upper Secondary Education,2021,Asia,Armenia,12923,88108,6.817922
+Upper Secondary Education,2021,Asia,Azerbaijan,28825,285823,9.915802
+Upper Secondary Education,2021,Asia,Bangladesh,330821,8169545,24.69476
+Upper Secondary Education,2021,Asia,Bhutan,5860,25335,4.323379
+Upper Secondary Education,2021,Asia,Cambodia,89870,392123,4.363225
+Upper Secondary Education,2021,Asia,China,2901312,41641967,14.35281
+Upper Secondary Education,2021,Asia,"China, Macao Special Administrative Region",1415,12643,8.934982
+Upper Secondary Education,2021,Asia,India,3140509,72505354,23.08713
+Upper Secondary Education,2021,Asia,Indonesia,647664,12815393,19.7871
+Upper Secondary Education,2021,Asia,Japan,351090,3437814,9.791831
+Upper Secondary Education,2021,Asia,Jordan,22519,260985,11.58955
+Upper Secondary Education,2021,Asia,Lao People's Democratic Republic,12870,197644,15.35695
+Upper Secondary Education,2021,Asia,Nepal,63399,1776955,28.02812
+Upper Secondary Education,2021,Asia,Pakistan,955357,7063894,7.393984
+Upper Secondary Education,2021,Asia,Palestine,16600,260262,15.67843
+Upper Secondary Education,2021,Asia,Philippines,120800,3235106,26.78068
+Upper Secondary Education,2021,Asia,Qatar,5327,61323,11.51173
+Upper Secondary Education,2021,Asia,Republic of Korea,123401,1309015,10.60782
+Upper Secondary Education,2021,Asia,Saudi Arabia,120205,1388325,11.54964
+Upper Secondary Education,2021,Asia,Sri Lanka,78042,1210622,15.51244
+Upper Secondary Education,2021,Asia,Thailand,103823,2383135,22.95383
+Upper Secondary Education,2021,Asia,Türkiye,382109,6318602,16.53612
+Upper Secondary Education,2021,Asia,Uzbekistan,298010,1006583,3.377682
+Upper Secondary Education,2021,Europe,Albania,8584,107989,12.58027
+Upper Secondary Education,2021,Europe,Austria,29780.98,354478.8,11.90286
+Upper Secondary Education,2021,Europe,Belarus,22646,190960,8.432394
+Upper Secondary Education,2021,Europe,Bosnia and Herzegovina,12735,110404,8.669336
+Upper Secondary Education,2021,Europe,Bulgaria,22922,277674,12.11386
+Upper Secondary Education,2021,Europe,Croatia,27977,149066,5.328162
+Upper Secondary Education,2021,Europe,Cyprus,3910,28024,7.167263
+Upper Secondary Education,2021,Europe,Denmark,24996,295772,11.83277
+Upper Secondary Education,2021,Europe,Finland,19245,329998,17.14721
+Upper Secondary Education,2021,Europe,Germany,176998.7,2383823,13.46803
+Upper Secondary Education,2021,Europe,Greece,38484,348974,9.068028
+Upper Secondary Education,2021,Europe,Hungary,43833,393322,8.973194
+Upper Secondary Education,2021,Europe,Latvia,5770,60211,10.43518
+Upper Secondary Education,2021,Europe,Liechtenstein,60,1654,27.56667
+Upper Secondary Education,2021,Europe,Lithuania,6950,60218,8.66446
+Upper Secondary Education,2021,Europe,Luxembourg,3366.672,26257,7.799098
+Upper Secondary Education,2021,Europe,Malta,2567.568,17727.5,6.904393
+Upper Secondary Education,2021,Europe,Monaco,247,1597,6.465587
+Upper Secondary Education,2021,Europe,Montenegro,2084,26955,12.93426
+Upper Secondary Education,2021,Europe,Netherlands,58233,838840,14.40489
+Upper Secondary Education,2021,Europe,North Macedonia,7262,72228,9.94602
+Upper Secondary Education,2021,Europe,Norway,26797,256208,9.56107
+Upper Secondary Education,2021,Europe,Poland,139756,1609836,11.5189
+Upper Secondary Education,2021,Europe,Republic of Moldova,5826,67182,11.53141
+Upper Secondary Education,2021,Europe,Romania,55135,730346,13.2465
+Upper Secondary Education,2021,Europe,San Marino,118,684,5.79661
+Upper Secondary Education,2021,Europe,Serbia,31024,250925,8.088093
+Upper Secondary Education,2021,Europe,Slovakia,16331,181128,11.09105
+Upper Secondary Education,2021,Europe,Slovenia,6336,87705,13.84233
+Upper Secondary Education,2021,Europe,Spain,168518,1883307,11.1757
+Upper Secondary Education,2021,Europe,Sweden,38505,579086.4,15.03925
+Upper Secondary Education,2021,North America,Bahamas,1200,12082,10.06833
+Upper Secondary Education,2021,North America,Barbados,608,8153,13.40954
+Upper Secondary Education,2021,North America,Belize,681,10578,15.53304
+Upper Secondary Education,2021,North America,Canada,148002,1387155,9.372542
+Upper Secondary Education,2021,North America,Cayman Islands,167.64,1688,10.0692
+Upper Secondary Education,2021,North America,Costa Rica,16993.38,236455,13.91454
+Upper Secondary Education,2021,North America,Cuba,46876,396007,8.447969
+Upper Secondary Education,2021,North America,Dominican Republic,50148,379914,7.575855
+Upper Secondary Education,2021,North America,Guatemala,52091,383205,7.356453
+Upper Secondary Education,2021,North America,Honduras,23826,217075,9.110845
+Upper Secondary Education,2021,North America,Mexico,408267,5353499,13.11274
+Upper Secondary Education,2021,North America,Saint Lucia,1056,4285,4.057765
+Upper Secondary Education,2021,North America,United States of America,836658.9,12448549,14.87888
+Upper Secondary Education,2021,Oceania,Marshall Islands,226.8667,3158,13.92007
+Upper Secondary Education,2021,Oceania,New Zealand,18579.87,262649.1,14.13622
+Upper Secondary Education,2021,Oceania,Palau,90,910,10.11111
+Upper Secondary Education,2021,Oceania,Tokelau,13,57,4.384615
+Upper Secondary Education,2021,South America,Brazil,616062,9272232,15.05081
+Upper Secondary Education,2021,South America,Chile,59267.83,1051097,17.7347
+Upper Secondary Education,2021,South America,Colombia,63847,1440832,22.56695
+Upper Secondary Education,2021,South America,Ecuador,48822.85,909105,18.62048
+Upper Secondary Education,2021,South America,Suriname,969,13621,14.05676

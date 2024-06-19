@@ -1,0 +1,2483 @@
+Amount,School Year,Region,Grade Level,Gender
+"46,703",2016-2017,Region I - Ilocos Region,Grade 1,Male
+"35,348",2016-2017,Region II - Cagayan Valley,Grade 1,Male
+"102,642",2016-2017,Region III - Central Luzon,Grade 1,Male
+"121,530",2016-2017,Region IV-A - CALABARZON,Grade 1,Male
+"37,865",2016-2017,Region IV-B - MIMAROPA,Grade 1,Male
+"74,066",2016-2017,Region V - Bicol Region,Grade 1,Male
+"79,751",2016-2017,Region VI - Western Visayas,Grade 1,Male
+"79,634",2016-2017,Region VII - Central Visayas,Grade 1,Male
+"51,012",2016-2017,Region VIII - Eastern Visayas,Grade 1,Male
+"40,808",2016-2017,Region IX - Zamboanga Peninsula,Grade 1,Male
+"54,449",2016-2017,Region X - Northern Mindanao,Grade 1,Male
+"53,707",2016-2017,Region XI - Davao Region,Grade 1,Male
+"50,752",2016-2017,Region XII - Soccsksargen,Grade 1,Male
+"33,456",2016-2017,CARAGA - CARAGA,Grade 1,Male
+"53,728",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 1,Male
+"16,418",2016-2017,CAR - Cordillera Administrative Region,Grade 1,Male
+"90,110",2016-2017,NCR - National Capital Region,Grade 1,Male
+"43,240",2016-2017,Region I - Ilocos Region,Grade 1,Female
+"32,559",2016-2017,Region II - Cagayan Valley,Grade 1,Female
+"94,879",2016-2017,Region III - Central Luzon,Grade 1,Female
+"113,428",2016-2017,Region IV-A - CALABARZON,Grade 1,Female
+"34,439",2016-2017,Region IV-B - MIMAROPA,Grade 1,Female
+"66,290",2016-2017,Region V - Bicol Region,Grade 1,Female
+"72,333",2016-2017,Region VI - Western Visayas,Grade 1,Female
+"71,239",2016-2017,Region VII - Central Visayas,Grade 1,Female
+"46,603",2016-2017,Region VIII - Eastern Visayas,Grade 1,Female
+"37,853",2016-2017,Region IX - Zamboanga Peninsula,Grade 1,Female
+"49,551",2016-2017,Region X - Northern Mindanao,Grade 1,Female
+"49,650",2016-2017,Region XI - Davao Region,Grade 1,Female
+"47,691",2016-2017,Region XII - Soccsksargen,Grade 1,Female
+"30,254",2016-2017,CARAGA - CARAGA,Grade 1,Female
+"53,322",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 1,Female
+"14,712",2016-2017,CAR - Cordillera Administrative Region,Grade 1,Female
+"84,316",2016-2017,NCR - National Capital Region,Grade 1,Female
+"41,165",2017-2018,Region I - Ilocos Region,Grade 1,Male
+"30,873",2017-2018,Region II - Cagayan Valley,Grade 1,Male
+"92,996",2017-2018,Region III - Central Luzon,Grade 1,Male
+"116,283",2017-2018,Region IV-A - CALABARZON,Grade 1,Male
+"33,609",2017-2018,Region IV-B - MIMAROPA,Grade 1,Male
+"66,624",2017-2018,Region V - Bicol Region,Grade 1,Male
+"65,120",2017-2018,Region VI - Western Visayas,Grade 1,Male
+"65,553",2017-2018,Region VII - Central Visayas,Grade 1,Male
+"47,394",2017-2018,Region VIII - Eastern Visayas,Grade 1,Male
+"39,404",2017-2018,Region IX - Zamboanga Peninsula,Grade 1,Male
+"49,344",2017-2018,Region X - Northern Mindanao,Grade 1,Male
+"44,925",2017-2018,Region XI - Davao Region,Grade 1,Male
+"44,282",2017-2018,Region XII - Soccsksargen,Grade 1,Male
+"29,002",2017-2018,CARAGA - CARAGA,Grade 1,Male
+"47,311",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 1,Male
+"14,311",2017-2018,CAR - Cordillera Administrative Region,Grade 1,Male
+"82,282",2017-2018,NCR - National Capital Region,Grade 1,Male
+"36,991",2017-2018,Region I - Ilocos Region,Grade 1,Female
+"27,608",2017-2018,Region II - Cagayan Valley,Grade 1,Female
+"83,769",2017-2018,Region III - Central Luzon,Grade 1,Female
+"103,955",2017-2018,Region IV-A - CALABARZON,Grade 1,Female
+"29,949",2017-2018,Region IV-B - MIMAROPA,Grade 1,Female
+"57,873",2017-2018,Region V - Bicol Region,Grade 1,Female
+"58,585",2017-2018,Region VI - Western Visayas,Grade 1,Female
+"58,832",2017-2018,Region VII - Central Visayas,Grade 1,Female
+"42,143",2017-2018,Region VIII - Eastern Visayas,Grade 1,Female
+"35,885",2017-2018,Region IX - Zamboanga Peninsula,Grade 1,Female
+"44,834",2017-2018,Region X - Northern Mindanao,Grade 1,Female
+"40,078",2017-2018,Region XI - Davao Region,Grade 1,Female
+"41,194",2017-2018,Region XII - Soccsksargen,Grade 1,Female
+"26,037",2017-2018,CARAGA - CARAGA,Grade 1,Female
+"46,737",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 1,Female
+"12,815",2017-2018,CAR - Cordillera Administrative Region,Grade 1,Female
+"75,616",2017-2018,NCR - National Capital Region,Grade 1,Female
+"50,640",2018-2019,Region I - Ilocos Region,Grade 1,Male
+"38,128",2018-2019,Region II - Cagayan Valley,Grade 1,Male
+"115,039",2018-2019,Region III - Central Luzon,Grade 1,Male
+"146,180",2018-2019,Region IV-A - CALABARZON,Grade 1,Male
+"39,751",2018-2019,Region IV-B - MIMAROPA,Grade 1,Male
+"78,605",2018-2019,Region V - Bicol Region,Grade 1,Male
+"84,129",2018-2019,Region VI - Western Visayas,Grade 1,Male
+"85,395",2018-2019,Region VII - Central Visayas,Grade 1,Male
+"55,318",2018-2019,Region VIII - Eastern Visayas,Grade 1,Male
+"46,728",2018-2019,Region IX - Zamboanga Peninsula,Grade 1,Male
+"56,604",2018-2019,Region X - Northern Mindanao,Grade 1,Male
+"57,293",2018-2019,Region XI - Davao Region,Grade 1,Male
+"54,800",2018-2019,Region XII - Soccsksargen,Grade 1,Male
+"33,764",2018-2019,CARAGA - CARAGA,Grade 1,Male
+"47,316",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 1,Male
+"16,659",2018-2019,CAR - Cordillera Administrative Region,Grade 1,Male
+"97,297",2018-2019,NCR - National Capital Region,Grade 1,Male
+"45,980",2018-2019,Region I - Ilocos Region,Grade 1,Female
+"35,048",2018-2019,Region II - Cagayan Valley,Grade 1,Female
+"105,326",2018-2019,Region III - Central Luzon,Grade 1,Female
+"133,925",2018-2019,Region IV-A - CALABARZON,Grade 1,Female
+"36,066",2018-2019,Region IV-B - MIMAROPA,Grade 1,Female
+"70,511",2018-2019,Region V - Bicol Region,Grade 1,Female
+"76,196",2018-2019,Region VI - Western Visayas,Grade 1,Female
+"77,423",2018-2019,Region VII - Central Visayas,Grade 1,Female
+"50,744",2018-2019,Region VIII - Eastern Visayas,Grade 1,Female
+"43,182",2018-2019,Region IX - Zamboanga Peninsula,Grade 1,Female
+"52,261",2018-2019,Region X - Northern Mindanao,Grade 1,Female
+"53,283",2018-2019,Region XI - Davao Region,Grade 1,Female
+"50,552",2018-2019,Region XII - Soccsksargen,Grade 1,Female
+"30,785",2018-2019,CARAGA - CARAGA,Grade 1,Female
+"46,407",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 1,Female
+"15,175",2018-2019,CAR - Cordillera Administrative Region,Grade 1,Female
+"89,392",2018-2019,NCR - National Capital Region,Grade 1,Female
+"52,903",2019-2020,Region I - Ilocos Region,Grade 1,Male
+"40,641",2019-2020,Region II - Cagayan Valley,Grade 1,Male
+"121,503",2019-2020,Region III - Central Luzon,Grade 1,Male
+"153,264",2019-2020,Region IV-A - CALABARZON,Grade 1,Male
+"42,003",2019-2020,Region IV-B - MIMAROPA,Grade 1,Male
+"79,607",2019-2020,Region V - Bicol Region,Grade 1,Male
+"85,686",2019-2020,Region VI - Western Visayas,Grade 1,Male
+"86,163",2019-2020,Region VII - Central Visayas,Grade 1,Male
+"56,672",2019-2020,Region VIII - Eastern Visayas,Grade 1,Male
+"48,169",2019-2020,Region IX - Zamboanga Peninsula,Grade 1,Male
+"60,673",2019-2020,Region X - Northern Mindanao,Grade 1,Male
+"58,339",2019-2020,Region XI - Davao Region,Grade 1,Male
+"57,147",2019-2020,Region XII - Soccsksargen,Grade 1,Male
+"35,951",2019-2020,CARAGA - CARAGA,Grade 1,Male
+"49,013",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 1,Male
+"17,739",2019-2020,CAR - Cordillera Administrative Region,Grade 1,Male
+"99,224",2019-2020,NCR - National Capital Region,Grade 1,Male
+"49,278",2019-2020,Region I - Ilocos Region,Grade 1,Female
+"38,025",2019-2020,Region II - Cagayan Valley,Grade 1,Female
+"113,716",2019-2020,Region III - Central Luzon,Grade 1,Female
+"143,035",2019-2020,Region IV-A - CALABARZON,Grade 1,Female
+"37,991",2019-2020,Region IV-B - MIMAROPA,Grade 1,Female
+"71,061",2019-2020,Region V - Bicol Region,Grade 1,Female
+"78,475",2019-2020,Region VI - Western Visayas,Grade 1,Female
+"78,877",2019-2020,Region VII - Central Visayas,Grade 1,Female
+"52,393",2019-2020,Region VIII - Eastern Visayas,Grade 1,Female
+"44,231",2019-2020,Region IX - Zamboanga Peninsula,Grade 1,Female
+"56,257",2019-2020,Region X - Northern Mindanao,Grade 1,Female
+"54,446",2019-2020,Region XI - Davao Region,Grade 1,Female
+"53,798",2019-2020,Region XII - Soccsksargen,Grade 1,Female
+"33,287",2019-2020,CARAGA - CARAGA,Grade 1,Female
+"48,045",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 1,Female
+"16,705",2019-2020,CAR - Cordillera Administrative Region,Grade 1,Female
+"92,449",2019-2020,NCR - National Capital Region,Grade 1,Female
+"43,556",2020-2021,Region I - Ilocos Region,Grade 1,Male
+"33,335",2020-2021,Region II - Cagayan Valley,Grade 1,Male
+"104,009",2020-2021,Region III - Central Luzon,Grade 1,Male
+"134,311",2020-2021,Region IV-A - CALABARZON,Grade 1,Male
+"37,227",2020-2021,Region IV-B - MIMAROPA,Grade 1,Male
+"71,493",2020-2021,Region V - Bicol Region,Grade 1,Male
+"74,406",2020-2021,Region VI - Western Visayas,Grade 1,Male
+"77,868",2020-2021,Region VII - Central Visayas,Grade 1,Male
+"50,056",2020-2021,Region VIII - Eastern Visayas,Grade 1,Male
+"44,646",2020-2021,Region IX - Zamboanga Peninsula,Grade 1,Male
+"54,271",2020-2021,Region X - Northern Mindanao,Grade 1,Male
+"51,677",2020-2021,Region XI - Davao Region,Grade 1,Male
+"50,643",2020-2021,Region XII - Soccsksargen,Grade 1,Male
+"31,849",2020-2021,CARAGA - CARAGA,Grade 1,Male
+"46,842",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 1,Male
+"15,397",2020-2021,CAR - Cordillera Administrative Region,Grade 1,Male
+"91,356",2020-2021,NCR - National Capital Region,Grade 1,Male
+"38,008",2020-2021,Region I - Ilocos Region,Grade 1,Female
+"28,820",2020-2021,Region II - Cagayan Valley,Grade 1,Female
+"90,820",2020-2021,Region III - Central Luzon,Grade 1,Female
+"119,040",2020-2021,Region IV-A - CALABARZON,Grade 1,Female
+"32,213",2020-2021,Region IV-B - MIMAROPA,Grade 1,Female
+"61,555",2020-2021,Region V - Bicol Region,Grade 1,Female
+"65,255",2020-2021,Region VI - Western Visayas,Grade 1,Female
+"69,012",2020-2021,Region VII - Central Visayas,Grade 1,Female
+"43,623",2020-2021,Region VIII - Eastern Visayas,Grade 1,Female
+"39,622",2020-2021,Region IX - Zamboanga Peninsula,Grade 1,Female
+"48,299",2020-2021,Region X - Northern Mindanao,Grade 1,Female
+"45,892",2020-2021,Region XI - Davao Region,Grade 1,Female
+"45,953",2020-2021,Region XII - Soccsksargen,Grade 1,Female
+"27,724",2020-2021,CARAGA - CARAGA,Grade 1,Female
+"45,614",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 1,Female
+"13,486",2020-2021,CAR - Cordillera Administrative Region,Grade 1,Female
+"83,217",2020-2021,NCR - National Capital Region,Grade 1,Female
+"35,815",2016-2017,Region I - Ilocos Region,Grade 10,Male
+"21,387",2016-2017,Region II - Cagayan Valley,Grade 10,Male
+"70,809",2016-2017,Region III - Central Luzon,Grade 10,Male
+"86,780",2016-2017,Region IV-A - CALABARZON,Grade 10,Male
+"21,462",2016-2017,Region IV-B - MIMAROPA,Grade 10,Male
+"43,074",2016-2017,Region V - Bicol Region,Grade 10,Male
+"52,062",2016-2017,Region VI - Western Visayas,Grade 10,Male
+"47,493",2016-2017,Region VII - Central Visayas,Grade 10,Male
+"32,216",2016-2017,Region VIII - Eastern Visayas,Grade 10,Male
+"20,960",2016-2017,Region IX - Zamboanga Peninsula,Grade 10,Male
+"24,663",2016-2017,Region X - Northern Mindanao,Grade 10,Male
+"27,226",2016-2017,Region XI - Davao Region,Grade 10,Male
+"26,145",2016-2017,Region XII - Soccsksargen,Grade 10,Male
+"18,384",2016-2017,CARAGA - CARAGA,Grade 10,Male
+"11,933",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 10,Male
+"9,501",2016-2017,CAR - Cordillera Administrative Region,Grade 10,Male
+"73,018",2016-2017,NCR - National Capital Region,Grade 10,Male
+"37,220",2016-2017,Region I - Ilocos Region,Grade 10,Female
+"23,192",2016-2017,Region II - Cagayan Valley,Grade 10,Female
+"75,212",2016-2017,Region III - Central Luzon,Grade 10,Female
+"93,311",2016-2017,Region IV-A - CALABARZON,Grade 10,Female
+"24,260",2016-2017,Region IV-B - MIMAROPA,Grade 10,Female
+"49,517",2016-2017,Region V - Bicol Region,Grade 10,Female
+"56,365",2016-2017,Region VI - Western Visayas,Grade 10,Female
+"54,278",2016-2017,Region VII - Central Visayas,Grade 10,Female
+"36,067",2016-2017,Region VIII - Eastern Visayas,Grade 10,Female
+"25,201",2016-2017,Region IX - Zamboanga Peninsula,Grade 10,Female
+"28,876",2016-2017,Region X - Northern Mindanao,Grade 10,Female
+"31,719",2016-2017,Region XI - Davao Region,Grade 10,Female
+"29,936",2016-2017,Region XII - Soccsksargen,Grade 10,Female
+"20,032",2016-2017,CARAGA - CARAGA,Grade 10,Female
+"16,876",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 10,Female
+"11,256",2016-2017,CAR - Cordillera Administrative Region,Grade 10,Female
+"79,415",2016-2017,NCR - National Capital Region,Grade 10,Female
+"36,474",2017-2018,Region I - Ilocos Region,Grade 10,Male
+"22,098",2017-2018,Region II - Cagayan Valley,Grade 10,Male
+"72,796",2017-2018,Region III - Central Luzon,Grade 10,Male
+"90,581",2017-2018,Region IV-A - CALABARZON,Grade 10,Male
+"22,948",2017-2018,Region IV-B - MIMAROPA,Grade 10,Male
+"46,322",2017-2018,Region V - Bicol Region,Grade 10,Male
+"53,864",2017-2018,Region VI - Western Visayas,Grade 10,Male
+"49,795",2017-2018,Region VII - Central Visayas,Grade 10,Male
+"33,856",2017-2018,Region VIII - Eastern Visayas,Grade 10,Male
+"23,122",2017-2018,Region IX - Zamboanga Peninsula,Grade 10,Male
+"26,363",2017-2018,Region X - Northern Mindanao,Grade 10,Male
+"29,421",2017-2018,Region XI - Davao Region,Grade 10,Male
+"27,843",2017-2018,Region XII - Soccsksargen,Grade 10,Male
+"19,491",2017-2018,CARAGA - CARAGA,Grade 10,Male
+"11,813",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 10,Male
+"9,872",2017-2018,CAR - Cordillera Administrative Region,Grade 10,Male
+"73,270",2017-2018,NCR - National Capital Region,Grade 10,Male
+"37,250",2017-2018,Region I - Ilocos Region,Grade 10,Female
+"24,112",2017-2018,Region II - Cagayan Valley,Grade 10,Female
+"75,971",2017-2018,Region III - Central Luzon,Grade 10,Female
+"96,917",2017-2018,Region IV-A - CALABARZON,Grade 10,Female
+"25,260",2017-2018,Region IV-B - MIMAROPA,Grade 10,Female
+"52,297",2017-2018,Region V - Bicol Region,Grade 10,Female
+"57,765",2017-2018,Region VI - Western Visayas,Grade 10,Female
+"55,468",2017-2018,Region VII - Central Visayas,Grade 10,Female
+"37,421",2017-2018,Region VIII - Eastern Visayas,Grade 10,Female
+"27,128",2017-2018,Region IX - Zamboanga Peninsula,Grade 10,Female
+"30,393",2017-2018,Region X - Northern Mindanao,Grade 10,Female
+"34,100",2017-2018,Region XI - Davao Region,Grade 10,Female
+"30,956",2017-2018,Region XII - Soccsksargen,Grade 10,Female
+"21,067",2017-2018,CARAGA - CARAGA,Grade 10,Female
+"15,863",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 10,Female
+"11,292",2017-2018,CAR - Cordillera Administrative Region,Grade 10,Female
+"80,016",2017-2018,NCR - National Capital Region,Grade 10,Female
+"38,203",2018-2019,Region I - Ilocos Region,Grade 10,Male
+"23,230",2018-2019,Region II - Cagayan Valley,Grade 10,Male
+"74,645",2018-2019,Region III - Central Luzon,Grade 10,Male
+"93,385",2018-2019,Region IV-A - CALABARZON,Grade 10,Male
+"23,857",2018-2019,Region IV-B - MIMAROPA,Grade 10,Male
+"49,078",2018-2019,Region V - Bicol Region,Grade 10,Male
+"56,881",2018-2019,Region VI - Western Visayas,Grade 10,Male
+"53,002",2018-2019,Region VII - Central Visayas,Grade 10,Male
+"35,269",2018-2019,Region VIII - Eastern Visayas,Grade 10,Male
+"24,000",2018-2019,Region IX - Zamboanga Peninsula,Grade 10,Male
+"27,854",2018-2019,Region X - Northern Mindanao,Grade 10,Male
+"30,939",2018-2019,Region XI - Davao Region,Grade 10,Male
+"28,283",2018-2019,Region XII - Soccsksargen,Grade 10,Male
+"20,536",2018-2019,CARAGA - CARAGA,Grade 10,Male
+"11,721",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 10,Male
+"10,207",2018-2019,CAR - Cordillera Administrative Region,Grade 10,Male
+"74,145",2018-2019,NCR - National Capital Region,Grade 10,Male
+"38,497",2018-2019,Region I - Ilocos Region,Grade 10,Female
+"24,752",2018-2019,Region II - Cagayan Valley,Grade 10,Female
+"78,918",2018-2019,Region III - Central Luzon,Grade 10,Female
+"99,081",2018-2019,Region IV-A - CALABARZON,Grade 10,Female
+"26,083",2018-2019,Region IV-B - MIMAROPA,Grade 10,Female
+"55,170",2018-2019,Region V - Bicol Region,Grade 10,Female
+"61,373",2018-2019,Region VI - Western Visayas,Grade 10,Female
+"58,948",2018-2019,Region VII - Central Visayas,Grade 10,Female
+"39,676",2018-2019,Region VIII - Eastern Visayas,Grade 10,Female
+"28,329",2018-2019,Region IX - Zamboanga Peninsula,Grade 10,Female
+"31,133",2018-2019,Region X - Northern Mindanao,Grade 10,Female
+"35,734",2018-2019,Region XI - Davao Region,Grade 10,Female
+"32,111",2018-2019,Region XII - Soccsksargen,Grade 10,Female
+"21,985",2018-2019,CARAGA - CARAGA,Grade 10,Female
+"16,014",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 10,Female
+"11,584",2018-2019,CAR - Cordillera Administrative Region,Grade 10,Female
+"80,537",2018-2019,NCR - National Capital Region,Grade 10,Female
+"39,473",2019-2020,Region I - Ilocos Region,Grade 10,Male
+"23,925",2019-2020,Region II - Cagayan Valley,Grade 10,Male
+"77,616",2019-2020,Region III - Central Luzon,Grade 10,Male
+"97,877",2019-2020,Region IV-A - CALABARZON,Grade 10,Male
+"25,249",2019-2020,Region IV-B - MIMAROPA,Grade 10,Male
+"51,822",2019-2020,Region V - Bicol Region,Grade 10,Male
+"58,161",2019-2020,Region VI - Western Visayas,Grade 10,Male
+"55,813",2019-2020,Region VII - Central Visayas,Grade 10,Male
+"37,298",2019-2020,Region VIII - Eastern Visayas,Grade 10,Male
+"25,892",2019-2020,Region IX - Zamboanga Peninsula,Grade 10,Male
+"29,809",2019-2020,Region X - Northern Mindanao,Grade 10,Male
+"33,850",2019-2020,Region XI - Davao Region,Grade 10,Male
+"30,075",2019-2020,Region XII - Soccsksargen,Grade 10,Male
+"22,108",2019-2020,CARAGA - CARAGA,Grade 10,Male
+"13,387",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 10,Male
+"10,767",2019-2020,CAR - Cordillera Administrative Region,Grade 10,Male
+"75,269",2019-2020,NCR - National Capital Region,Grade 10,Male
+"39,932",2019-2020,Region I - Ilocos Region,Grade 10,Female
+"25,592",2019-2020,Region II - Cagayan Valley,Grade 10,Female
+"81,843",2019-2020,Region III - Central Luzon,Grade 10,Female
+"103,321",2019-2020,Region IV-A - CALABARZON,Grade 10,Female
+"26,752",2019-2020,Region IV-B - MIMAROPA,Grade 10,Female
+"57,705",2019-2020,Region V - Bicol Region,Grade 10,Female
+"62,383",2019-2020,Region VI - Western Visayas,Grade 10,Female
+"61,386",2019-2020,Region VII - Central Visayas,Grade 10,Female
+"41,608",2019-2020,Region VIII - Eastern Visayas,Grade 10,Female
+"30,596",2019-2020,Region IX - Zamboanga Peninsula,Grade 10,Female
+"33,711",2019-2020,Region X - Northern Mindanao,Grade 10,Female
+"39,158",2019-2020,Region XI - Davao Region,Grade 10,Female
+"34,632",2019-2020,Region XII - Soccsksargen,Grade 10,Female
+"23,464",2019-2020,CARAGA - CARAGA,Grade 10,Female
+"17,088",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 10,Female
+"11,910",2019-2020,CAR - Cordillera Administrative Region,Grade 10,Female
+"80,865",2019-2020,NCR - National Capital Region,Grade 10,Female
+"42,587",2020-2021,Region I - Ilocos Region,Grade 10,Male
+"27,241",2020-2021,Region II - Cagayan Valley,Grade 10,Male
+"83,666",2020-2021,Region III - Central Luzon,Grade 10,Male
+"107,937",2020-2021,Region IV-A - CALABARZON,Grade 10,Male
+"27,734",2020-2021,Region IV-B - MIMAROPA,Grade 10,Male
+"53,642",2020-2021,Region V - Bicol Region,Grade 10,Male
+"67,493",2020-2021,Region VI - Western Visayas,Grade 10,Male
+"59,547",2020-2021,Region VII - Central Visayas,Grade 10,Male
+"41,623",2020-2021,Region VIII - Eastern Visayas,Grade 10,Male
+"30,598",2020-2021,Region IX - Zamboanga Peninsula,Grade 10,Male
+"34,486",2020-2021,Region X - Northern Mindanao,Grade 10,Male
+"37,576",2020-2021,Region XI - Davao Region,Grade 10,Male
+"34,565",2020-2021,Region XII - Soccsksargen,Grade 10,Male
+"24,915",2020-2021,CARAGA - CARAGA,Grade 10,Male
+"13,993",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 10,Male
+"11,578",2020-2021,CAR - Cordillera Administrative Region,Grade 10,Male
+"77,699",2020-2021,NCR - National Capital Region,Grade 10,Male
+"42,852",2020-2021,Region I - Ilocos Region,Grade 10,Female
+"28,222",2020-2021,Region II - Cagayan Valley,Grade 10,Female
+"87,501",2020-2021,Region III - Central Luzon,Grade 10,Female
+"112,667",2020-2021,Region IV-A - CALABARZON,Grade 10,Female
+"29,658",2020-2021,Region IV-B - MIMAROPA,Grade 10,Female
+"58,887",2020-2021,Region V - Bicol Region,Grade 10,Female
+"70,734",2020-2021,Region VI - Western Visayas,Grade 10,Female
+"65,834",2020-2021,Region VII - Central Visayas,Grade 10,Female
+"45,666",2020-2021,Region VIII - Eastern Visayas,Grade 10,Female
+"35,583",2020-2021,Region IX - Zamboanga Peninsula,Grade 10,Female
+"39,140",2020-2021,Region X - Northern Mindanao,Grade 10,Female
+"43,006",2020-2021,Region XI - Davao Region,Grade 10,Female
+"39,580",2020-2021,Region XII - Soccsksargen,Grade 10,Female
+"26,185",2020-2021,CARAGA - CARAGA,Grade 10,Female
+"18,103",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 10,Female
+"12,431",2020-2021,CAR - Cordillera Administrative Region,Grade 10,Female
+"83,546",2020-2021,NCR - National Capital Region,Grade 10,Female
+"25,816",2016-2017,Region I - Ilocos Region,Grade 11,Male
+"15,077",2016-2017,Region II - Cagayan Valley,Grade 11,Male
+"38,705",2016-2017,Region III - Central Luzon,Grade 11,Male
+"38,197",2016-2017,Region IV-A - CALABARZON,Grade 11,Male
+"14,766",2016-2017,Region IV-B - MIMAROPA,Grade 11,Male
+"30,947",2016-2017,Region V - Bicol Region,Grade 11,Male
+"39,115",2016-2017,Region VI - Western Visayas,Grade 11,Male
+"26,829",2016-2017,Region VII - Central Visayas,Grade 11,Male
+"25,800",2016-2017,Region VIII - Eastern Visayas,Grade 11,Male
+"11,431",2016-2017,Region IX - Zamboanga Peninsula,Grade 11,Male
+"17,235",2016-2017,Region X - Northern Mindanao,Grade 11,Male
+"14,337",2016-2017,Region XI - Davao Region,Grade 11,Male
+"19,278",2016-2017,Region XII - Soccsksargen,Grade 11,Male
+"11,664",2016-2017,CARAGA - CARAGA,Grade 11,Male
+"5,978",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 11,Male
+"5,172",2016-2017,CAR - Cordillera Administrative Region,Grade 11,Male
+"17,166",2016-2017,NCR - National Capital Region,Grade 11,Male
+"25,809",2016-2017,Region I - Ilocos Region,Grade 11,Female
+"16,440",2016-2017,Region II - Cagayan Valley,Grade 11,Female
+"37,125",2016-2017,Region III - Central Luzon,Grade 11,Female
+"37,699",2016-2017,Region IV-A - CALABARZON,Grade 11,Female
+"15,975",2016-2017,Region IV-B - MIMAROPA,Grade 11,Female
+"34,512",2016-2017,Region V - Bicol Region,Grade 11,Female
+"40,205",2016-2017,Region VI - Western Visayas,Grade 11,Female
+"30,531",2016-2017,Region VII - Central Visayas,Grade 11,Female
+"26,594",2016-2017,Region VIII - Eastern Visayas,Grade 11,Female
+"13,284",2016-2017,Region IX - Zamboanga Peninsula,Grade 11,Female
+"18,375",2016-2017,Region X - Northern Mindanao,Grade 11,Female
+"15,738",2016-2017,Region XI - Davao Region,Grade 11,Female
+"19,706",2016-2017,Region XII - Soccsksargen,Grade 11,Female
+"11,410",2016-2017,CARAGA - CARAGA,Grade 11,Female
+"8,329",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 11,Female
+"5,639",2016-2017,CAR - Cordillera Administrative Region,Grade 11,Female
+"17,097",2016-2017,NCR - National Capital Region,Grade 11,Female
+"26,828",2017-2018,Region I - Ilocos Region,Grade 11,Male
+"15,855",2017-2018,Region II - Cagayan Valley,Grade 11,Male
+"37,581",2017-2018,Region III - Central Luzon,Grade 11,Male
+"38,619",2017-2018,Region IV-A - CALABARZON,Grade 11,Male
+"14,393",2017-2018,Region IV-B - MIMAROPA,Grade 11,Male
+"31,989",2017-2018,Region V - Bicol Region,Grade 11,Male
+"37,946",2017-2018,Region VI - Western Visayas,Grade 11,Male
+"29,879",2017-2018,Region VII - Central Visayas,Grade 11,Male
+"24,070",2017-2018,Region VIII - Eastern Visayas,Grade 11,Male
+"12,172",2017-2018,Region IX - Zamboanga Peninsula,Grade 11,Male
+"15,356",2017-2018,Region X - Northern Mindanao,Grade 11,Male
+"14,915",2017-2018,Region XI - Davao Region,Grade 11,Male
+"17,745",2017-2018,Region XII - Soccsksargen,Grade 11,Male
+"12,763",2017-2018,CARAGA - CARAGA,Grade 11,Male
+"5,806",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 11,Male
+"5,063",2017-2018,CAR - Cordillera Administrative Region,Grade 11,Male
+"19,469",2017-2018,NCR - National Capital Region,Grade 11,Male
+"27,151",2017-2018,Region I - Ilocos Region,Grade 11,Female
+"16,917",2017-2018,Region II - Cagayan Valley,Grade 11,Female
+"37,446",2017-2018,Region III - Central Luzon,Grade 11,Female
+"39,232",2017-2018,Region IV-A - CALABARZON,Grade 11,Female
+"16,341",2017-2018,Region IV-B - MIMAROPA,Grade 11,Female
+"36,430",2017-2018,Region V - Bicol Region,Grade 11,Female
+"40,114",2017-2018,Region VI - Western Visayas,Grade 11,Female
+"33,278",2017-2018,Region VII - Central Visayas,Grade 11,Female
+"26,470",2017-2018,Region VIII - Eastern Visayas,Grade 11,Female
+"14,421",2017-2018,Region IX - Zamboanga Peninsula,Grade 11,Female
+"17,384",2017-2018,Region X - Northern Mindanao,Grade 11,Female
+"17,034",2017-2018,Region XI - Davao Region,Grade 11,Female
+"19,899",2017-2018,Region XII - Soccsksargen,Grade 11,Female
+"13,025",2017-2018,CARAGA - CARAGA,Grade 11,Female
+"7,903",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 11,Female
+"5,981",2017-2018,CAR - Cordillera Administrative Region,Grade 11,Female
+"19,049",2017-2018,NCR - National Capital Region,Grade 11,Female
+"30,228",2018-2019,Region I - Ilocos Region,Grade 11,Male
+"18,472",2018-2019,Region II - Cagayan Valley,Grade 11,Male
+"43,880",2018-2019,Region III - Central Luzon,Grade 11,Male
+"44,764",2018-2019,Region IV-A - CALABARZON,Grade 11,Male
+"17,097",2018-2019,Region IV-B - MIMAROPA,Grade 11,Male
+"37,584",2018-2019,Region V - Bicol Region,Grade 11,Male
+"43,375",2018-2019,Region VI - Western Visayas,Grade 11,Male
+"35,945",2018-2019,Region VII - Central Visayas,Grade 11,Male
+"29,126",2018-2019,Region VIII - Eastern Visayas,Grade 11,Male
+"16,514",2018-2019,Region IX - Zamboanga Peninsula,Grade 11,Male
+"19,771",2018-2019,Region X - Northern Mindanao,Grade 11,Male
+"19,487",2018-2019,Region XI - Davao Region,Grade 11,Male
+"22,282",2018-2019,Region XII - Soccsksargen,Grade 11,Male
+"15,838",2018-2019,CARAGA - CARAGA,Grade 11,Male
+"6,947",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 11,Male
+"6,378",2018-2019,CAR - Cordillera Administrative Region,Grade 11,Male
+"23,873",2018-2019,NCR - National Capital Region,Grade 11,Male
+"29,710",2018-2019,Region I - Ilocos Region,Grade 11,Female
+"19,312",2018-2019,Region II - Cagayan Valley,Grade 11,Female
+"41,911",2018-2019,Region III - Central Luzon,Grade 11,Female
+"44,640",2018-2019,Region IV-A - CALABARZON,Grade 11,Female
+"18,564",2018-2019,Region IV-B - MIMAROPA,Grade 11,Female
+"41,946",2018-2019,Region V - Bicol Region,Grade 11,Female
+"43,950",2018-2019,Region VI - Western Visayas,Grade 11,Female
+"37,514",2018-2019,Region VII - Central Visayas,Grade 11,Female
+"30,576",2018-2019,Region VIII - Eastern Visayas,Grade 11,Female
+"18,313",2018-2019,Region IX - Zamboanga Peninsula,Grade 11,Female
+"21,379",2018-2019,Region X - Northern Mindanao,Grade 11,Female
+"21,780",2018-2019,Region XI - Davao Region,Grade 11,Female
+"23,408",2018-2019,Region XII - Soccsksargen,Grade 11,Female
+"15,692",2018-2019,CARAGA - CARAGA,Grade 11,Female
+"9,046",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 11,Female
+"6,810",2018-2019,CAR - Cordillera Administrative Region,Grade 11,Female
+"22,738",2018-2019,NCR - National Capital Region,Grade 11,Female
+"32,420",2019-2020,Region I - Ilocos Region,Grade 11,Male
+"20,048",2019-2020,Region II - Cagayan Valley,Grade 11,Male
+"46,942",2019-2020,Region III - Central Luzon,Grade 11,Male
+"48,279",2019-2020,Region IV-A - CALABARZON,Grade 11,Male
+"19,131",2019-2020,Region IV-B - MIMAROPA,Grade 11,Male
+"39,156",2019-2020,Region V - Bicol Region,Grade 11,Male
+"47,402",2019-2020,Region VI - Western Visayas,Grade 11,Male
+"39,978",2019-2020,Region VII - Central Visayas,Grade 11,Male
+"31,363",2019-2020,Region VIII - Eastern Visayas,Grade 11,Male
+"17,943",2019-2020,Region IX - Zamboanga Peninsula,Grade 11,Male
+"21,317",2019-2020,Region X - Northern Mindanao,Grade 11,Male
+"20,432",2019-2020,Region XI - Davao Region,Grade 11,Male
+"22,432",2019-2020,Region XII - Soccsksargen,Grade 11,Male
+"16,743",2019-2020,CARAGA - CARAGA,Grade 11,Male
+"8,405",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 11,Male
+"6,962",2019-2020,CAR - Cordillera Administrative Region,Grade 11,Male
+"26,259",2019-2020,NCR - National Capital Region,Grade 11,Male
+"31,703",2019-2020,Region I - Ilocos Region,Grade 11,Female
+"20,536",2019-2020,Region II - Cagayan Valley,Grade 11,Female
+"45,681",2019-2020,Region III - Central Luzon,Grade 11,Female
+"48,297",2019-2020,Region IV-A - CALABARZON,Grade 11,Female
+"20,413",2019-2020,Region IV-B - MIMAROPA,Grade 11,Female
+"43,378",2019-2020,Region V - Bicol Region,Grade 11,Female
+"48,956",2019-2020,Region VI - Western Visayas,Grade 11,Female
+"41,925",2019-2020,Region VII - Central Visayas,Grade 11,Female
+"33,469",2019-2020,Region VIII - Eastern Visayas,Grade 11,Female
+"20,671",2019-2020,Region IX - Zamboanga Peninsula,Grade 11,Female
+"22,731",2019-2020,Region X - Northern Mindanao,Grade 11,Female
+"22,330",2019-2020,Region XI - Davao Region,Grade 11,Female
+"24,388",2019-2020,Region XII - Soccsksargen,Grade 11,Female
+"16,861",2019-2020,CARAGA - CARAGA,Grade 11,Female
+"11,199",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 11,Female
+"7,508",2019-2020,CAR - Cordillera Administrative Region,Grade 11,Female
+"25,797",2019-2020,NCR - National Capital Region,Grade 11,Female
+"36,644",2020-2021,Region I - Ilocos Region,Grade 11,Male
+"23,180",2020-2021,Region II - Cagayan Valley,Grade 11,Male
+"56,426",2020-2021,Region III - Central Luzon,Grade 11,Male
+"57,327",2020-2021,Region IV-A - CALABARZON,Grade 11,Male
+"21,305",2020-2021,Region IV-B - MIMAROPA,Grade 11,Male
+"38,944",2020-2021,Region V - Bicol Region,Grade 11,Male
+"53,132",2020-2021,Region VI - Western Visayas,Grade 11,Male
+"43,733",2020-2021,Region VII - Central Visayas,Grade 11,Male
+"33,788",2020-2021,Region VIII - Eastern Visayas,Grade 11,Male
+"21,402",2020-2021,Region IX - Zamboanga Peninsula,Grade 11,Male
+"23,676",2020-2021,Region X - Northern Mindanao,Grade 11,Male
+"24,951",2020-2021,Region XI - Davao Region,Grade 11,Male
+"26,117",2020-2021,Region XII - Soccsksargen,Grade 11,Male
+"19,398",2020-2021,CARAGA - CARAGA,Grade 11,Male
+"9,613",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 11,Male
+"8,892",2020-2021,CAR - Cordillera Administrative Region,Grade 11,Male
+"32,662",2020-2021,NCR - National Capital Region,Grade 11,Male
+"36,455",2020-2021,Region I - Ilocos Region,Grade 11,Female
+"24,491",2020-2021,Region II - Cagayan Valley,Grade 11,Female
+"57,670",2020-2021,Region III - Central Luzon,Grade 11,Female
+"59,177",2020-2021,Region IV-A - CALABARZON,Grade 11,Female
+"23,103",2020-2021,Region IV-B - MIMAROPA,Grade 11,Female
+"44,108",2020-2021,Region V - Bicol Region,Grade 11,Female
+"56,220",2020-2021,Region VI - Western Visayas,Grade 11,Female
+"47,512",2020-2021,Region VII - Central Visayas,Grade 11,Female
+"38,179",2020-2021,Region VIII - Eastern Visayas,Grade 11,Female
+"25,267",2020-2021,Region IX - Zamboanga Peninsula,Grade 11,Female
+"26,958",2020-2021,Region X - Northern Mindanao,Grade 11,Female
+"28,619",2020-2021,Region XI - Davao Region,Grade 11,Female
+"30,448",2020-2021,Region XII - Soccsksargen,Grade 11,Female
+"20,702",2020-2021,CARAGA - CARAGA,Grade 11,Female
+"12,035",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 11,Female
+"9,664",2020-2021,CAR - Cordillera Administrative Region,Grade 11,Female
+"32,221",2020-2021,NCR - National Capital Region,Grade 11,Female
+"22,925",2017-2018,Region I - Ilocos Region,Grade 12,Male
+"13,447",2017-2018,Region II - Cagayan Valley,Grade 12,Male
+"32,657",2017-2018,Region III - Central Luzon,Grade 12,Male
+"33,581",2017-2018,Region IV-A - CALABARZON,Grade 12,Male
+"12,487",2017-2018,Region IV-B - MIMAROPA,Grade 12,Male
+"26,933",2017-2018,Region V - Bicol Region,Grade 12,Male
+"33,330",2017-2018,Region VI - Western Visayas,Grade 12,Male
+"25,266",2017-2018,Region VII - Central Visayas,Grade 12,Male
+"21,774",2017-2018,Region VIII - Eastern Visayas,Grade 12,Male
+"9,599",2017-2018,Region IX - Zamboanga Peninsula,Grade 12,Male
+"14,312",2017-2018,Region X - Northern Mindanao,Grade 12,Male
+"11,971",2017-2018,Region XI - Davao Region,Grade 12,Male
+"15,294",2017-2018,Region XII - Soccsksargen,Grade 12,Male
+"10,423",2017-2018,CARAGA - CARAGA,Grade 12,Male
+"5,274",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 12,Male
+"4,325",2017-2018,CAR - Cordillera Administrative Region,Grade 12,Male
+"15,437",2017-2018,NCR - National Capital Region,Grade 12,Male
+"24,076",2017-2018,Region I - Ilocos Region,Grade 12,Female
+"15,175",2017-2018,Region II - Cagayan Valley,Grade 12,Female
+"32,738",2017-2018,Region III - Central Luzon,Grade 12,Female
+"34,115",2017-2018,Region IV-A - CALABARZON,Grade 12,Female
+"14,055",2017-2018,Region IV-B - MIMAROPA,Grade 12,Female
+"31,591",2017-2018,Region V - Bicol Region,Grade 12,Female
+"35,966",2017-2018,Region VI - Western Visayas,Grade 12,Female
+"29,650",2017-2018,Region VII - Central Visayas,Grade 12,Female
+"23,593",2017-2018,Region VIII - Eastern Visayas,Grade 12,Female
+"11,390",2017-2018,Region IX - Zamboanga Peninsula,Grade 12,Female
+"15,922",2017-2018,Region X - Northern Mindanao,Grade 12,Female
+"13,700",2017-2018,Region XI - Davao Region,Grade 12,Female
+"16,706",2017-2018,Region XII - Soccsksargen,Grade 12,Female
+"10,595",2017-2018,CARAGA - CARAGA,Grade 12,Female
+"7,417",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 12,Female
+"5,054",2017-2018,CAR - Cordillera Administrative Region,Grade 12,Female
+"15,840",2017-2018,NCR - National Capital Region,Grade 12,Female
+"25,638",2018-2019,Region I - Ilocos Region,Grade 12,Male
+"15,140",2018-2019,Region II - Cagayan Valley,Grade 12,Male
+"35,987",2018-2019,Region III - Central Luzon,Grade 12,Male
+"37,310",2018-2019,Region IV-A - CALABARZON,Grade 12,Male
+"13,371",2018-2019,Region IV-B - MIMAROPA,Grade 12,Male
+"30,284",2018-2019,Region V - Bicol Region,Grade 12,Male
+"34,815",2018-2019,Region VI - Western Visayas,Grade 12,Male
+"28,961",2018-2019,Region VII - Central Visayas,Grade 12,Male
+"22,912",2018-2019,Region VIII - Eastern Visayas,Grade 12,Male
+"11,631",2018-2019,Region IX - Zamboanga Peninsula,Grade 12,Male
+"14,587",2018-2019,Region X - Northern Mindanao,Grade 12,Male
+"14,352",2018-2019,Region XI - Davao Region,Grade 12,Male
+"16,408",2018-2019,Region XII - Soccsksargen,Grade 12,Male
+"11,377",2018-2019,CARAGA - CARAGA,Grade 12,Male
+"5,200",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 12,Male
+"4,944",2018-2019,CAR - Cordillera Administrative Region,Grade 12,Male
+"19,551",2018-2019,NCR - National Capital Region,Grade 12,Male
+"26,456",2018-2019,Region I - Ilocos Region,Grade 12,Female
+"16,486",2018-2019,Region II - Cagayan Valley,Grade 12,Female
+"36,458",2018-2019,Region III - Central Luzon,Grade 12,Female
+"38,686",2018-2019,Region IV-A - CALABARZON,Grade 12,Female
+"15,358",2018-2019,Region IV-B - MIMAROPA,Grade 12,Female
+"35,423",2018-2019,Region V - Bicol Region,Grade 12,Female
+"38,171",2018-2019,Region VI - Western Visayas,Grade 12,Female
+"32,693",2018-2019,Region VII - Central Visayas,Grade 12,Female
+"25,515",2018-2019,Region VIII - Eastern Visayas,Grade 12,Female
+"14,064",2018-2019,Region IX - Zamboanga Peninsula,Grade 12,Female
+"16,805",2018-2019,Region X - Northern Mindanao,Grade 12,Female
+"16,732",2018-2019,Region XI - Davao Region,Grade 12,Female
+"18,727",2018-2019,Region XII - Soccsksargen,Grade 12,Female
+"12,829",2018-2019,CARAGA - CARAGA,Grade 12,Female
+"7,229",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 12,Female
+"6,017",2018-2019,CAR - Cordillera Administrative Region,Grade 12,Female
+"19,671",2018-2019,NCR - National Capital Region,Grade 12,Female
+"28,014",2019-2020,Region I - Ilocos Region,Grade 12,Male
+"17,255",2019-2020,Region II - Cagayan Valley,Grade 12,Male
+"40,204",2019-2020,Region III - Central Luzon,Grade 12,Male
+"41,487",2019-2020,Region IV-A - CALABARZON,Grade 12,Male
+"15,441",2019-2020,Region IV-B - MIMAROPA,Grade 12,Male
+"34,577",2019-2020,Region V - Bicol Region,Grade 12,Male
+"38,969",2019-2020,Region VI - Western Visayas,Grade 12,Male
+"33,299",2019-2020,Region VII - Central Visayas,Grade 12,Male
+"26,699",2019-2020,Region VIII - Eastern Visayas,Grade 12,Male
+"14,697",2019-2020,Region IX - Zamboanga Peninsula,Grade 12,Male
+"17,744",2019-2020,Region X - Northern Mindanao,Grade 12,Male
+"17,474",2019-2020,Region XI - Davao Region,Grade 12,Male
+"19,801",2019-2020,Region XII - Soccsksargen,Grade 12,Male
+"14,449",2019-2020,CARAGA - CARAGA,Grade 12,Male
+"6,172",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 12,Male
+"5,783",2019-2020,CAR - Cordillera Administrative Region,Grade 12,Male
+"22,215",2019-2020,NCR - National Capital Region,Grade 12,Male
+"28,524",2019-2020,Region I - Ilocos Region,Grade 12,Female
+"18,507",2019-2020,Region II - Cagayan Valley,Grade 12,Female
+"39,538",2019-2020,Region III - Central Luzon,Grade 12,Female
+"42,632",2019-2020,Region IV-A - CALABARZON,Grade 12,Female
+"17,415",2019-2020,Region IV-B - MIMAROPA,Grade 12,Female
+"39,552",2019-2020,Region V - Bicol Region,Grade 12,Female
+"41,194",2019-2020,Region VI - Western Visayas,Grade 12,Female
+"35,807",2019-2020,Region VII - Central Visayas,Grade 12,Female
+"28,810",2019-2020,Region VIII - Eastern Visayas,Grade 12,Female
+"16,872",2019-2020,Region IX - Zamboanga Peninsula,Grade 12,Female
+"19,602",2019-2020,Region X - Northern Mindanao,Grade 12,Female
+"20,209",2019-2020,Region XI - Davao Region,Grade 12,Female
+"21,491",2019-2020,Region XII - Soccsksargen,Grade 12,Female
+"14,828",2019-2020,CARAGA - CARAGA,Grade 12,Female
+"8,135",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 12,Female
+"6,411",2019-2020,CAR - Cordillera Administrative Region,Grade 12,Female
+"21,956",2019-2020,NCR - National Capital Region,Grade 12,Female
+"30,243",2020-2021,Region I - Ilocos Region,Grade 12,Male
+"19,026",2020-2021,Region II - Cagayan Valley,Grade 12,Male
+"42,578",2020-2021,Region III - Central Luzon,Grade 12,Male
+"44,119",2020-2021,Region IV-A - CALABARZON,Grade 12,Male
+"17,529",2020-2021,Region IV-B - MIMAROPA,Grade 12,Male
+"32,713",2020-2021,Region V - Bicol Region,Grade 12,Male
+"43,679",2020-2021,Region VI - Western Visayas,Grade 12,Male
+"35,718",2020-2021,Region VII - Central Visayas,Grade 12,Male
+"28,905",2020-2021,Region VIII - Eastern Visayas,Grade 12,Male
+"16,551",2020-2021,Region IX - Zamboanga Peninsula,Grade 12,Male
+"19,417",2020-2021,Region X - Northern Mindanao,Grade 12,Male
+"17,906",2020-2021,Region XI - Davao Region,Grade 12,Male
+"20,537",2020-2021,Region XII - Soccsksargen,Grade 12,Male
+"15,717",2020-2021,CARAGA - CARAGA,Grade 12,Male
+"7,530",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 12,Male
+"6,595",2020-2021,CAR - Cordillera Administrative Region,Grade 12,Male
+"23,348",2020-2021,NCR - National Capital Region,Grade 12,Male
+"30,769",2020-2021,Region I - Ilocos Region,Grade 12,Female
+"20,338",2020-2021,Region II - Cagayan Valley,Grade 12,Female
+"43,561",2020-2021,Region III - Central Luzon,Grade 12,Female
+"46,367",2020-2021,Region IV-A - CALABARZON,Grade 12,Female
+"19,546",2020-2021,Region IV-B - MIMAROPA,Grade 12,Female
+"38,086",2020-2021,Region V - Bicol Region,Grade 12,Female
+"47,524",2020-2021,Region VI - Western Visayas,Grade 12,Female
+"39,370",2020-2021,Region VII - Central Visayas,Grade 12,Female
+"32,153",2020-2021,Region VIII - Eastern Visayas,Grade 12,Female
+"19,475",2020-2021,Region IX - Zamboanga Peninsula,Grade 12,Female
+"21,733",2020-2021,Region X - Northern Mindanao,Grade 12,Female
+"20,458",2020-2021,Region XI - Davao Region,Grade 12,Female
+"23,319",2020-2021,Region XII - Soccsksargen,Grade 12,Female
+"16,592",2020-2021,CARAGA - CARAGA,Grade 12,Female
+"10,090",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 12,Female
+"7,501",2020-2021,CAR - Cordillera Administrative Region,Grade 12,Female
+"24,168",2020-2021,NCR - National Capital Region,Grade 12,Female
+"49,503",2016-2017,Region I - Ilocos Region,Grade 2,Male
+"37,764",2016-2017,Region II - Cagayan Valley,Grade 2,Male
+"108,267",2016-2017,Region III - Central Luzon,Grade 2,Male
+"137,509",2016-2017,Region IV-A - CALABARZON,Grade 2,Male
+"37,780",2016-2017,Region IV-B - MIMAROPA,Grade 2,Male
+"71,437",2016-2017,Region V - Bicol Region,Grade 2,Male
+"81,883",2016-2017,Region VI - Western Visayas,Grade 2,Male
+"84,262",2016-2017,Region VII - Central Visayas,Grade 2,Male
+"51,137",2016-2017,Region VIII - Eastern Visayas,Grade 2,Male
+"43,407",2016-2017,Region IX - Zamboanga Peninsula,Grade 2,Male
+"56,691",2016-2017,Region X - Northern Mindanao,Grade 2,Male
+"56,919",2016-2017,Region XI - Davao Region,Grade 2,Male
+"54,646",2016-2017,Region XII - Soccsksargen,Grade 2,Male
+"33,739",2016-2017,CARAGA - CARAGA,Grade 2,Male
+"48,579",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 2,Male
+"16,939",2016-2017,CAR - Cordillera Administrative Region,Grade 2,Male
+"97,590",2016-2017,NCR - National Capital Region,Grade 2,Male
+"45,633",2016-2017,Region I - Ilocos Region,Grade 2,Female
+"34,727",2016-2017,Region II - Cagayan Valley,Grade 2,Female
+"99,993",2016-2017,Region III - Central Luzon,Grade 2,Female
+"127,271",2016-2017,Region IV-A - CALABARZON,Grade 2,Female
+"34,560",2016-2017,Region IV-B - MIMAROPA,Grade 2,Female
+"64,319",2016-2017,Region V - Bicol Region,Grade 2,Female
+"74,206",2016-2017,Region VI - Western Visayas,Grade 2,Female
+"75,853",2016-2017,Region VII - Central Visayas,Grade 2,Female
+"46,606",2016-2017,Region VIII - Eastern Visayas,Grade 2,Female
+"40,070",2016-2017,Region IX - Zamboanga Peninsula,Grade 2,Female
+"50,645",2016-2017,Region X - Northern Mindanao,Grade 2,Female
+"52,146",2016-2017,Region XI - Davao Region,Grade 2,Female
+"50,464",2016-2017,Region XII - Soccsksargen,Grade 2,Female
+"30,696",2016-2017,CARAGA - CARAGA,Grade 2,Female
+"49,097",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 2,Female
+"15,698",2016-2017,CAR - Cordillera Administrative Region,Grade 2,Female
+"91,727",2016-2017,NCR - National Capital Region,Grade 2,Female
+"46,221",2017-2018,Region I - Ilocos Region,Grade 2,Male
+"34,528",2017-2018,Region II - Cagayan Valley,Grade 2,Male
+"101,598",2017-2018,Region III - Central Luzon,Grade 2,Male
+"122,347",2017-2018,Region IV-A - CALABARZON,Grade 2,Male
+"36,616",2017-2018,Region IV-B - MIMAROPA,Grade 2,Male
+"70,661",2017-2018,Region V - Bicol Region,Grade 2,Male
+"77,535",2017-2018,Region VI - Western Visayas,Grade 2,Male
+"76,977",2017-2018,Region VII - Central Visayas,Grade 2,Male
+"49,685",2017-2018,Region VIII - Eastern Visayas,Grade 2,Male
+"39,883",2017-2018,Region IX - Zamboanga Peninsula,Grade 2,Male
+"52,865",2017-2018,Region X - Northern Mindanao,Grade 2,Male
+"52,991",2017-2018,Region XI - Davao Region,Grade 2,Male
+"49,848",2017-2018,Region XII - Soccsksargen,Grade 2,Male
+"32,140",2017-2018,CARAGA - CARAGA,Grade 2,Male
+"45,678",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 2,Male
+"16,023",2017-2018,CAR - Cordillera Administrative Region,Grade 2,Male
+"88,531",2017-2018,NCR - National Capital Region,Grade 2,Male
+"42,912",2017-2018,Region I - Ilocos Region,Grade 2,Female
+"32,154",2017-2018,Region II - Cagayan Valley,Grade 2,Female
+"94,575",2017-2018,Region III - Central Luzon,Grade 2,Female
+"114,489",2017-2018,Region IV-A - CALABARZON,Grade 2,Female
+"33,675",2017-2018,Region IV-B - MIMAROPA,Grade 2,Female
+"64,225",2017-2018,Region V - Bicol Region,Grade 2,Female
+"71,204",2017-2018,Region VI - Western Visayas,Grade 2,Female
+"69,956",2017-2018,Region VII - Central Visayas,Grade 2,Female
+"45,709",2017-2018,Region VIII - Eastern Visayas,Grade 2,Female
+"37,300",2017-2018,Region IX - Zamboanga Peninsula,Grade 2,Female
+"48,657",2017-2018,Region X - Northern Mindanao,Grade 2,Female
+"49,043",2017-2018,Region XI - Davao Region,Grade 2,Female
+"46,974",2017-2018,Region XII - Soccsksargen,Grade 2,Female
+"29,473",2017-2018,CARAGA - CARAGA,Grade 2,Female
+"45,781",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 2,Female
+"14,547",2017-2018,CAR - Cordillera Administrative Region,Grade 2,Female
+"83,688",2017-2018,NCR - National Capital Region,Grade 2,Female
+"40,830",2018-2019,Region I - Ilocos Region,Grade 2,Male
+"30,802",2018-2019,Region II - Cagayan Valley,Grade 2,Male
+"92,849",2018-2019,Region III - Central Luzon,Grade 2,Male
+"117,681",2018-2019,Region IV-A - CALABARZON,Grade 2,Male
+"33,022",2018-2019,Region IV-B - MIMAROPA,Grade 2,Male
+"64,427",2018-2019,Region V - Bicol Region,Grade 2,Male
+"68,236",2018-2019,Region VI - Western Visayas,Grade 2,Male
+"65,979",2018-2019,Region VII - Central Visayas,Grade 2,Male
+"46,211",2018-2019,Region VIII - Eastern Visayas,Grade 2,Male
+"39,161",2018-2019,Region IX - Zamboanga Peninsula,Grade 2,Male
+"49,161",2018-2019,Region X - Northern Mindanao,Grade 2,Male
+"44,850",2018-2019,Region XI - Davao Region,Grade 2,Male
+"45,015",2018-2019,Region XII - Soccsksargen,Grade 2,Male
+"28,667",2018-2019,CARAGA - CARAGA,Grade 2,Male
+"44,320",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 2,Male
+"14,422",2018-2019,CAR - Cordillera Administrative Region,Grade 2,Male
+"83,514",2018-2019,NCR - National Capital Region,Grade 2,Male
+"37,016",2018-2019,Region I - Ilocos Region,Grade 2,Female
+"27,824",2018-2019,Region II - Cagayan Valley,Grade 2,Female
+"84,085",2018-2019,Region III - Central Luzon,Grade 2,Female
+"106,260",2018-2019,Region IV-A - CALABARZON,Grade 2,Female
+"29,689",2018-2019,Region IV-B - MIMAROPA,Grade 2,Female
+"56,776",2018-2019,Region V - Bicol Region,Grade 2,Female
+"61,586",2018-2019,Region VI - Western Visayas,Grade 2,Female
+"59,383",2018-2019,Region VII - Central Visayas,Grade 2,Female
+"41,577",2018-2019,Region VIII - Eastern Visayas,Grade 2,Female
+"35,990",2018-2019,Region IX - Zamboanga Peninsula,Grade 2,Female
+"44,849",2018-2019,Region X - Northern Mindanao,Grade 2,Female
+"40,219",2018-2019,Region XI - Davao Region,Grade 2,Female
+"41,965",2018-2019,Region XII - Soccsksargen,Grade 2,Female
+"25,881",2018-2019,CARAGA - CARAGA,Grade 2,Female
+"43,857",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 2,Female
+"12,953",2018-2019,CAR - Cordillera Administrative Region,Grade 2,Female
+"77,346",2018-2019,NCR - National Capital Region,Grade 2,Female
+"50,177",2019-2020,Region I - Ilocos Region,Grade 2,Male
+"37,636",2019-2020,Region II - Cagayan Valley,Grade 2,Male
+"113,317",2019-2020,Region III - Central Luzon,Grade 2,Male
+"144,599",2019-2020,Region IV-A - CALABARZON,Grade 2,Male
+"38,318",2019-2020,Region IV-B - MIMAROPA,Grade 2,Male
+"75,136",2019-2020,Region V - Bicol Region,Grade 2,Male
+"82,317",2019-2020,Region VI - Western Visayas,Grade 2,Male
+"83,668",2019-2020,Region VII - Central Visayas,Grade 2,Male
+"53,731",2019-2020,Region VIII - Eastern Visayas,Grade 2,Male
+"45,557",2019-2020,Region IX - Zamboanga Peninsula,Grade 2,Male
+"55,674",2019-2020,Region X - Northern Mindanao,Grade 2,Male
+"56,022",2019-2020,Region XI - Davao Region,Grade 2,Male
+"53,800",2019-2020,Region XII - Soccsksargen,Grade 2,Male
+"33,117",2019-2020,CARAGA - CARAGA,Grade 2,Male
+"44,710",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 2,Male
+"16,471",2019-2020,CAR - Cordillera Administrative Region,Grade 2,Male
+"95,837",2019-2020,NCR - National Capital Region,Grade 2,Male
+"45,802",2019-2020,Region I - Ilocos Region,Grade 2,Female
+"34,877",2019-2020,Region II - Cagayan Valley,Grade 2,Female
+"104,636",2019-2020,Region III - Central Luzon,Grade 2,Female
+"133,808",2019-2020,Region IV-A - CALABARZON,Grade 2,Female
+"35,343",2019-2020,Region IV-B - MIMAROPA,Grade 2,Female
+"68,633",2019-2020,Region V - Bicol Region,Grade 2,Female
+"75,545",2019-2020,Region VI - Western Visayas,Grade 2,Female
+"76,722",2019-2020,Region VII - Central Visayas,Grade 2,Female
+"49,923",2019-2020,Region VIII - Eastern Visayas,Grade 2,Female
+"42,517",2019-2020,Region IX - Zamboanga Peninsula,Grade 2,Female
+"51,662",2019-2020,Region X - Northern Mindanao,Grade 2,Female
+"52,471",2019-2020,Region XI - Davao Region,Grade 2,Female
+"50,047",2019-2020,Region XII - Soccsksargen,Grade 2,Female
+"30,400",2019-2020,CARAGA - CARAGA,Grade 2,Female
+"43,792",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 2,Female
+"15,133",2019-2020,CAR - Cordillera Administrative Region,Grade 2,Female
+"88,824",2019-2020,NCR - National Capital Region,Grade 2,Female
+"53,444",2020-2021,Region I - Ilocos Region,Grade 2,Male
+"40,677",2020-2021,Region II - Cagayan Valley,Grade 2,Male
+"121,219",2020-2021,Region III - Central Luzon,Grade 2,Male
+"152,869",2020-2021,Region IV-A - CALABARZON,Grade 2,Male
+"40,149",2020-2021,Region IV-B - MIMAROPA,Grade 2,Male
+"73,396",2020-2021,Region V - Bicol Region,Grade 2,Male
+"84,721",2020-2021,Region VI - Western Visayas,Grade 2,Male
+"83,877",2020-2021,Region VII - Central Visayas,Grade 2,Male
+"55,245",2020-2021,Region VIII - Eastern Visayas,Grade 2,Male
+"45,822",2020-2021,Region IX - Zamboanga Peninsula,Grade 2,Male
+"58,941",2020-2021,Region X - Northern Mindanao,Grade 2,Male
+"55,686",2020-2021,Region XI - Davao Region,Grade 2,Male
+"56,792",2020-2021,Region XII - Soccsksargen,Grade 2,Male
+"35,207",2020-2021,CARAGA - CARAGA,Grade 2,Male
+"44,534",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 2,Male
+"18,074",2020-2021,CAR - Cordillera Administrative Region,Grade 2,Male
+"98,195",2020-2021,NCR - National Capital Region,Grade 2,Male
+"50,144",2020-2021,Region I - Ilocos Region,Grade 2,Female
+"38,430",2020-2021,Region II - Cagayan Valley,Grade 2,Female
+"114,636",2020-2021,Region III - Central Luzon,Grade 2,Female
+"144,681",2020-2021,Region IV-A - CALABARZON,Grade 2,Female
+"36,958",2020-2021,Region IV-B - MIMAROPA,Grade 2,Female
+"67,089",2020-2021,Region V - Bicol Region,Grade 2,Female
+"78,498",2020-2021,Region VI - Western Visayas,Grade 2,Female
+"77,772",2020-2021,Region VII - Central Visayas,Grade 2,Female
+"51,791",2020-2021,Region VIII - Eastern Visayas,Grade 2,Female
+"42,608",2020-2021,Region IX - Zamboanga Peninsula,Grade 2,Female
+"55,016",2020-2021,Region X - Northern Mindanao,Grade 2,Female
+"52,439",2020-2021,Region XI - Davao Region,Grade 2,Female
+"53,670",2020-2021,Region XII - Soccsksargen,Grade 2,Female
+"32,829",2020-2021,CARAGA - CARAGA,Grade 2,Female
+"43,882",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 2,Female
+"17,000",2020-2021,CAR - Cordillera Administrative Region,Grade 2,Female
+"92,251",2020-2021,NCR - National Capital Region,Grade 2,Female
+"54,119",2016-2017,Region I - Ilocos Region,Grade 3,Male
+"39,079",2016-2017,Region II - Cagayan Valley,Grade 3,Male
+"117,636",2016-2017,Region III - Central Luzon,Grade 3,Male
+"144,402",2016-2017,Region IV-A - CALABARZON,Grade 3,Male
+"39,690",2016-2017,Region IV-B - MIMAROPA,Grade 3,Male
+"75,888",2016-2017,Region V - Bicol Region,Grade 3,Male
+"88,035",2016-2017,Region VI - Western Visayas,Grade 3,Male
+"86,302",2016-2017,Region VII - Central Visayas,Grade 3,Male
+"57,061",2016-2017,Region VIII - Eastern Visayas,Grade 3,Male
+"48,109",2016-2017,Region IX - Zamboanga Peninsula,Grade 3,Male
+"57,383",2016-2017,Region X - Northern Mindanao,Grade 3,Male
+"56,255",2016-2017,Region XI - Davao Region,Grade 3,Male
+"56,607",2016-2017,Region XII - Soccsksargen,Grade 3,Male
+"35,257",2016-2017,CARAGA - CARAGA,Grade 3,Male
+"45,168",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 3,Male
+"18,055",2016-2017,CAR - Cordillera Administrative Region,Grade 3,Male
+"104,028",2016-2017,NCR - National Capital Region,Grade 3,Male
+"48,891",2016-2017,Region I - Ilocos Region,Grade 3,Female
+"35,913",2016-2017,Region II - Cagayan Valley,Grade 3,Female
+"108,025",2016-2017,Region III - Central Luzon,Grade 3,Female
+"132,922",2016-2017,Region IV-A - CALABARZON,Grade 3,Female
+"36,017",2016-2017,Region IV-B - MIMAROPA,Grade 3,Female
+"69,254",2016-2017,Region V - Bicol Region,Grade 3,Female
+"79,202",2016-2017,Region VI - Western Visayas,Grade 3,Female
+"78,325",2016-2017,Region VII - Central Visayas,Grade 3,Female
+"51,579",2016-2017,Region VIII - Eastern Visayas,Grade 3,Female
+"43,735",2016-2017,Region IX - Zamboanga Peninsula,Grade 3,Female
+"51,583",2016-2017,Region X - Northern Mindanao,Grade 3,Female
+"51,218",2016-2017,Region XI - Davao Region,Grade 3,Female
+"51,977",2016-2017,Region XII - Soccsksargen,Grade 3,Female
+"31,524",2016-2017,CARAGA - CARAGA,Grade 3,Female
+"46,206",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 3,Female
+"16,367",2016-2017,CAR - Cordillera Administrative Region,Grade 3,Female
+"97,071",2016-2017,NCR - National Capital Region,Grade 3,Female
+"49,464",2017-2018,Region I - Ilocos Region,Grade 3,Male
+"37,272",2017-2018,Region II - Cagayan Valley,Grade 3,Male
+"107,922",2017-2018,Region III - Central Luzon,Grade 3,Male
+"136,857",2017-2018,Region IV-A - CALABARZON,Grade 3,Male
+"37,244",2017-2018,Region IV-B - MIMAROPA,Grade 3,Male
+"70,382",2017-2018,Region V - Bicol Region,Grade 3,Male
+"81,109",2017-2018,Region VI - Western Visayas,Grade 3,Male
+"82,951",2017-2018,Region VII - Central Visayas,Grade 3,Male
+"50,785",2017-2018,Region VIII - Eastern Visayas,Grade 3,Male
+"42,837",2017-2018,Region IX - Zamboanga Peninsula,Grade 3,Male
+"55,750",2017-2018,Region X - Northern Mindanao,Grade 3,Male
+"56,471",2017-2018,Region XI - Davao Region,Grade 3,Male
+"53,894",2017-2018,Region XII - Soccsksargen,Grade 3,Male
+"32,957",2017-2018,CARAGA - CARAGA,Grade 3,Male
+"42,227",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 3,Male
+"16,772",2017-2018,CAR - Cordillera Administrative Region,Grade 3,Male
+"95,600",2017-2018,NCR - National Capital Region,Grade 3,Male
+"45,664",2017-2018,Region I - Ilocos Region,Grade 3,Female
+"34,552",2017-2018,Region II - Cagayan Valley,Grade 3,Female
+"100,033",2017-2018,Region III - Central Luzon,Grade 3,Female
+"127,942",2017-2018,Region IV-A - CALABARZON,Grade 3,Female
+"34,203",2017-2018,Region IV-B - MIMAROPA,Grade 3,Female
+"63,820",2017-2018,Region V - Bicol Region,Grade 3,Female
+"73,968",2017-2018,Region VI - Western Visayas,Grade 3,Female
+"75,325",2017-2018,Region VII - Central Visayas,Grade 3,Female
+"46,322",2017-2018,Region VIII - Eastern Visayas,Grade 3,Female
+"39,592",2017-2018,Region IX - Zamboanga Peninsula,Grade 3,Female
+"50,216",2017-2018,Region X - Northern Mindanao,Grade 3,Female
+"51,818",2017-2018,Region XI - Davao Region,Grade 3,Female
+"49,924",2017-2018,Region XII - Soccsksargen,Grade 3,Female
+"30,404",2017-2018,CARAGA - CARAGA,Grade 3,Female
+"42,473",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 3,Female
+"15,593",2017-2018,CAR - Cordillera Administrative Region,Grade 3,Female
+"90,296",2017-2018,NCR - National Capital Region,Grade 3,Female
+"46,222",2018-2019,Region I - Ilocos Region,Grade 3,Male
+"34,360",2018-2019,Region II - Cagayan Valley,Grade 3,Male
+"101,964",2018-2019,Region III - Central Luzon,Grade 3,Male
+"123,948",2018-2019,Region IV-A - CALABARZON,Grade 3,Male
+"36,195",2018-2019,Region IV-B - MIMAROPA,Grade 3,Male
+"69,460",2018-2019,Region V - Bicol Region,Grade 3,Male
+"77,253",2018-2019,Region VI - Western Visayas,Grade 3,Male
+"76,822",2018-2019,Region VII - Central Visayas,Grade 3,Male
+"49,033",2018-2019,Region VIII - Eastern Visayas,Grade 3,Male
+"39,887",2018-2019,Region IX - Zamboanga Peninsula,Grade 3,Male
+"52,286",2018-2019,Region X - Northern Mindanao,Grade 3,Male
+"52,879",2018-2019,Region XI - Davao Region,Grade 3,Male
+"49,551",2018-2019,Region XII - Soccsksargen,Grade 3,Male
+"31,666",2018-2019,CARAGA - CARAGA,Grade 3,Male
+"41,761",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 3,Male
+"15,914",2018-2019,CAR - Cordillera Administrative Region,Grade 3,Male
+"88,393",2018-2019,NCR - National Capital Region,Grade 3,Male
+"42,932",2018-2019,Region I - Ilocos Region,Grade 3,Female
+"32,085",2018-2019,Region II - Cagayan Valley,Grade 3,Female
+"95,249",2018-2019,Region III - Central Luzon,Grade 3,Female
+"116,632",2018-2019,Region IV-A - CALABARZON,Grade 3,Female
+"33,282",2018-2019,Region IV-B - MIMAROPA,Grade 3,Female
+"63,586",2018-2019,Region V - Bicol Region,Grade 3,Female
+"71,014",2018-2019,Region VI - Western Visayas,Grade 3,Female
+"70,247",2018-2019,Region VII - Central Visayas,Grade 3,Female
+"45,368",2018-2019,Region VIII - Eastern Visayas,Grade 3,Female
+"37,501",2018-2019,Region IX - Zamboanga Peninsula,Grade 3,Female
+"48,152",2018-2019,Region X - Northern Mindanao,Grade 3,Female
+"49,238",2018-2019,Region XI - Davao Region,Grade 3,Female
+"46,853",2018-2019,Region XII - Soccsksargen,Grade 3,Female
+"29,305",2018-2019,CARAGA - CARAGA,Grade 3,Female
+"41,601",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 3,Female
+"14,568",2018-2019,CAR - Cordillera Administrative Region,Grade 3,Female
+"83,449",2018-2019,NCR - National Capital Region,Grade 3,Female
+"40,931",2019-2020,Region I - Ilocos Region,Grade 3,Male
+"30,706",2019-2020,Region II - Cagayan Valley,Grade 3,Male
+"92,857",2019-2020,Region III - Central Luzon,Grade 3,Male
+"118,645",2019-2020,Region IV-A - CALABARZON,Grade 3,Male
+"32,560",2019-2020,Region IV-B - MIMAROPA,Grade 3,Male
+"63,725",2019-2020,Region V - Bicol Region,Grade 3,Male
+"68,129",2019-2020,Region VI - Western Visayas,Grade 3,Male
+"65,901",2019-2020,Region VII - Central Visayas,Grade 3,Male
+"45,902",2019-2020,Region VIII - Eastern Visayas,Grade 3,Male
+"38,786",2019-2020,Region IX - Zamboanga Peninsula,Grade 3,Male
+"48,790",2019-2020,Region X - Northern Mindanao,Grade 3,Male
+"45,021",2019-2020,Region XI - Davao Region,Grade 3,Male
+"44,791",2019-2020,Region XII - Soccsksargen,Grade 3,Male
+"28,451",2019-2020,CARAGA - CARAGA,Grade 3,Male
+"41,061",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 3,Male
+"14,324",2019-2020,CAR - Cordillera Administrative Region,Grade 3,Male
+"83,345",2019-2020,NCR - National Capital Region,Grade 3,Male
+"37,062",2019-2020,Region I - Ilocos Region,Grade 3,Female
+"27,846",2019-2020,Region II - Cagayan Valley,Grade 3,Female
+"84,725",2019-2020,Region III - Central Luzon,Grade 3,Female
+"107,517",2019-2020,Region IV-A - CALABARZON,Grade 3,Female
+"29,661",2019-2020,Region IV-B - MIMAROPA,Grade 3,Female
+"56,410",2019-2020,Region V - Bicol Region,Grade 3,Female
+"61,507",2019-2020,Region VI - Western Visayas,Grade 3,Female
+"59,586",2019-2020,Region VII - Central Visayas,Grade 3,Female
+"41,221",2019-2020,Region VIII - Eastern Visayas,Grade 3,Female
+"35,901",2019-2020,Region IX - Zamboanga Peninsula,Grade 3,Female
+"44,769",2019-2020,Region X - Northern Mindanao,Grade 3,Female
+"40,349",2019-2020,Region XI - Davao Region,Grade 3,Female
+"41,728",2019-2020,Region XII - Soccsksargen,Grade 3,Female
+"25,772",2019-2020,CARAGA - CARAGA,Grade 3,Female
+"40,809",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 3,Female
+"12,950",2019-2020,CAR - Cordillera Administrative Region,Grade 3,Female
+"77,376",2019-2020,NCR - National Capital Region,Grade 3,Female
+"51,146",2020-2021,Region I - Ilocos Region,Grade 3,Male
+"38,175",2020-2021,Region II - Cagayan Valley,Grade 3,Male
+"114,662",2020-2021,Region III - Central Luzon,Grade 3,Male
+"146,039",2020-2021,Region IV-A - CALABARZON,Grade 3,Male
+"37,614",2020-2021,Region IV-B - MIMAROPA,Grade 3,Male
+"71,434",2020-2021,Region V - Bicol Region,Grade 3,Male
+"82,568",2020-2021,Region VI - Western Visayas,Grade 3,Male
+"82,362",2020-2021,Region VII - Central Visayas,Grade 3,Male
+"53,538",2020-2021,Region VIII - Eastern Visayas,Grade 3,Male
+"44,085",2020-2021,Region IX - Zamboanga Peninsula,Grade 3,Male
+"54,622",2020-2021,Region X - Northern Mindanao,Grade 3,Male
+"53,904",2020-2021,Region XI - Davao Region,Grade 3,Male
+"53,518",2020-2021,Region XII - Soccsksargen,Grade 3,Male
+"32,871",2020-2021,CARAGA - CARAGA,Grade 3,Male
+"40,937",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 3,Male
+"16,728",2020-2021,CAR - Cordillera Administrative Region,Grade 3,Male
+"95,783",2020-2021,NCR - National Capital Region,Grade 3,Male
+"46,841",2020-2021,Region I - Ilocos Region,Grade 3,Female
+"35,416",2020-2021,Region II - Cagayan Valley,Grade 3,Female
+"106,430",2020-2021,Region III - Central Luzon,Grade 3,Female
+"136,073",2020-2021,Region IV-A - CALABARZON,Grade 3,Female
+"34,908",2020-2021,Region IV-B - MIMAROPA,Grade 3,Female
+"65,970",2020-2021,Region V - Bicol Region,Grade 3,Female
+"76,019",2020-2021,Region VI - Western Visayas,Grade 3,Female
+"76,021",2020-2021,Region VII - Central Visayas,Grade 3,Female
+"49,788",2020-2021,Region VIII - Eastern Visayas,Grade 3,Female
+"41,317",2020-2021,Region IX - Zamboanga Peninsula,Grade 3,Female
+"51,047",2020-2021,Region X - Northern Mindanao,Grade 3,Female
+"50,798",2020-2021,Region XI - Davao Region,Grade 3,Female
+"49,784",2020-2021,Region XII - Soccsksargen,Grade 3,Female
+"30,353",2020-2021,CARAGA - CARAGA,Grade 3,Female
+"40,246",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 3,Female
+"15,358",2020-2021,CAR - Cordillera Administrative Region,Grade 3,Female
+"89,172",2020-2021,NCR - National Capital Region,Grade 3,Female
+"55,918",2016-2017,Region I - Ilocos Region,Grade 4,Male
+"38,621",2016-2017,Region II - Cagayan Valley,Grade 4,Male
+"118,165",2016-2017,Region III - Central Luzon,Grade 4,Male
+"145,620",2016-2017,Region IV-A - CALABARZON,Grade 4,Male
+"39,371",2016-2017,Region IV-B - MIMAROPA,Grade 4,Male
+"80,525",2016-2017,Region V - Bicol Region,Grade 4,Male
+"92,769",2016-2017,Region VI - Western Visayas,Grade 4,Male
+"89,152",2016-2017,Region VII - Central Visayas,Grade 4,Male
+"58,556",2016-2017,Region VIII - Eastern Visayas,Grade 4,Male
+"50,001",2016-2017,Region IX - Zamboanga Peninsula,Grade 4,Male
+"58,797",2016-2017,Region X - Northern Mindanao,Grade 4,Male
+"61,872",2016-2017,Region XI - Davao Region,Grade 4,Male
+"56,128",2016-2017,Region XII - Soccsksargen,Grade 4,Male
+"34,873",2016-2017,CARAGA - CARAGA,Grade 4,Male
+"40,933",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 4,Male
+"18,620",2016-2017,CAR - Cordillera Administrative Region,Grade 4,Male
+"103,886",2016-2017,NCR - National Capital Region,Grade 4,Male
+"49,453",2016-2017,Region I - Ilocos Region,Grade 4,Female
+"35,194",2016-2017,Region II - Cagayan Valley,Grade 4,Female
+"107,658",2016-2017,Region III - Central Luzon,Grade 4,Female
+"133,005",2016-2017,Region IV-A - CALABARZON,Grade 4,Female
+"35,623",2016-2017,Region IV-B - MIMAROPA,Grade 4,Female
+"71,638",2016-2017,Region V - Bicol Region,Grade 4,Female
+"82,562",2016-2017,Region VI - Western Visayas,Grade 4,Female
+"78,958",2016-2017,Region VII - Central Visayas,Grade 4,Female
+"51,581",2016-2017,Region VIII - Eastern Visayas,Grade 4,Female
+"44,645",2016-2017,Region IX - Zamboanga Peninsula,Grade 4,Female
+"53,202",2016-2017,Region X - Northern Mindanao,Grade 4,Female
+"54,812",2016-2017,Region XI - Davao Region,Grade 4,Female
+"51,777",2016-2017,Region XII - Soccsksargen,Grade 4,Female
+"31,123",2016-2017,CARAGA - CARAGA,Grade 4,Female
+"42,522",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 4,Female
+"16,687",2016-2017,CAR - Cordillera Administrative Region,Grade 4,Female
+"96,602",2016-2017,NCR - National Capital Region,Grade 4,Female
+"53,775",2017-2018,Region I - Ilocos Region,Grade 4,Male
+"38,349",2017-2018,Region II - Cagayan Valley,Grade 4,Male
+"116,205",2017-2018,Region III - Central Luzon,Grade 4,Male
+"143,151",2017-2018,Region IV-A - CALABARZON,Grade 4,Male
+"38,671",2017-2018,Region IV-B - MIMAROPA,Grade 4,Male
+"74,441",2017-2018,Region V - Bicol Region,Grade 4,Male
+"87,032",2017-2018,Region VI - Western Visayas,Grade 4,Male
+"84,819",2017-2018,Region VII - Central Visayas,Grade 4,Male
+"55,783",2017-2018,Region VIII - Eastern Visayas,Grade 4,Male
+"46,476",2017-2018,Region IX - Zamboanga Peninsula,Grade 4,Male
+"55,770",2017-2018,Region X - Northern Mindanao,Grade 4,Male
+"55,206",2017-2018,Region XI - Davao Region,Grade 4,Male
+"55,588",2017-2018,Region XII - Soccsksargen,Grade 4,Male
+"34,181",2017-2018,CARAGA - CARAGA,Grade 4,Male
+"39,862",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 4,Male
+"17,780",2017-2018,CAR - Cordillera Administrative Region,Grade 4,Male
+"100,665",2017-2018,NCR - National Capital Region,Grade 4,Male
+"48,760",2017-2018,Region I - Ilocos Region,Grade 4,Female
+"35,638",2017-2018,Region II - Cagayan Valley,Grade 4,Female
+"107,880",2017-2018,Region III - Central Luzon,Grade 4,Female
+"132,858",2017-2018,Region IV-A - CALABARZON,Grade 4,Female
+"35,595",2017-2018,Region IV-B - MIMAROPA,Grade 4,Female
+"68,443",2017-2018,Region V - Bicol Region,Grade 4,Female
+"78,910",2017-2018,Region VI - Western Visayas,Grade 4,Female
+"77,757",2017-2018,Region VII - Central Visayas,Grade 4,Female
+"51,207",2017-2018,Region VIII - Eastern Visayas,Grade 4,Female
+"42,881",2017-2018,Region IX - Zamboanga Peninsula,Grade 4,Female
+"51,174",2017-2018,Region X - Northern Mindanao,Grade 4,Female
+"50,918",2017-2018,Region XI - Davao Region,Grade 4,Female
+"51,549",2017-2018,Region XII - Soccsksargen,Grade 4,Female
+"31,140",2017-2018,CARAGA - CARAGA,Grade 4,Female
+"40,889",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 4,Female
+"16,199",2017-2018,CAR - Cordillera Administrative Region,Grade 4,Female
+"95,037",2017-2018,NCR - National Capital Region,Grade 4,Female
+"49,234",2018-2019,Region I - Ilocos Region,Grade 4,Male
+"36,881",2018-2019,Region II - Cagayan Valley,Grade 4,Male
+"107,770",2018-2019,Region III - Central Luzon,Grade 4,Male
+"136,820",2018-2019,Region IV-A - CALABARZON,Grade 4,Male
+"36,445",2018-2019,Region IV-B - MIMAROPA,Grade 4,Male
+"69,223",2018-2019,Region V - Bicol Region,Grade 4,Male
+"80,463",2018-2019,Region VI - Western Visayas,Grade 4,Male
+"82,317",2018-2019,Region VII - Central Visayas,Grade 4,Male
+"49,991",2018-2019,Region VIII - Eastern Visayas,Grade 4,Male
+"42,549",2018-2019,Region IX - Zamboanga Peninsula,Grade 4,Male
+"54,465",2018-2019,Region X - Northern Mindanao,Grade 4,Male
+"55,454",2018-2019,Region XI - Davao Region,Grade 4,Male
+"53,059",2018-2019,Region XII - Soccsksargen,Grade 4,Male
+"32,352",2018-2019,CARAGA - CARAGA,Grade 4,Male
+"38,553",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 4,Male
+"16,736",2018-2019,CAR - Cordillera Administrative Region,Grade 4,Male
+"94,422",2018-2019,NCR - National Capital Region,Grade 4,Male
+"45,681",2018-2019,Region I - Ilocos Region,Grade 4,Female
+"34,469",2018-2019,Region II - Cagayan Valley,Grade 4,Female
+"100,385",2018-2019,Region III - Central Luzon,Grade 4,Female
+"129,055",2018-2019,Region IV-A - CALABARZON,Grade 4,Female
+"34,051",2018-2019,Region IV-B - MIMAROPA,Grade 4,Female
+"63,366",2018-2019,Region V - Bicol Region,Grade 4,Female
+"73,748",2018-2019,Region VI - Western Visayas,Grade 4,Female
+"75,473",2018-2019,Region VII - Central Visayas,Grade 4,Female
+"46,077",2018-2019,Region VIII - Eastern Visayas,Grade 4,Female
+"39,581",2018-2019,Region IX - Zamboanga Peninsula,Grade 4,Female
+"49,677",2018-2019,Region X - Northern Mindanao,Grade 4,Female
+"51,777",2018-2019,Region XI - Davao Region,Grade 4,Female
+"49,756",2018-2019,Region XII - Soccsksargen,Grade 4,Female
+"30,133",2018-2019,CARAGA - CARAGA,Grade 4,Female
+"39,321",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 4,Female
+"15,602",2018-2019,CAR - Cordillera Administrative Region,Grade 4,Female
+"89,997",2018-2019,NCR - National Capital Region,Grade 4,Female
+"46,231",2019-2020,Region I - Ilocos Region,Grade 4,Male
+"34,155",2019-2020,Region II - Cagayan Valley,Grade 4,Male
+"101,862",2019-2020,Region III - Central Luzon,Grade 4,Male
+"124,475",2019-2020,Region IV-A - CALABARZON,Grade 4,Male
+"35,504",2019-2020,Region IV-B - MIMAROPA,Grade 4,Male
+"68,349",2019-2020,Region V - Bicol Region,Grade 4,Male
+"76,689",2019-2020,Region VI - Western Visayas,Grade 4,Male
+"76,085",2019-2020,Region VII - Central Visayas,Grade 4,Male
+"48,561",2019-2020,Region VIII - Eastern Visayas,Grade 4,Male
+"39,550",2019-2020,Region IX - Zamboanga Peninsula,Grade 4,Male
+"51,580",2019-2020,Region X - Northern Mindanao,Grade 4,Male
+"52,159",2019-2020,Region XI - Davao Region,Grade 4,Male
+"48,824",2019-2020,Region XII - Soccsksargen,Grade 4,Male
+"31,261",2019-2020,CARAGA - CARAGA,Grade 4,Male
+"38,425",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 4,Male
+"15,891",2019-2020,CAR - Cordillera Administrative Region,Grade 4,Male
+"87,525",2019-2020,NCR - National Capital Region,Grade 4,Male
+"42,969",2019-2020,Region I - Ilocos Region,Grade 4,Female
+"32,046",2019-2020,Region II - Cagayan Valley,Grade 4,Female
+"95,618",2019-2020,Region III - Central Luzon,Grade 4,Female
+"117,501",2019-2020,Region IV-A - CALABARZON,Grade 4,Female
+"33,027",2019-2020,Region IV-B - MIMAROPA,Grade 4,Female
+"63,002",2019-2020,Region V - Bicol Region,Grade 4,Female
+"70,957",2019-2020,Region VI - Western Visayas,Grade 4,Female
+"70,154",2019-2020,Region VII - Central Visayas,Grade 4,Female
+"45,110",2019-2020,Region VIII - Eastern Visayas,Grade 4,Female
+"37,344",2019-2020,Region IX - Zamboanga Peninsula,Grade 4,Female
+"47,805",2019-2020,Region X - Northern Mindanao,Grade 4,Female
+"49,114",2019-2020,Region XI - Davao Region,Grade 4,Female
+"46,512",2019-2020,Region XII - Soccsksargen,Grade 4,Female
+"29,122",2019-2020,CARAGA - CARAGA,Grade 4,Female
+"38,628",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 4,Female
+"14,565",2019-2020,CAR - Cordillera Administrative Region,Grade 4,Female
+"82,911",2019-2020,NCR - National Capital Region,Grade 4,Female
+"41,838",2020-2021,Region I - Ilocos Region,Grade 4,Male
+"31,149",2020-2021,Region II - Cagayan Valley,Grade 4,Male
+"94,087",2020-2021,Region III - Central Luzon,Grade 4,Male
+"119,212",2020-2021,Region IV-A - CALABARZON,Grade 4,Male
+"31,818",2020-2021,Region IV-B - MIMAROPA,Grade 4,Male
+"60,695",2020-2021,Region V - Bicol Region,Grade 4,Male
+"68,684",2020-2021,Region VI - Western Visayas,Grade 4,Male
+"65,182",2020-2021,Region VII - Central Visayas,Grade 4,Male
+"45,718",2020-2021,Region VIII - Eastern Visayas,Grade 4,Male
+"37,700",2020-2021,Region IX - Zamboanga Peninsula,Grade 4,Male
+"47,683",2020-2021,Region X - Northern Mindanao,Grade 4,Male
+"43,132",2020-2021,Region XI - Davao Region,Grade 4,Male
+"44,562",2020-2021,Region XII - Soccsksargen,Grade 4,Male
+"28,343",2020-2021,CARAGA - CARAGA,Grade 4,Male
+"37,536",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 4,Male
+"14,572",2020-2021,CAR - Cordillera Administrative Region,Grade 4,Male
+"82,853",2020-2021,NCR - National Capital Region,Grade 4,Male
+"37,881",2020-2021,Region I - Ilocos Region,Grade 4,Female
+"28,293",2020-2021,Region II - Cagayan Valley,Grade 4,Female
+"86,262",2020-2021,Region III - Central Luzon,Grade 4,Female
+"109,148",2020-2021,Region IV-A - CALABARZON,Grade 4,Female
+"29,368",2020-2021,Region IV-B - MIMAROPA,Grade 4,Female
+"54,332",2020-2021,Region V - Bicol Region,Grade 4,Female
+"61,935",2020-2021,Region VI - Western Visayas,Grade 4,Female
+"59,478",2020-2021,Region VII - Central Visayas,Grade 4,Female
+"41,177",2020-2021,Region VIII - Eastern Visayas,Grade 4,Female
+"35,067",2020-2021,Region IX - Zamboanga Peninsula,Grade 4,Female
+"44,131",2020-2021,Region X - Northern Mindanao,Grade 4,Female
+"39,215",2020-2021,Region XI - Davao Region,Grade 4,Female
+"41,726",2020-2021,Region XII - Soccsksargen,Grade 4,Female
+"25,712",2020-2021,CARAGA - CARAGA,Grade 4,Female
+"37,688",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 4,Female
+"13,171",2020-2021,CAR - Cordillera Administrative Region,Grade 4,Female
+"77,649",2020-2021,NCR - National Capital Region,Grade 4,Female
+"58,032",2016-2017,Region I - Ilocos Region,Grade 5,Male
+"41,140",2016-2017,Region II - Cagayan Valley,Grade 5,Male
+"122,640",2016-2017,Region III - Central Luzon,Grade 5,Male
+"157,651",2016-2017,Region IV-A - CALABARZON,Grade 5,Male
+"44,777",2016-2017,Region IV-B - MIMAROPA,Grade 5,Male
+"96,178",2016-2017,Region V - Bicol Region,Grade 5,Male
+"108,849",2016-2017,Region VI - Western Visayas,Grade 5,Male
+"104,273",2016-2017,Region VII - Central Visayas,Grade 5,Male
+"64,259",2016-2017,Region VIII - Eastern Visayas,Grade 5,Male
+"57,733",2016-2017,Region IX - Zamboanga Peninsula,Grade 5,Male
+"62,844",2016-2017,Region X - Northern Mindanao,Grade 5,Male
+"67,902",2016-2017,Region XI - Davao Region,Grade 5,Male
+"59,720",2016-2017,Region XII - Soccsksargen,Grade 5,Male
+"36,828",2016-2017,CARAGA - CARAGA,Grade 5,Male
+"36,388",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 5,Male
+"19,991",2016-2017,CAR - Cordillera Administrative Region,Grade 5,Male
+"106,546",2016-2017,NCR - National Capital Region,Grade 5,Male
+"50,894",2016-2017,Region I - Ilocos Region,Grade 5,Female
+"37,039",2016-2017,Region II - Cagayan Valley,Grade 5,Female
+"110,290",2016-2017,Region III - Central Luzon,Grade 5,Female
+"140,698",2016-2017,Region IV-A - CALABARZON,Grade 5,Female
+"38,596",2016-2017,Region IV-B - MIMAROPA,Grade 5,Female
+"81,848",2016-2017,Region V - Bicol Region,Grade 5,Female
+"91,890",2016-2017,Region VI - Western Visayas,Grade 5,Female
+"90,962",2016-2017,Region VII - Central Visayas,Grade 5,Female
+"56,245",2016-2017,Region VIII - Eastern Visayas,Grade 5,Female
+"50,416",2016-2017,Region IX - Zamboanga Peninsula,Grade 5,Female
+"56,513",2016-2017,Region X - Northern Mindanao,Grade 5,Female
+"60,610",2016-2017,Region XI - Davao Region,Grade 5,Female
+"54,927",2016-2017,Region XII - Soccsksargen,Grade 5,Female
+"33,169",2016-2017,CARAGA - CARAGA,Grade 5,Female
+"39,871",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 5,Female
+"17,488",2016-2017,CAR - Cordillera Administrative Region,Grade 5,Female
+"98,656",2016-2017,NCR - National Capital Region,Grade 5,Female
+"55,381",2017-2018,Region I - Ilocos Region,Grade 5,Male
+"37,883",2017-2018,Region II - Cagayan Valley,Grade 5,Male
+"116,625",2017-2018,Region III - Central Luzon,Grade 5,Male
+"143,470",2017-2018,Region IV-A - CALABARZON,Grade 5,Male
+"38,327",2017-2018,Region IV-B - MIMAROPA,Grade 5,Male
+"78,524",2017-2018,Region V - Bicol Region,Grade 5,Male
+"90,806",2017-2018,Region VI - Western Visayas,Grade 5,Male
+"86,513",2017-2018,Region VII - Central Visayas,Grade 5,Male
+"57,290",2017-2018,Region VIII - Eastern Visayas,Grade 5,Male
+"47,944",2017-2018,Region IX - Zamboanga Peninsula,Grade 5,Male
+"56,834",2017-2018,Region X - Northern Mindanao,Grade 5,Male
+"59,857",2017-2018,Region XI - Davao Region,Grade 5,Male
+"54,602",2017-2018,Region XII - Soccsksargen,Grade 5,Male
+"33,875",2017-2018,CARAGA - CARAGA,Grade 5,Male
+"36,500",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 5,Male
+"18,249",2017-2018,CAR - Cordillera Administrative Region,Grade 5,Male
+"100,726",2017-2018,NCR - National Capital Region,Grade 5,Male
+"49,271",2017-2018,Region I - Ilocos Region,Grade 5,Female
+"34,900",2017-2018,Region II - Cagayan Valley,Grade 5,Female
+"107,239",2017-2018,Region III - Central Luzon,Grade 5,Female
+"132,820",2017-2018,Region IV-A - CALABARZON,Grade 5,Female
+"35,218",2017-2018,Region IV-B - MIMAROPA,Grade 5,Female
+"70,674",2017-2018,Region V - Bicol Region,Grade 5,Female
+"82,093",2017-2018,Region VI - Western Visayas,Grade 5,Female
+"78,178",2017-2018,Region VII - Central Visayas,Grade 5,Female
+"51,070",2017-2018,Region VIII - Eastern Visayas,Grade 5,Female
+"43,730",2017-2018,Region IX - Zamboanga Peninsula,Grade 5,Female
+"52,550",2017-2018,Region X - Northern Mindanao,Grade 5,Female
+"54,185",2017-2018,Region XI - Davao Region,Grade 5,Female
+"51,233",2017-2018,Region XII - Soccsksargen,Grade 5,Female
+"30,730",2017-2018,CARAGA - CARAGA,Grade 5,Female
+"38,789",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 5,Female
+"16,524",2017-2018,CAR - Cordillera Administrative Region,Grade 5,Female
+"94,801",2017-2018,NCR - National Capital Region,Grade 5,Female
+"53,255",2018-2019,Region I - Ilocos Region,Grade 5,Male
+"37,837",2018-2019,Region II - Cagayan Valley,Grade 5,Male
+"115,159",2018-2019,Region III - Central Luzon,Grade 5,Male
+"142,389",2018-2019,Region IV-A - CALABARZON,Grade 5,Male
+"37,686",2018-2019,Region IV-B - MIMAROPA,Grade 5,Male
+"73,099",2018-2019,Region V - Bicol Region,Grade 5,Male
+"85,804",2018-2019,Region VI - Western Visayas,Grade 5,Male
+"83,662",2018-2019,Region VII - Central Visayas,Grade 5,Male
+"54,511",2018-2019,Region VIII - Eastern Visayas,Grade 5,Male
+"45,750",2018-2019,Region IX - Zamboanga Peninsula,Grade 5,Male
+"54,538",2018-2019,Region X - Northern Mindanao,Grade 5,Male
+"54,228",2018-2019,Region XI - Davao Region,Grade 5,Male
+"54,084",2018-2019,Region XII - Soccsksargen,Grade 5,Male
+"33,306",2018-2019,CARAGA - CARAGA,Grade 5,Male
+"36,370",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 5,Male
+"17,569",2018-2019,CAR - Cordillera Administrative Region,Grade 5,Male
+"99,301",2018-2019,NCR - National Capital Region,Grade 5,Male
+"48,739",2018-2019,Region I - Ilocos Region,Grade 5,Female
+"35,499",2018-2019,Region II - Cagayan Valley,Grade 5,Female
+"108,076",2018-2019,Region III - Central Luzon,Grade 5,Female
+"133,627",2018-2019,Region IV-A - CALABARZON,Grade 5,Female
+"35,296",2018-2019,Region IV-B - MIMAROPA,Grade 5,Female
+"67,995",2018-2019,Region V - Bicol Region,Grade 5,Female
+"78,702",2018-2019,Region VI - Western Visayas,Grade 5,Female
+"77,722",2018-2019,Region VII - Central Visayas,Grade 5,Female
+"50,728",2018-2019,Region VIII - Eastern Visayas,Grade 5,Female
+"42,730",2018-2019,Region IX - Zamboanga Peninsula,Grade 5,Female
+"50,702",2018-2019,Region X - Northern Mindanao,Grade 5,Female
+"50,957",2018-2019,Region XI - Davao Region,Grade 5,Female
+"51,161",2018-2019,Region XII - Soccsksargen,Grade 5,Female
+"30,860",2018-2019,CARAGA - CARAGA,Grade 5,Female
+"38,484",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 5,Female
+"16,085",2018-2019,CAR - Cordillera Administrative Region,Grade 5,Female
+"94,872",2018-2019,NCR - National Capital Region,Grade 5,Female
+"49,086",2019-2020,Region I - Ilocos Region,Grade 5,Male
+"36,565",2019-2020,Region II - Cagayan Valley,Grade 5,Male
+"107,350",2019-2020,Region III - Central Luzon,Grade 5,Male
+"137,106",2019-2020,Region IV-A - CALABARZON,Grade 5,Male
+"36,040",2019-2020,Region IV-B - MIMAROPA,Grade 5,Male
+"68,177",2019-2020,Region V - Bicol Region,Grade 5,Male
+"79,815",2019-2020,Region VI - Western Visayas,Grade 5,Male
+"80,963",2019-2020,Region VII - Central Visayas,Grade 5,Male
+"49,384",2019-2020,Region VIII - Eastern Visayas,Grade 5,Male
+"41,859",2019-2020,Region IX - Zamboanga Peninsula,Grade 5,Male
+"53,396",2019-2020,Region X - Northern Mindanao,Grade 5,Male
+"54,492",2019-2020,Region XI - Davao Region,Grade 5,Male
+"52,223",2019-2020,Region XII - Soccsksargen,Grade 5,Male
+"31,835",2019-2020,CARAGA - CARAGA,Grade 5,Male
+"35,339",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 5,Male
+"16,564",2019-2020,CAR - Cordillera Administrative Region,Grade 5,Male
+"93,300",2019-2020,NCR - National Capital Region,Grade 5,Male
+"45,706",2019-2020,Region I - Ilocos Region,Grade 5,Female
+"34,388",2019-2020,Region II - Cagayan Valley,Grade 5,Female
+"100,577",2019-2020,Region III - Central Luzon,Grade 5,Female
+"129,683",2019-2020,Region IV-A - CALABARZON,Grade 5,Female
+"33,868",2019-2020,Region IV-B - MIMAROPA,Grade 5,Female
+"63,077",2019-2020,Region V - Bicol Region,Grade 5,Female
+"73,416",2019-2020,Region VI - Western Visayas,Grade 5,Female
+"75,175",2019-2020,Region VII - Central Visayas,Grade 5,Female
+"45,762",2019-2020,Region VIII - Eastern Visayas,Grade 5,Female
+"39,417",2019-2020,Region IX - Zamboanga Peninsula,Grade 5,Female
+"49,385",2019-2020,Region X - Northern Mindanao,Grade 5,Female
+"51,667",2019-2020,Region XI - Davao Region,Grade 5,Female
+"49,391",2019-2020,Region XII - Soccsksargen,Grade 5,Female
+"29,939",2019-2020,CARAGA - CARAGA,Grade 5,Female
+"36,992",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 5,Female
+"15,552",2019-2020,CAR - Cordillera Administrative Region,Grade 5,Female
+"89,489",2019-2020,NCR - National Capital Region,Grade 5,Female
+"46,944",2020-2021,Region I - Ilocos Region,Grade 5,Male
+"34,487",2020-2021,Region II - Cagayan Valley,Grade 5,Male
+"103,224",2020-2021,Region III - Central Luzon,Grade 5,Male
+"126,135",2020-2021,Region IV-A - CALABARZON,Grade 5,Male
+"34,809",2020-2021,Region IV-B - MIMAROPA,Grade 5,Male
+"65,397",2020-2021,Region V - Bicol Region,Grade 5,Male
+"76,795",2020-2021,Region VI - Western Visayas,Grade 5,Male
+"75,207",2020-2021,Region VII - Central Visayas,Grade 5,Male
+"48,378",2020-2021,Region VIII - Eastern Visayas,Grade 5,Male
+"38,656",2020-2021,Region IX - Zamboanga Peninsula,Grade 5,Male
+"50,379",2020-2021,Region X - Northern Mindanao,Grade 5,Male
+"50,160",2020-2021,Region XI - Davao Region,Grade 5,Male
+"48,495",2020-2021,Region XII - Soccsksargen,Grade 5,Male
+"31,172",2020-2021,CARAGA - CARAGA,Grade 5,Male
+"34,688",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 5,Male
+"16,147",2020-2021,CAR - Cordillera Administrative Region,Grade 5,Male
+"87,859",2020-2021,NCR - National Capital Region,Grade 5,Male
+"43,650",2020-2021,Region I - Ilocos Region,Grade 5,Female
+"32,407",2020-2021,Region II - Cagayan Valley,Grade 5,Female
+"97,328",2020-2021,Region III - Central Luzon,Grade 5,Female
+"119,914",2020-2021,Region IV-A - CALABARZON,Grade 5,Female
+"32,618",2020-2021,Region IV-B - MIMAROPA,Grade 5,Female
+"61,034",2020-2021,Region V - Bicol Region,Grade 5,Female
+"71,391",2020-2021,Region VI - Western Visayas,Grade 5,Female
+"69,801",2020-2021,Region VII - Central Visayas,Grade 5,Female
+"45,180",2020-2021,Region VIII - Eastern Visayas,Grade 5,Female
+"36,831",2020-2021,Region IX - Zamboanga Peninsula,Grade 5,Female
+"47,119",2020-2021,Region X - Northern Mindanao,Grade 5,Female
+"47,815",2020-2021,Region XI - Davao Region,Grade 5,Female
+"46,375",2020-2021,Region XII - Soccsksargen,Grade 5,Female
+"28,986",2020-2021,CARAGA - CARAGA,Grade 5,Female
+"35,657",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 5,Female
+"14,774",2020-2021,CAR - Cordillera Administrative Region,Grade 5,Female
+"83,769",2020-2021,NCR - National Capital Region,Grade 5,Female
+"54,243",2016-2017,Region I - Ilocos Region,Grade 6,Male
+"36,500",2016-2017,Region II - Cagayan Valley,Grade 6,Male
+"112,402",2016-2017,Region III - Central Luzon,Grade 6,Male
+"139,416",2016-2017,Region IV-A - CALABARZON,Grade 6,Male
+"39,368",2016-2017,Region IV-B - MIMAROPA,Grade 6,Male
+"83,190",2016-2017,Region V - Bicol Region,Grade 6,Male
+"89,439",2016-2017,Region VI - Western Visayas,Grade 6,Male
+"86,259",2016-2017,Region VII - Central Visayas,Grade 6,Male
+"59,389",2016-2017,Region VIII - Eastern Visayas,Grade 6,Male
+"46,238",2016-2017,Region IX - Zamboanga Peninsula,Grade 6,Male
+"54,358",2016-2017,Region X - Northern Mindanao,Grade 6,Male
+"57,252",2016-2017,Region XI - Davao Region,Grade 6,Male
+"52,157",2016-2017,Region XII - Soccsksargen,Grade 6,Male
+"34,418",2016-2017,CARAGA - CARAGA,Grade 6,Male
+"30,693",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 6,Male
+"18,043",2016-2017,CAR - Cordillera Administrative Region,Grade 6,Male
+"99,180",2016-2017,NCR - National Capital Region,Grade 6,Male
+"50,309",2016-2017,Region I - Ilocos Region,Grade 6,Female
+"34,300",2016-2017,Region II - Cagayan Valley,Grade 6,Female
+"105,990",2016-2017,Region III - Central Luzon,Grade 6,Female
+"131,882",2016-2017,Region IV-A - CALABARZON,Grade 6,Female
+"37,525",2016-2017,Region IV-B - MIMAROPA,Grade 6,Female
+"77,855",2016-2017,Region V - Bicol Region,Grade 6,Female
+"84,008",2016-2017,Region VI - Western Visayas,Grade 6,Female
+"82,390",2016-2017,Region VII - Central Visayas,Grade 6,Female
+"56,097",2016-2017,Region VIII - Eastern Visayas,Grade 6,Female
+"44,786",2016-2017,Region IX - Zamboanga Peninsula,Grade 6,Female
+"52,944",2016-2017,Region X - Northern Mindanao,Grade 6,Female
+"55,298",2016-2017,Region XI - Davao Region,Grade 6,Female
+"51,437",2016-2017,Region XII - Soccsksargen,Grade 6,Female
+"32,546",2016-2017,CARAGA - CARAGA,Grade 6,Female
+"35,623",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 6,Female
+"16,661",2016-2017,CAR - Cordillera Administrative Region,Grade 6,Female
+"95,793",2016-2017,NCR - National Capital Region,Grade 6,Female
+"57,064",2017-2018,Region I - Ilocos Region,Grade 6,Male
+"39,947",2017-2018,Region II - Cagayan Valley,Grade 6,Male
+"119,450",2017-2018,Region III - Central Luzon,Grade 6,Male
+"153,564",2017-2018,Region IV-A - CALABARZON,Grade 6,Male
+"42,585",2017-2018,Region IV-B - MIMAROPA,Grade 6,Male
+"92,448",2017-2018,Region V - Bicol Region,Grade 6,Male
+"104,668",2017-2018,Region VI - Western Visayas,Grade 6,Male
+"100,278",2017-2018,Region VII - Central Visayas,Grade 6,Male
+"61,829",2017-2018,Region VIII - Eastern Visayas,Grade 6,Male
+"53,761",2017-2018,Region IX - Zamboanga Peninsula,Grade 6,Male
+"59,863",2017-2018,Region X - Northern Mindanao,Grade 6,Male
+"64,365",2017-2018,Region XI - Davao Region,Grade 6,Male
+"57,085",2017-2018,Region XII - Soccsksargen,Grade 6,Male
+"35,450",2017-2018,CARAGA - CARAGA,Grade 6,Male
+"32,441",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 6,Male
+"19,279",2017-2018,CAR - Cordillera Administrative Region,Grade 6,Male
+"102,740",2017-2018,NCR - National Capital Region,Grade 6,Male
+"50,539",2017-2018,Region I - Ilocos Region,Grade 6,Female
+"36,591",2017-2018,Region II - Cagayan Valley,Grade 6,Female
+"109,270",2017-2018,Region III - Central Luzon,Grade 6,Female
+"139,717",2017-2018,Region IV-A - CALABARZON,Grade 6,Female
+"37,785",2017-2018,Region IV-B - MIMAROPA,Grade 6,Female
+"80,470",2017-2018,Region V - Bicol Region,Grade 6,Female
+"90,698",2017-2018,Region VI - Western Visayas,Grade 6,Female
+"89,566",2017-2018,Region VII - Central Visayas,Grade 6,Female
+"55,372",2017-2018,Region VIII - Eastern Visayas,Grade 6,Female
+"48,877",2017-2018,Region IX - Zamboanga Peninsula,Grade 6,Female
+"55,583",2017-2018,Region X - Northern Mindanao,Grade 6,Female
+"59,414",2017-2018,Region XI - Davao Region,Grade 6,Female
+"53,928",2017-2018,Region XII - Soccsksargen,Grade 6,Female
+"32,595",2017-2018,CARAGA - CARAGA,Grade 6,Female
+"36,523",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 6,Female
+"17,246",2017-2018,CAR - Cordillera Administrative Region,Grade 6,Female
+"96,540",2017-2018,NCR - National Capital Region,Grade 6,Female
+"54,463",2018-2019,Region I - Ilocos Region,Grade 6,Male
+"37,137",2018-2019,Region II - Cagayan Valley,Grade 6,Male
+"114,390",2018-2019,Region III - Central Luzon,Grade 6,Male
+"141,337",2018-2019,Region IV-A - CALABARZON,Grade 6,Male
+"37,009",2018-2019,Region IV-B - MIMAROPA,Grade 6,Male
+"76,549",2018-2019,Region V - Bicol Region,Grade 6,Male
+"88,476",2018-2019,Region VI - Western Visayas,Grade 6,Male
+"84,336",2018-2019,Region VII - Central Visayas,Grade 6,Male
+"55,379",2018-2019,Region VIII - Eastern Visayas,Grade 6,Male
+"45,688",2018-2019,Region IX - Zamboanga Peninsula,Grade 6,Male
+"54,665",2018-2019,Region X - Northern Mindanao,Grade 6,Male
+"57,217",2018-2019,Region XI - Davao Region,Grade 6,Male
+"52,426",2018-2019,Region XII - Soccsksargen,Grade 6,Male
+"32,541",2018-2019,CARAGA - CARAGA,Grade 6,Male
+"33,618",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 6,Male
+"17,865",2018-2019,CAR - Cordillera Administrative Region,Grade 6,Male
+"98,667",2018-2019,NCR - National Capital Region,Grade 6,Male
+"49,001",2018-2019,Region I - Ilocos Region,Grade 6,Female
+"34,678",2018-2019,Region II - Cagayan Valley,Grade 6,Female
+"106,799",2018-2019,Region III - Central Luzon,Grade 6,Female
+"132,930",2018-2019,Region IV-A - CALABARZON,Grade 6,Female
+"34,678",2018-2019,Region IV-B - MIMAROPA,Grade 6,Female
+"70,121",2018-2019,Region V - Bicol Region,Grade 6,Female
+"81,412",2018-2019,Region VI - Western Visayas,Grade 6,Female
+"77,945",2018-2019,Region VII - Central Visayas,Grade 6,Female
+"50,295",2018-2019,Region VIII - Eastern Visayas,Grade 6,Female
+"43,114",2018-2019,Region IX - Zamboanga Peninsula,Grade 6,Female
+"51,738",2018-2019,Region X - Northern Mindanao,Grade 6,Female
+"53,649",2018-2019,Region XI - Davao Region,Grade 6,Female
+"50,428",2018-2019,Region XII - Soccsksargen,Grade 6,Female
+"30,371",2018-2019,CARAGA - CARAGA,Grade 6,Female
+"37,001",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 6,Female
+"16,426",2018-2019,CAR - Cordillera Administrative Region,Grade 6,Female
+"93,954",2018-2019,NCR - National Capital Region,Grade 6,Female
+"52,709",2019-2020,Region I - Ilocos Region,Grade 6,Male
+"37,230",2019-2020,Region II - Cagayan Valley,Grade 6,Male
+"113,138",2019-2020,Region III - Central Luzon,Grade 6,Male
+"140,296",2019-2020,Region IV-A - CALABARZON,Grade 6,Male
+"36,594",2019-2020,Region IV-B - MIMAROPA,Grade 6,Male
+"71,531",2019-2020,Region V - Bicol Region,Grade 6,Male
+"84,039",2019-2020,Region VI - Western Visayas,Grade 6,Male
+"81,791",2019-2020,Region VII - Central Visayas,Grade 6,Male
+"53,174",2019-2020,Region VIII - Eastern Visayas,Grade 6,Male
+"43,815",2019-2020,Region IX - Zamboanga Peninsula,Grade 6,Male
+"53,071",2019-2020,Region X - Northern Mindanao,Grade 6,Male
+"52,209",2019-2020,Region XI - Davao Region,Grade 6,Male
+"52,549",2019-2020,Region XII - Soccsksargen,Grade 6,Male
+"32,584",2019-2020,CARAGA - CARAGA,Grade 6,Male
+"33,181",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 6,Male
+"17,281",2019-2020,CAR - Cordillera Administrative Region,Grade 6,Male
+"97,626",2019-2020,NCR - National Capital Region,Grade 6,Male
+"48,525",2019-2020,Region I - Ilocos Region,Grade 6,Female
+"35,369",2019-2020,Region II - Cagayan Valley,Grade 6,Female
+"107,523",2019-2020,Region III - Central Luzon,Grade 6,Female
+"133,566",2019-2020,Region IV-A - CALABARZON,Grade 6,Female
+"34,815",2019-2020,Region IV-B - MIMAROPA,Grade 6,Female
+"67,405",2019-2020,Region V - Bicol Region,Grade 6,Female
+"78,268",2019-2020,Region VI - Western Visayas,Grade 6,Female
+"77,265",2019-2020,Region VII - Central Visayas,Grade 6,Female
+"50,150",2019-2020,Region VIII - Eastern Visayas,Grade 6,Female
+"42,098",2019-2020,Region IX - Zamboanga Peninsula,Grade 6,Female
+"50,240",2019-2020,Region X - Northern Mindanao,Grade 6,Female
+"50,372",2019-2020,Region XI - Davao Region,Grade 6,Female
+"50,467",2019-2020,Region XII - Soccsksargen,Grade 6,Female
+"30,511",2019-2020,CARAGA - CARAGA,Grade 6,Female
+"36,393",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 6,Female
+"16,052",2019-2020,CAR - Cordillera Administrative Region,Grade 6,Female
+"94,164",2019-2020,NCR - National Capital Region,Grade 6,Female
+"49,362",2020-2021,Region I - Ilocos Region,Grade 6,Male
+"36,499",2020-2021,Region II - Cagayan Valley,Grade 6,Male
+"106,437",2020-2021,Region III - Central Luzon,Grade 6,Male
+"135,106",2020-2021,Region IV-A - CALABARZON,Grade 6,Male
+"35,062",2020-2021,Region IV-B - MIMAROPA,Grade 6,Male
+"65,292",2020-2021,Region V - Bicol Region,Grade 6,Male
+"79,057",2020-2021,Region VI - Western Visayas,Grade 6,Male
+"79,295",2020-2021,Region VII - Central Visayas,Grade 6,Male
+"48,775",2020-2021,Region VIII - Eastern Visayas,Grade 6,Male
+"40,106",2020-2021,Region IX - Zamboanga Peninsula,Grade 6,Male
+"51,527",2020-2021,Region X - Northern Mindanao,Grade 6,Male
+"51,425",2020-2021,Region XI - Davao Region,Grade 6,Male
+"51,027",2020-2021,Region XII - Soccsksargen,Grade 6,Male
+"31,266",2020-2021,CARAGA - CARAGA,Grade 6,Male
+"31,798",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 6,Male
+"16,544",2020-2021,CAR - Cordillera Administrative Region,Grade 6,Male
+"91,716",2020-2021,NCR - National Capital Region,Grade 6,Male
+"45,958",2020-2021,Region I - Ilocos Region,Grade 6,Female
+"34,434",2020-2021,Region II - Cagayan Valley,Grade 6,Female
+"100,791",2020-2021,Region III - Central Luzon,Grade 6,Female
+"129,293",2020-2021,Region IV-A - CALABARZON,Grade 6,Female
+"33,441",2020-2021,Region IV-B - MIMAROPA,Grade 6,Female
+"61,137",2020-2021,Region V - Bicol Region,Grade 6,Female
+"73,438",2020-2021,Region VI - Western Visayas,Grade 6,Female
+"74,652",2020-2021,Region VII - Central Visayas,Grade 6,Female
+"45,678",2020-2021,Region VIII - Eastern Visayas,Grade 6,Female
+"38,481",2020-2021,Region IX - Zamboanga Peninsula,Grade 6,Female
+"48,499",2020-2021,Region X - Northern Mindanao,Grade 6,Female
+"49,807",2020-2021,Region XI - Davao Region,Grade 6,Female
+"48,696",2020-2021,Region XII - Soccsksargen,Grade 6,Female
+"29,808",2020-2021,CARAGA - CARAGA,Grade 6,Female
+"34,470",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 6,Female
+"15,715",2020-2021,CAR - Cordillera Administrative Region,Grade 6,Female
+"88,938",2020-2021,NCR - National Capital Region,Grade 6,Female
+"46,624",2016-2017,Region I - Ilocos Region,Grade 7,Male
+"29,653",2016-2017,Region II - Cagayan Valley,Grade 7,Male
+"96,265",2016-2017,Region III - Central Luzon,Grade 7,Male
+"117,662",2016-2017,Region IV-A - CALABARZON,Grade 7,Male
+"32,252",2016-2017,Region IV-B - MIMAROPA,Grade 7,Male
+"69,109",2016-2017,Region V - Bicol Region,Grade 7,Male
+"73,403",2016-2017,Region VI - Western Visayas,Grade 7,Male
+"73,162",2016-2017,Region VII - Central Visayas,Grade 7,Male
+"51,753",2016-2017,Region VIII - Eastern Visayas,Grade 7,Male
+"37,936",2016-2017,Region IX - Zamboanga Peninsula,Grade 7,Male
+"40,831",2016-2017,Region X - Northern Mindanao,Grade 7,Male
+"47,241",2016-2017,Region XI - Davao Region,Grade 7,Male
+"41,084",2016-2017,Region XII - Soccsksargen,Grade 7,Male
+"27,850",2016-2017,CARAGA - CARAGA,Grade 7,Male
+"18,728",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 7,Male
+"14,520",2016-2017,CAR - Cordillera Administrative Region,Grade 7,Male
+"95,002",2016-2017,NCR - National Capital Region,Grade 7,Male
+"42,663",2016-2017,Region I - Ilocos Region,Grade 7,Female
+"28,180",2016-2017,Region II - Cagayan Valley,Grade 7,Female
+"90,099",2016-2017,Region III - Central Luzon,Grade 7,Female
+"111,641",2016-2017,Region IV-A - CALABARZON,Grade 7,Female
+"30,183",2016-2017,Region IV-B - MIMAROPA,Grade 7,Female
+"65,085",2016-2017,Region V - Bicol Region,Grade 7,Female
+"69,006",2016-2017,Region VI - Western Visayas,Grade 7,Female
+"68,558",2016-2017,Region VII - Central Visayas,Grade 7,Female
+"48,318",2016-2017,Region VIII - Eastern Visayas,Grade 7,Female
+"36,956",2016-2017,Region IX - Zamboanga Peninsula,Grade 7,Female
+"39,404",2016-2017,Region X - Northern Mindanao,Grade 7,Female
+"46,221",2016-2017,Region XI - Davao Region,Grade 7,Female
+"40,899",2016-2017,Region XII - Soccsksargen,Grade 7,Female
+"26,986",2016-2017,CARAGA - CARAGA,Grade 7,Female
+"22,643",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 7,Female
+"12,911",2016-2017,CAR - Cordillera Administrative Region,Grade 7,Female
+"89,952",2016-2017,NCR - National Capital Region,Grade 7,Female
+"47,626",2017-2018,Region I - Ilocos Region,Grade 7,Male
+"30,921",2017-2018,Region II - Cagayan Valley,Grade 7,Male
+"96,480",2017-2018,Region III - Central Luzon,Grade 7,Male
+"123,889",2017-2018,Region IV-A - CALABARZON,Grade 7,Male
+"34,436",2017-2018,Region IV-B - MIMAROPA,Grade 7,Male
+"73,795",2017-2018,Region V - Bicol Region,Grade 7,Male
+"80,017",2017-2018,Region VI - Western Visayas,Grade 7,Male
+"74,985",2017-2018,Region VII - Central Visayas,Grade 7,Male
+"53,690",2017-2018,Region VIII - Eastern Visayas,Grade 7,Male
+"41,449",2017-2018,Region IX - Zamboanga Peninsula,Grade 7,Male
+"43,902",2017-2018,Region X - Northern Mindanao,Grade 7,Male
+"51,141",2017-2018,Region XI - Davao Region,Grade 7,Male
+"45,271",2017-2018,Region XII - Soccsksargen,Grade 7,Male
+"29,946",2017-2018,CARAGA - CARAGA,Grade 7,Male
+"19,125",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 7,Male
+"14,725",2017-2018,CAR - Cordillera Administrative Region,Grade 7,Male
+"96,230",2017-2018,NCR - National Capital Region,Grade 7,Male
+"43,949",2017-2018,Region I - Ilocos Region,Grade 7,Female
+"28,819",2017-2018,Region II - Cagayan Valley,Grade 7,Female
+"90,656",2017-2018,Region III - Central Luzon,Grade 7,Female
+"115,848",2017-2018,Region IV-A - CALABARZON,Grade 7,Female
+"32,349",2017-2018,Region IV-B - MIMAROPA,Grade 7,Female
+"67,680",2017-2018,Region V - Bicol Region,Grade 7,Female
+"74,587",2017-2018,Region VI - Western Visayas,Grade 7,Female
+"70,703",2017-2018,Region VII - Central Visayas,Grade 7,Female
+"49,764",2017-2018,Region VIII - Eastern Visayas,Grade 7,Female
+"39,594",2017-2018,Region IX - Zamboanga Peninsula,Grade 7,Female
+"42,739",2017-2018,Region X - Northern Mindanao,Grade 7,Female
+"48,930",2017-2018,Region XI - Davao Region,Grade 7,Female
+"44,815",2017-2018,Region XII - Soccsksargen,Grade 7,Female
+"28,126",2017-2018,CARAGA - CARAGA,Grade 7,Female
+"21,634",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 7,Female
+"13,131",2017-2018,CAR - Cordillera Administrative Region,Grade 7,Female
+"91,226",2017-2018,NCR - National Capital Region,Grade 7,Female
+"50,959",2018-2019,Region I - Ilocos Region,Grade 7,Male
+"34,406",2018-2019,Region II - Cagayan Valley,Grade 7,Male
+"104,799",2018-2019,Region III - Central Luzon,Grade 7,Male
+"139,254",2018-2019,Region IV-A - CALABARZON,Grade 7,Male
+"37,235",2018-2019,Region IV-B - MIMAROPA,Grade 7,Male
+"83,040",2018-2019,Region V - Bicol Region,Grade 7,Male
+"94,539",2018-2019,Region VI - Western Visayas,Grade 7,Male
+"89,913",2018-2019,Region VII - Central Visayas,Grade 7,Male
+"56,427",2018-2019,Region VIII - Eastern Visayas,Grade 7,Male
+"49,237",2018-2019,Region IX - Zamboanga Peninsula,Grade 7,Male
+"49,960",2018-2019,Region X - Northern Mindanao,Grade 7,Male
+"57,727",2018-2019,Region XI - Davao Region,Grade 7,Male
+"49,829",2018-2019,Region XII - Soccsksargen,Grade 7,Male
+"31,399",2018-2019,CARAGA - CARAGA,Grade 7,Male
+"21,135",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 7,Male
+"15,986",2018-2019,CAR - Cordillera Administrative Region,Grade 7,Male
+"101,613",2018-2019,NCR - National Capital Region,Grade 7,Male
+"45,061",2018-2019,Region I - Ilocos Region,Grade 7,Female
+"31,631",2018-2019,Region II - Cagayan Valley,Grade 7,Female
+"96,174",2018-2019,Region III - Central Luzon,Grade 7,Female
+"126,123",2018-2019,Region IV-A - CALABARZON,Grade 7,Female
+"33,257",2018-2019,Region IV-B - MIMAROPA,Grade 7,Female
+"71,858",2018-2019,Region V - Bicol Region,Grade 7,Female
+"82,321",2018-2019,Region VI - Western Visayas,Grade 7,Female
+"80,093",2018-2019,Region VII - Central Visayas,Grade 7,Female
+"50,412",2018-2019,Region VIII - Eastern Visayas,Grade 7,Female
+"45,123",2018-2019,Region IX - Zamboanga Peninsula,Grade 7,Female
+"46,901",2018-2019,Region X - Northern Mindanao,Grade 7,Female
+"54,059",2018-2019,Region XI - Davao Region,Grade 7,Female
+"47,918",2018-2019,Region XII - Soccsksargen,Grade 7,Female
+"28,993",2018-2019,CARAGA - CARAGA,Grade 7,Female
+"24,037",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 7,Female
+"13,945",2018-2019,CAR - Cordillera Administrative Region,Grade 7,Female
+"94,417",2018-2019,NCR - National Capital Region,Grade 7,Female
+"49,397",2019-2020,Region I - Ilocos Region,Grade 7,Male
+"32,967",2019-2020,Region II - Cagayan Valley,Grade 7,Male
+"103,173",2019-2020,Region III - Central Luzon,Grade 7,Male
+"131,990",2019-2020,Region IV-A - CALABARZON,Grade 7,Male
+"33,551",2019-2020,Region IV-B - MIMAROPA,Grade 7,Male
+"70,051",2019-2020,Region V - Bicol Region,Grade 7,Male
+"82,041",2019-2020,Region VI - Western Visayas,Grade 7,Male
+"77,829",2019-2020,Region VII - Central Visayas,Grade 7,Male
+"52,553",2019-2020,Region VIII - Eastern Visayas,Grade 7,Male
+"42,687",2019-2020,Region IX - Zamboanga Peninsula,Grade 7,Male
+"46,798",2019-2020,Region X - Northern Mindanao,Grade 7,Male
+"53,169",2019-2020,Region XI - Davao Region,Grade 7,Male
+"47,407",2019-2020,Region XII - Soccsksargen,Grade 7,Male
+"29,171",2019-2020,CARAGA - CARAGA,Grade 7,Male
+"22,451",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 7,Male
+"14,726",2019-2020,CAR - Cordillera Administrative Region,Grade 7,Male
+"98,962",2019-2020,NCR - National Capital Region,Grade 7,Male
+"44,205",2019-2020,Region I - Ilocos Region,Grade 7,Female
+"30,428",2019-2020,Region II - Cagayan Valley,Grade 7,Female
+"94,934",2019-2020,Region III - Central Luzon,Grade 7,Female
+"120,921",2019-2020,Region IV-A - CALABARZON,Grade 7,Female
+"30,864",2019-2020,Region IV-B - MIMAROPA,Grade 7,Female
+"62,242",2019-2020,Region V - Bicol Region,Grade 7,Female
+"73,961",2019-2020,Region VI - Western Visayas,Grade 7,Female
+"69,917",2019-2020,Region VII - Central Visayas,Grade 7,Female
+"46,206",2019-2020,Region VIII - Eastern Visayas,Grade 7,Female
+"39,498",2019-2020,Region IX - Zamboanga Peninsula,Grade 7,Female
+"43,970",2019-2020,Region X - Northern Mindanao,Grade 7,Female
+"49,360",2019-2020,Region XI - Davao Region,Grade 7,Female
+"45,341",2019-2020,Region XII - Soccsksargen,Grade 7,Female
+"27,057",2019-2020,CARAGA - CARAGA,Grade 7,Female
+"24,587",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 7,Female
+"13,054",2019-2020,CAR - Cordillera Administrative Region,Grade 7,Female
+"92,090",2019-2020,NCR - National Capital Region,Grade 7,Female
+"48,572",2020-2021,Region I - Ilocos Region,Grade 7,Male
+"34,320",2020-2021,Region II - Cagayan Valley,Grade 7,Male
+"99,686",2020-2021,Region III - Central Luzon,Grade 7,Male
+"125,767",2020-2021,Region IV-A - CALABARZON,Grade 7,Male
+"31,304",2020-2021,Region IV-B - MIMAROPA,Grade 7,Male
+"56,478",2020-2021,Region V - Bicol Region,Grade 7,Male
+"79,318",2020-2021,Region VI - Western Visayas,Grade 7,Male
+"71,552",2020-2021,Region VII - Central Visayas,Grade 7,Male
+"50,485",2020-2021,Region VIII - Eastern Visayas,Grade 7,Male
+"40,121",2020-2021,Region IX - Zamboanga Peninsula,Grade 7,Male
+"43,661",2020-2021,Region X - Northern Mindanao,Grade 7,Male
+"45,470",2020-2021,Region XI - Davao Region,Grade 7,Male
+"45,646",2020-2021,Region XII - Soccsksargen,Grade 7,Male
+"28,896",2020-2021,CARAGA - CARAGA,Grade 7,Male
+"20,077",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 7,Male
+"14,389",2020-2021,CAR - Cordillera Administrative Region,Grade 7,Male
+"90,998",2020-2021,NCR - National Capital Region,Grade 7,Male
+"43,895",2020-2021,Region I - Ilocos Region,Grade 7,Female
+"31,875",2020-2021,Region II - Cagayan Valley,Grade 7,Female
+"95,521",2020-2021,Region III - Central Luzon,Grade 7,Female
+"119,077",2020-2021,Region IV-A - CALABARZON,Grade 7,Female
+"29,739",2020-2021,Region IV-B - MIMAROPA,Grade 7,Female
+"53,142",2020-2021,Region V - Bicol Region,Grade 7,Female
+"71,932",2020-2021,Region VI - Western Visayas,Grade 7,Female
+"65,939",2020-2021,Region VII - Central Visayas,Grade 7,Female
+"45,796",2020-2021,Region VIII - Eastern Visayas,Grade 7,Female
+"37,331",2020-2021,Region IX - Zamboanga Peninsula,Grade 7,Female
+"41,113",2020-2021,Region X - Northern Mindanao,Grade 7,Female
+"43,365",2020-2021,Region XI - Davao Region,Grade 7,Female
+"43,709",2020-2021,Region XII - Soccsksargen,Grade 7,Female
+"26,835",2020-2021,CARAGA - CARAGA,Grade 7,Female
+"22,699",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 7,Female
+"12,715",2020-2021,CAR - Cordillera Administrative Region,Grade 7,Female
+"87,695",2020-2021,NCR - National Capital Region,Grade 7,Female
+"42,952",2016-2017,Region I - Ilocos Region,Grade 8,Male
+"27,034",2016-2017,Region II - Cagayan Valley,Grade 8,Male
+"86,782",2016-2017,Region III - Central Luzon,Grade 8,Male
+"106,839",2016-2017,Region IV-A - CALABARZON,Grade 8,Male
+"28,441",2016-2017,Region IV-B - MIMAROPA,Grade 8,Male
+"59,218",2016-2017,Region V - Bicol Region,Grade 8,Male
+"66,190",2016-2017,Region VI - Western Visayas,Grade 8,Male
+"62,789",2016-2017,Region VII - Central Visayas,Grade 8,Male
+"43,970",2016-2017,Region VIII - Eastern Visayas,Grade 8,Male
+"30,769",2016-2017,Region IX - Zamboanga Peninsula,Grade 8,Male
+"33,690",2016-2017,Region X - Northern Mindanao,Grade 8,Male
+"39,032",2016-2017,Region XI - Davao Region,Grade 8,Male
+"35,107",2016-2017,Region XII - Soccsksargen,Grade 8,Male
+"24,282",2016-2017,CARAGA - CARAGA,Grade 8,Male
+"15,471",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 8,Male
+"12,189",2016-2017,CAR - Cordillera Administrative Region,Grade 8,Male
+"86,295",2016-2017,NCR - National Capital Region,Grade 8,Male
+"40,606",2016-2017,Region I - Ilocos Region,Grade 8,Female
+"26,800",2016-2017,Region II - Cagayan Valley,Grade 8,Female
+"85,312",2016-2017,Region III - Central Luzon,Grade 8,Female
+"105,043",2016-2017,Region IV-A - CALABARZON,Grade 8,Female
+"28,557",2016-2017,Region IV-B - MIMAROPA,Grade 8,Female
+"60,113",2016-2017,Region V - Bicol Region,Grade 8,Female
+"66,207",2016-2017,Region VI - Western Visayas,Grade 8,Female
+"63,535",2016-2017,Region VII - Central Visayas,Grade 8,Female
+"44,562",2016-2017,Region VIII - Eastern Visayas,Grade 8,Female
+"32,671",2016-2017,Region IX - Zamboanga Peninsula,Grade 8,Female
+"34,781",2016-2017,Region X - Northern Mindanao,Grade 8,Female
+"40,324",2016-2017,Region XI - Davao Region,Grade 8,Female
+"36,779",2016-2017,Region XII - Soccsksargen,Grade 8,Female
+"24,392",2016-2017,CARAGA - CARAGA,Grade 8,Female
+"20,287",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 8,Female
+"12,467",2016-2017,CAR - Cordillera Administrative Region,Grade 8,Female
+"86,352",2016-2017,NCR - National Capital Region,Grade 8,Female
+"44,396",2017-2018,Region I - Ilocos Region,Grade 8,Male
+"27,342",2017-2018,Region II - Cagayan Valley,Grade 8,Male
+"89,077",2017-2018,Region III - Central Luzon,Grade 8,Male
+"109,637",2017-2018,Region IV-A - CALABARZON,Grade 8,Male
+"29,736",2017-2018,Region IV-B - MIMAROPA,Grade 8,Male
+"63,446",2017-2018,Region V - Bicol Region,Grade 8,Male
+"67,807",2017-2018,Region VI - Western Visayas,Grade 8,Male
+"65,745",2017-2018,Region VII - Central Visayas,Grade 8,Male
+"46,209",2017-2018,Region VIII - Eastern Visayas,Grade 8,Male
+"33,224",2017-2018,Region IX - Zamboanga Peninsula,Grade 8,Male
+"35,943",2017-2018,Region X - Northern Mindanao,Grade 8,Male
+"42,328",2017-2018,Region XI - Davao Region,Grade 8,Male
+"36,947",2017-2018,Region XII - Soccsksargen,Grade 8,Male
+"25,900",2017-2018,CARAGA - CARAGA,Grade 8,Male
+"16,079",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 8,Male
+"12,796",2017-2018,CAR - Cordillera Administrative Region,Grade 8,Male
+"87,067",2017-2018,NCR - National Capital Region,Grade 8,Male
+"42,060",2017-2018,Region I - Ilocos Region,Grade 8,Female
+"27,323",2017-2018,Region II - Cagayan Valley,Grade 8,Female
+"87,300",2017-2018,Region III - Central Luzon,Grade 8,Female
+"108,430",2017-2018,Region IV-A - CALABARZON,Grade 8,Female
+"29,196",2017-2018,Region IV-B - MIMAROPA,Grade 8,Female
+"63,037",2017-2018,Region V - Bicol Region,Grade 8,Female
+"67,109",2017-2018,Region VI - Western Visayas,Grade 8,Female
+"65,740",2017-2018,Region VII - Central Visayas,Grade 8,Female
+"46,206",2017-2018,Region VIII - Eastern Visayas,Grade 8,Female
+"34,914",2017-2018,Region IX - Zamboanga Peninsula,Grade 8,Female
+"37,305",2017-2018,Region X - Northern Mindanao,Grade 8,Female
+"43,801",2017-2018,Region XI - Davao Region,Grade 8,Female
+"38,677",2017-2018,Region XII - Soccsksargen,Grade 8,Female
+"25,899",2017-2018,CARAGA - CARAGA,Grade 8,Female
+"20,110",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 8,Female
+"12,636",2017-2018,CAR - Cordillera Administrative Region,Grade 8,Female
+"86,958",2017-2018,NCR - National Capital Region,Grade 8,Female
+"46,330",2018-2019,Region I - Ilocos Region,Grade 8,Male
+"29,645",2018-2019,Region II - Cagayan Valley,Grade 8,Male
+"93,261",2018-2019,Region III - Central Luzon,Grade 8,Male
+"120,100",2018-2019,Region IV-A - CALABARZON,Grade 8,Male
+"32,229",2018-2019,Region IV-B - MIMAROPA,Grade 8,Male
+"69,570",2018-2019,Region V - Bicol Region,Grade 8,Male
+"75,867",2018-2019,Region VI - Western Visayas,Grade 8,Male
+"71,164",2018-2019,Region VII - Central Visayas,Grade 8,Male
+"49,384",2018-2019,Region VIII - Eastern Visayas,Grade 8,Male
+"37,649",2018-2019,Region IX - Zamboanga Peninsula,Grade 8,Male
+"41,131",2018-2019,Region X - Northern Mindanao,Grade 8,Male
+"47,040",2018-2019,Region XI - Davao Region,Grade 8,Male
+"41,451",2018-2019,Region XII - Soccsksargen,Grade 8,Male
+"28,546",2018-2019,CARAGA - CARAGA,Grade 8,Male
+"17,539",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 8,Male
+"13,377",2018-2019,CAR - Cordillera Administrative Region,Grade 8,Male
+"90,964",2018-2019,NCR - National Capital Region,Grade 8,Male
+"43,923",2018-2019,Region I - Ilocos Region,Grade 8,Female
+"29,030",2018-2019,Region II - Cagayan Valley,Grade 8,Female
+"91,091",2018-2019,Region III - Central Luzon,Grade 8,Female
+"116,611",2018-2019,Region IV-A - CALABARZON,Grade 8,Female
+"31,805",2018-2019,Region IV-B - MIMAROPA,Grade 8,Female
+"67,673",2018-2019,Region V - Bicol Region,Grade 8,Female
+"74,035",2018-2019,Region VI - Western Visayas,Grade 8,Female
+"71,204",2018-2019,Region VII - Central Visayas,Grade 8,Female
+"48,896",2018-2019,Region VIII - Eastern Visayas,Grade 8,Female
+"39,033",2018-2019,Region IX - Zamboanga Peninsula,Grade 8,Female
+"42,741",2018-2019,Region X - Northern Mindanao,Grade 8,Female
+"48,181",2018-2019,Region XI - Davao Region,Grade 8,Female
+"43,586",2018-2019,Region XII - Soccsksargen,Grade 8,Female
+"27,879",2018-2019,CARAGA - CARAGA,Grade 8,Female
+"20,954",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 8,Female
+"13,067",2018-2019,CAR - Cordillera Administrative Region,Grade 8,Female
+"90,593",2018-2019,NCR - National Capital Region,Grade 8,Female
+"48,755",2019-2020,Region I - Ilocos Region,Grade 8,Male
+"31,964",2019-2020,Region II - Cagayan Valley,Grade 8,Male
+"99,326",2019-2020,Region III - Central Luzon,Grade 8,Male
+"130,797",2019-2020,Region IV-A - CALABARZON,Grade 8,Male
+"34,358",2019-2020,Region IV-B - MIMAROPA,Grade 8,Male
+"75,300",2019-2020,Region V - Bicol Region,Grade 8,Male
+"87,485",2019-2020,Region VI - Western Visayas,Grade 8,Male
+"80,221",2019-2020,Region VII - Central Visayas,Grade 8,Male
+"51,218",2019-2020,Region VIII - Eastern Visayas,Grade 8,Male
+"42,475",2019-2020,Region IX - Zamboanga Peninsula,Grade 8,Male
+"45,098",2019-2020,Region X - Northern Mindanao,Grade 8,Male
+"51,478",2019-2020,Region XI - Davao Region,Grade 8,Male
+"45,264",2019-2020,Region XII - Soccsksargen,Grade 8,Male
+"29,568",2019-2020,CARAGA - CARAGA,Grade 8,Male
+"19,138",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 8,Male
+"14,377",2019-2020,CAR - Cordillera Administrative Region,Grade 8,Male
+"93,079",2019-2020,NCR - National Capital Region,Grade 8,Male
+"44,463",2019-2020,Region I - Ilocos Region,Grade 8,Female
+"30,996",2019-2020,Region II - Cagayan Valley,Grade 8,Female
+"94,698",2019-2020,Region III - Central Luzon,Grade 8,Female
+"124,086",2019-2020,Region IV-A - CALABARZON,Grade 8,Female
+"32,076",2019-2020,Region IV-B - MIMAROPA,Grade 8,Female
+"69,455",2019-2020,Region V - Bicol Region,Grade 8,Female
+"80,110",2019-2020,Region VI - Western Visayas,Grade 8,Female
+"77,228",2019-2020,Region VII - Central Visayas,Grade 8,Female
+"48,671",2019-2020,Region VIII - Eastern Visayas,Grade 8,Female
+"42,227",2019-2020,Region IX - Zamboanga Peninsula,Grade 8,Female
+"44,756",2019-2020,Region X - Northern Mindanao,Grade 8,Female
+"52,004",2019-2020,Region XI - Davao Region,Grade 8,Female
+"46,299",2019-2020,Region XII - Soccsksargen,Grade 8,Female
+"28,198",2019-2020,CARAGA - CARAGA,Grade 8,Female
+"22,855",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 8,Female
+"13,499",2019-2020,CAR - Cordillera Administrative Region,Grade 8,Female
+"90,718",2019-2020,NCR - National Capital Region,Grade 8,Female
+"48,581",2020-2021,Region I - Ilocos Region,Grade 8,Male
+"32,644",2020-2021,Region II - Cagayan Valley,Grade 8,Male
+"98,445",2020-2021,Region III - Central Luzon,Grade 8,Male
+"124,748",2020-2021,Region IV-A - CALABARZON,Grade 8,Male
+"31,523",2020-2021,Region IV-B - MIMAROPA,Grade 8,Male
+"60,583",2020-2021,Region V - Bicol Region,Grade 8,Male
+"82,082",2020-2021,Region VI - Western Visayas,Grade 8,Male
+"70,286",2020-2021,Region VII - Central Visayas,Grade 8,Male
+"50,005",2020-2021,Region VIII - Eastern Visayas,Grade 8,Male
+"40,045",2020-2021,Region IX - Zamboanga Peninsula,Grade 8,Male
+"43,172",2020-2021,Region X - Northern Mindanao,Grade 8,Male
+"47,588",2020-2021,Region XI - Davao Region,Grade 8,Male
+"44,395",2020-2021,Region XII - Soccsksargen,Grade 8,Male
+"28,516",2020-2021,CARAGA - CARAGA,Grade 8,Male
+"18,750",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 8,Male
+"13,987",2020-2021,CAR - Cordillera Administrative Region,Grade 8,Male
+"89,032",2020-2021,NCR - National Capital Region,Grade 8,Male
+"43,803",2020-2021,Region I - Ilocos Region,Grade 8,Female
+"30,701",2020-2021,Region II - Cagayan Valley,Grade 8,Female
+"93,799",2020-2021,Region III - Central Luzon,Grade 8,Female
+"118,761",2020-2021,Region IV-A - CALABARZON,Grade 8,Female
+"29,965",2020-2021,Region IV-B - MIMAROPA,Grade 8,Female
+"56,829",2020-2021,Region V - Bicol Region,Grade 8,Female
+"73,979",2020-2021,Region VI - Western Visayas,Grade 8,Female
+"66,614",2020-2021,Region VII - Central Visayas,Grade 8,Female
+"45,526",2020-2021,Region VIII - Eastern Visayas,Grade 8,Female
+"38,418",2020-2021,Region IX - Zamboanga Peninsula,Grade 8,Female
+"42,332",2020-2021,Region X - Northern Mindanao,Grade 8,Female
+"46,475",2020-2021,Region XI - Davao Region,Grade 8,Female
+"43,774",2020-2021,Region XII - Soccsksargen,Grade 8,Female
+"26,811",2020-2021,CARAGA - CARAGA,Grade 8,Female
+"22,138",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 8,Female
+"12,936",2020-2021,CAR - Cordillera Administrative Region,Grade 8,Female
+"87,063",2020-2021,NCR - National Capital Region,Grade 8,Female
+"38,932",2016-2017,Region I - Ilocos Region,Grade 9,Male
+"23,986",2016-2017,Region II - Cagayan Valley,Grade 9,Male
+"79,610",2016-2017,Region III - Central Luzon,Grade 9,Male
+"97,911",2016-2017,Region IV-A - CALABARZON,Grade 9,Male
+"25,315",2016-2017,Region IV-B - MIMAROPA,Grade 9,Male
+"51,145",2016-2017,Region V - Bicol Region,Grade 9,Male
+"59,015",2016-2017,Region VI - Western Visayas,Grade 9,Male
+"54,443",2016-2017,Region VII - Central Visayas,Grade 9,Male
+"38,281",2016-2017,Region VIII - Eastern Visayas,Grade 9,Male
+"26,198",2016-2017,Region IX - Zamboanga Peninsula,Grade 9,Male
+"29,564",2016-2017,Region X - Northern Mindanao,Grade 9,Male
+"32,919",2016-2017,Region XI - Davao Region,Grade 9,Male
+"31,032",2016-2017,Region XII - Soccsksargen,Grade 9,Male
+"21,410",2016-2017,CARAGA - CARAGA,Grade 9,Male
+"13,661",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 9,Male
+"10,927",2016-2017,CAR - Cordillera Administrative Region,Grade 9,Male
+"80,040",2016-2017,NCR - National Capital Region,Grade 9,Male
+"38,491",2016-2017,Region I - Ilocos Region,Grade 9,Female
+"25,259",2016-2017,Region II - Cagayan Valley,Grade 9,Female
+"79,817",2016-2017,Region III - Central Luzon,Grade 9,Female
+"100,771",2016-2017,Region IV-A - CALABARZON,Grade 9,Female
+"26,612",2016-2017,Region IV-B - MIMAROPA,Grade 9,Female
+"55,265",2016-2017,Region V - Bicol Region,Grade 9,Female
+"60,482",2016-2017,Region VI - Western Visayas,Grade 9,Female
+"58,328",2016-2017,Region VII - Central Visayas,Grade 9,Female
+"40,078",2016-2017,Region VIII - Eastern Visayas,Grade 9,Female
+"29,274",2016-2017,Region IX - Zamboanga Peninsula,Grade 9,Female
+"32,265",2016-2017,Region X - Northern Mindanao,Grade 9,Female
+"36,540",2016-2017,Region XI - Davao Region,Grade 9,Female
+"33,285",2016-2017,Region XII - Soccsksargen,Grade 9,Female
+"22,360",2016-2017,CARAGA - CARAGA,Grade 9,Female
+"18,662",2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 9,Female
+"11,941",2016-2017,CAR - Cordillera Administrative Region,Grade 9,Female
+"83,850",2016-2017,NCR - National Capital Region,Grade 9,Female
+"40,781",2017-2018,Region I - Ilocos Region,Grade 9,Male
+"25,024",2017-2018,Region II - Cagayan Valley,Grade 9,Male
+"80,902",2017-2018,Region III - Central Luzon,Grade 9,Male
+"100,933",2017-2018,Region IV-A - CALABARZON,Grade 9,Male
+"26,364",2017-2018,Region IV-B - MIMAROPA,Grade 9,Male
+"54,159",2017-2018,Region V - Bicol Region,Grade 9,Male
+"61,732",2017-2018,Region VI - Western Visayas,Grade 9,Male
+"57,329",2017-2018,Region VII - Central Visayas,Grade 9,Male
+"39,534",2017-2018,Region VIII - Eastern Visayas,Grade 9,Male
+"27,638",2017-2018,Region IX - Zamboanga Peninsula,Grade 9,Male
+"30,479",2017-2018,Region X - Northern Mindanao,Grade 9,Male
+"34,693",2017-2018,Region XI - Davao Region,Grade 9,Male
+"31,742",2017-2018,Region XII - Soccsksargen,Grade 9,Male
+"22,616",2017-2018,CARAGA - CARAGA,Grade 9,Male
+"13,132",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 9,Male
+"11,041",2017-2018,CAR - Cordillera Administrative Region,Grade 9,Male
+"80,336",2017-2018,NCR - National Capital Region,Grade 9,Male
+"39,669",2017-2018,Region I - Ilocos Region,Grade 9,Female
+"25,806",2017-2018,Region II - Cagayan Valley,Grade 9,Female
+"82,399",2017-2018,Region III - Central Luzon,Grade 9,Female
+"102,199",2017-2018,Region IV-A - CALABARZON,Grade 9,Female
+"27,582",2017-2018,Region IV-B - MIMAROPA,Grade 9,Female
+"57,715",2017-2018,Region V - Bicol Region,Grade 9,Female
+"64,038",2017-2018,Region VI - Western Visayas,Grade 9,Female
+"60,988",2017-2018,Region VII - Central Visayas,Grade 9,Female
+"42,320",2017-2018,Region VIII - Eastern Visayas,Grade 9,Female
+"30,621",2017-2018,Region IX - Zamboanga Peninsula,Grade 9,Female
+"33,061",2017-2018,Region X - Northern Mindanao,Grade 9,Female
+"37,869",2017-2018,Region XI - Davao Region,Grade 9,Female
+"34,587",2017-2018,Region XII - Soccsksargen,Grade 9,Female
+"23,190",2017-2018,CARAGA - CARAGA,Grade 9,Female
+"17,407",2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 9,Female
+"11,994",2017-2018,CAR - Cordillera Administrative Region,Grade 9,Female
+"83,684",2017-2018,NCR - National Capital Region,Grade 9,Female
+"42,071",2018-2019,Region I - Ilocos Region,Grade 9,Male
+"25,504",2018-2019,Region II - Cagayan Valley,Grade 9,Male
+"82,944",2018-2019,Region III - Central Luzon,Grade 9,Male
+"104,748",2018-2019,Region IV-A - CALABARZON,Grade 9,Male
+"27,435",2018-2019,Region IV-B - MIMAROPA,Grade 9,Male
+"57,758",2018-2019,Region V - Bicol Region,Grade 9,Male
+"63,642",2018-2019,Region VI - Western Visayas,Grade 9,Male
+"60,599",2018-2019,Region VII - Central Visayas,Grade 9,Male
+"41,831",2018-2019,Region VIII - Eastern Visayas,Grade 9,Male
+"29,619",2018-2019,Region IX - Zamboanga Peninsula,Grade 9,Male
+"32,607",2018-2019,Region X - Northern Mindanao,Grade 9,Male
+"37,835",2018-2019,Region XI - Davao Region,Grade 9,Male
+"33,382",2018-2019,Region XII - Soccsksargen,Grade 9,Male
+"23,948",2018-2019,CARAGA - CARAGA,Grade 9,Male
+"14,581",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 9,Male
+"11,749",2018-2019,CAR - Cordillera Administrative Region,Grade 9,Male
+"81,285",2018-2019,NCR - National Capital Region,Grade 9,Male
+"41,221",2018-2019,Region I - Ilocos Region,Grade 9,Female
+"26,510",2018-2019,Region II - Cagayan Valley,Grade 9,Female
+"84,908",2018-2019,Region III - Central Luzon,Grade 9,Female
+"106,844",2018-2019,Region IV-A - CALABARZON,Grade 9,Female
+"28,004",2018-2019,Region IV-B - MIMAROPA,Grade 9,Female
+"60,824",2018-2019,Region V - Bicol Region,Grade 9,Female
+"65,399",2018-2019,Region VI - Western Visayas,Grade 9,Female
+"63,743",2018-2019,Region VII - Central Visayas,Grade 9,Female
+"44,006",2018-2019,Region VIII - Eastern Visayas,Grade 9,Female
+"33,018",2018-2019,Region IX - Zamboanga Peninsula,Grade 9,Female
+"35,584",2018-2019,Region X - Northern Mindanao,Grade 9,Female
+"41,670",2018-2019,Region XI - Davao Region,Grade 9,Female
+"36,660",2018-2019,Region XII - Soccsksargen,Grade 9,Female
+"24,911",2018-2019,CARAGA - CARAGA,Grade 9,Female
+"18,253",2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 9,Female
+"12,380",2018-2019,CAR - Cordillera Administrative Region,Grade 9,Female
+"84,286",2018-2019,NCR - National Capital Region,Grade 9,Female
+"44,017",2019-2020,Region I - Ilocos Region,Grade 9,Male
+"27,895",2019-2020,Region II - Cagayan Valley,Grade 9,Male
+"87,941",2019-2020,Region III - Central Luzon,Grade 9,Male
+"114,136",2019-2020,Region IV-A - CALABARZON,Grade 9,Male
+"29,719",2019-2020,Region IV-B - MIMAROPA,Grade 9,Male
+"63,354",2019-2020,Region V - Bicol Region,Grade 9,Male
+"70,245",2019-2020,Region VI - Western Visayas,Grade 9,Male
+"64,363",2019-2020,Region VII - Central Visayas,Grade 9,Male
+"44,834",2019-2020,Region VIII - Eastern Visayas,Grade 9,Male
+"32,877",2019-2020,Region IX - Zamboanga Peninsula,Grade 9,Male
+"36,975",2019-2020,Region X - Northern Mindanao,Grade 9,Male
+"41,911",2019-2020,Region XI - Davao Region,Grade 9,Male
+"37,217",2019-2020,Region XII - Soccsksargen,Grade 9,Male
+"26,090",2019-2020,CARAGA - CARAGA,Grade 9,Male
+"15,737",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 9,Male
+"12,153",2019-2020,CAR - Cordillera Administrative Region,Grade 9,Male
+"85,284",2019-2020,NCR - National Capital Region,Grade 9,Male
+"43,229",2019-2020,Region I - Ilocos Region,Grade 9,Female
+"28,214",2019-2020,Region II - Cagayan Valley,Grade 9,Female
+"88,806",2019-2020,Region III - Central Luzon,Grade 9,Female
+"114,162",2019-2020,Region IV-A - CALABARZON,Grade 9,Female
+"30,522",2019-2020,Region IV-B - MIMAROPA,Grade 9,Female
+"64,890",2019-2020,Region V - Bicol Region,Grade 9,Female
+"71,600",2019-2020,Region VI - Western Visayas,Grade 9,Female
+"68,609",2019-2020,Region VII - Central Visayas,Grade 9,Female
+"46,775",2019-2020,Region VIII - Eastern Visayas,Grade 9,Female
+"36,712",2019-2020,Region IX - Zamboanga Peninsula,Grade 9,Female
+"40,550",2019-2020,Region X - Northern Mindanao,Grade 9,Female
+"45,506",2019-2020,Region XI - Davao Region,Grade 9,Female
+"41,211",2019-2020,Region XII - Soccsksargen,Grade 9,Female
+"26,618",2019-2020,CARAGA - CARAGA,Grade 9,Female
+"19,517",2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 9,Female
+"12,681",2019-2020,CAR - Cordillera Administrative Region,Grade 9,Female
+"87,948",2019-2020,NCR - National Capital Region,Grade 9,Female
+"47,797",2020-2021,Region I - Ilocos Region,Grade 9,Male
+"31,463",2020-2021,Region II - Cagayan Valley,Grade 9,Male
+"94,301",2020-2021,Region III - Central Luzon,Grade 9,Male
+"123,886",2020-2021,Region IV-A - CALABARZON,Grade 9,Male
+"31,498",2020-2021,Region IV-B - MIMAROPA,Grade 9,Male
+"63,933",2020-2021,Region V - Bicol Region,Grade 9,Male
+"84,231",2020-2021,Region VI - Western Visayas,Grade 9,Male
+"72,631",2020-2021,Region VII - Central Visayas,Grade 9,Male
+"48,142",2020-2021,Region VIII - Eastern Visayas,Grade 9,Male
+"39,223",2020-2021,Region IX - Zamboanga Peninsula,Grade 9,Male
+"41,561",2020-2021,Region X - Northern Mindanao,Grade 9,Male
+"45,761",2020-2021,Region XI - Davao Region,Grade 9,Male
+"41,877",2020-2021,Region XII - Soccsksargen,Grade 9,Male
+"28,105",2020-2021,CARAGA - CARAGA,Grade 9,Male
+"16,635",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 9,Male
+"13,327",2020-2021,CAR - Cordillera Administrative Region,Grade 9,Male
+"86,245",2020-2021,NCR - National Capital Region,Grade 9,Male
+"44,480",2020-2021,Region I - Ilocos Region,Grade 9,Female
+"31,138",2020-2021,Region II - Cagayan Valley,Grade 9,Female
+"93,448",2020-2021,Region III - Central Luzon,Grade 9,Female
+"122,442",2020-2021,Region IV-A - CALABARZON,Grade 9,Female
+"30,686",2020-2021,Region IV-B - MIMAROPA,Grade 9,Female
+"62,953",2020-2021,Region V - Bicol Region,Grade 9,Female
+"79,531",2020-2021,Region VI - Western Visayas,Grade 9,Female
+"73,248",2020-2021,Region VII - Central Visayas,Grade 9,Female
+"47,866",2020-2021,Region VIII - Eastern Visayas,Grade 9,Female
+"41,095",2020-2021,Region IX - Zamboanga Peninsula,Grade 9,Female
+"42,850",2020-2021,Region X - Northern Mindanao,Grade 9,Female
+"48,327",2020-2021,Region XI - Davao Region,Grade 9,Female
+"44,539",2020-2021,Region XII - Soccsksargen,Grade 9,Female
+"27,701",2020-2021,CARAGA - CARAGA,Grade 9,Female
+"21,114",2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Grade 9,Female
+"13,127",2020-2021,CAR - Cordillera Administrative Region,Grade 9,Female
+"87,317",2020-2021,NCR - National Capital Region,Grade 9,Female
+"1,485",2016-2017,Region I - Ilocos Region,Non-Grade (ES),Male
+837,2016-2017,Region II - Cagayan Valley,Non-Grade (ES),Male
+"2,925",2016-2017,Region III - Central Luzon,Non-Grade (ES),Male
+"4,841",2016-2017,Region IV-A - CALABARZON,Non-Grade (ES),Male
+798,2016-2017,Region IV-B - MIMAROPA,Non-Grade (ES),Male
+"1,144",2016-2017,Region V - Bicol Region,Non-Grade (ES),Male
+"2,393",2016-2017,Region VI - Western Visayas,Non-Grade (ES),Male
+"2,184",2016-2017,Region VII - Central Visayas,Non-Grade (ES),Male
+829,2016-2017,Region VIII - Eastern Visayas,Non-Grade (ES),Male
+"1,134",2016-2017,Region IX - Zamboanga Peninsula,Non-Grade (ES),Male
+"1,242",2016-2017,Region X - Northern Mindanao,Non-Grade (ES),Male
+"1,667",2016-2017,Region XI - Davao Region,Non-Grade (ES),Male
+758,2016-2017,Region XII - Soccsksargen,Non-Grade (ES),Male
+783,2016-2017,CARAGA - CARAGA,Non-Grade (ES),Male
+78,2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (ES),Male
+505,2016-2017,CAR - Cordillera Administrative Region,Non-Grade (ES),Male
+"5,708",2016-2017,NCR - National Capital Region,Non-Grade (ES),Male
+"1,052",2016-2017,Region I - Ilocos Region,Non-Grade (ES),Female
+559,2016-2017,Region II - Cagayan Valley,Non-Grade (ES),Female
+"1,846",2016-2017,Region III - Central Luzon,Non-Grade (ES),Female
+"3,064",2016-2017,Region IV-A - CALABARZON,Non-Grade (ES),Female
+550,2016-2017,Region IV-B - MIMAROPA,Non-Grade (ES),Female
+775,2016-2017,Region V - Bicol Region,Non-Grade (ES),Female
+"1,574",2016-2017,Region VI - Western Visayas,Non-Grade (ES),Female
+"1,454",2016-2017,Region VII - Central Visayas,Non-Grade (ES),Female
+594,2016-2017,Region VIII - Eastern Visayas,Non-Grade (ES),Female
+760,2016-2017,Region IX - Zamboanga Peninsula,Non-Grade (ES),Female
+784,2016-2017,Region X - Northern Mindanao,Non-Grade (ES),Female
+"1,037",2016-2017,Region XI - Davao Region,Non-Grade (ES),Female
+499,2016-2017,Region XII - Soccsksargen,Non-Grade (ES),Female
+545,2016-2017,CARAGA - CARAGA,Non-Grade (ES),Female
+36,2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (ES),Female
+234,2016-2017,CAR - Cordillera Administrative Region,Non-Grade (ES),Female
+"3,118",2016-2017,NCR - National Capital Region,Non-Grade (ES),Female
+"1,534",2017-2018,Region I - Ilocos Region,Non-Grade (ES),Male
+948,2017-2018,Region II - Cagayan Valley,Non-Grade (ES),Male
+"3,413",2017-2018,Region III - Central Luzon,Non-Grade (ES),Male
+"5,221",2017-2018,Region IV-A - CALABARZON,Non-Grade (ES),Male
+872,2017-2018,Region IV-B - MIMAROPA,Non-Grade (ES),Male
+"1,358",2017-2018,Region V - Bicol Region,Non-Grade (ES),Male
+"2,583",2017-2018,Region VI - Western Visayas,Non-Grade (ES),Male
+"2,411",2017-2018,Region VII - Central Visayas,Non-Grade (ES),Male
+941,2017-2018,Region VIII - Eastern Visayas,Non-Grade (ES),Male
+"1,332",2017-2018,Region IX - Zamboanga Peninsula,Non-Grade (ES),Male
+"1,501",2017-2018,Region X - Northern Mindanao,Non-Grade (ES),Male
+"1,945",2017-2018,Region XI - Davao Region,Non-Grade (ES),Male
+826,2017-2018,Region XII - Soccsksargen,Non-Grade (ES),Male
+927,2017-2018,CARAGA - CARAGA,Non-Grade (ES),Male
+65,2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (ES),Male
+562,2017-2018,CAR - Cordillera Administrative Region,Non-Grade (ES),Male
+"5,660",2017-2018,NCR - National Capital Region,Non-Grade (ES),Male
+"1,000",2017-2018,Region I - Ilocos Region,Non-Grade (ES),Female
+586,2017-2018,Region II - Cagayan Valley,Non-Grade (ES),Female
+"2,238",2017-2018,Region III - Central Luzon,Non-Grade (ES),Female
+"3,192",2017-2018,Region IV-A - CALABARZON,Non-Grade (ES),Female
+591,2017-2018,Region IV-B - MIMAROPA,Non-Grade (ES),Female
+896,2017-2018,Region V - Bicol Region,Non-Grade (ES),Female
+"1,745",2017-2018,Region VI - Western Visayas,Non-Grade (ES),Female
+"1,568",2017-2018,Region VII - Central Visayas,Non-Grade (ES),Female
+644,2017-2018,Region VIII - Eastern Visayas,Non-Grade (ES),Female
+869,2017-2018,Region IX - Zamboanga Peninsula,Non-Grade (ES),Female
+964,2017-2018,Region X - Northern Mindanao,Non-Grade (ES),Female
+"1,184",2017-2018,Region XI - Davao Region,Non-Grade (ES),Female
+585,2017-2018,Region XII - Soccsksargen,Non-Grade (ES),Female
+643,2017-2018,CARAGA - CARAGA,Non-Grade (ES),Female
+59,2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (ES),Female
+270,2017-2018,CAR - Cordillera Administrative Region,Non-Grade (ES),Female
+"2,952",2017-2018,NCR - National Capital Region,Non-Grade (ES),Female
+"1,601",2018-2019,Region I - Ilocos Region,Non-Grade (ES),Male
+856,2018-2019,Region II - Cagayan Valley,Non-Grade (ES),Male
+"3,806",2018-2019,Region III - Central Luzon,Non-Grade (ES),Male
+"5,491",2018-2019,Region IV-A - CALABARZON,Non-Grade (ES),Male
+903,2018-2019,Region IV-B - MIMAROPA,Non-Grade (ES),Male
+"1,393",2018-2019,Region V - Bicol Region,Non-Grade (ES),Male
+"2,784",2018-2019,Region VI - Western Visayas,Non-Grade (ES),Male
+"2,342",2018-2019,Region VII - Central Visayas,Non-Grade (ES),Male
+921,2018-2019,Region VIII - Eastern Visayas,Non-Grade (ES),Male
+"1,645",2018-2019,Region IX - Zamboanga Peninsula,Non-Grade (ES),Male
+"1,662",2018-2019,Region X - Northern Mindanao,Non-Grade (ES),Male
+"2,234",2018-2019,Region XI - Davao Region,Non-Grade (ES),Male
+866,2018-2019,Region XII - Soccsksargen,Non-Grade (ES),Male
+915,2018-2019,CARAGA - CARAGA,Non-Grade (ES),Male
+131,2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (ES),Male
+405,2018-2019,CAR - Cordillera Administrative Region,Non-Grade (ES),Male
+"5,979",2018-2019,NCR - National Capital Region,Non-Grade (ES),Male
+"1,022",2018-2019,Region I - Ilocos Region,Non-Grade (ES),Female
+571,2018-2019,Region II - Cagayan Valley,Non-Grade (ES),Female
+"2,376",2018-2019,Region III - Central Luzon,Non-Grade (ES),Female
+"3,290",2018-2019,Region IV-A - CALABARZON,Non-Grade (ES),Female
+600,2018-2019,Region IV-B - MIMAROPA,Non-Grade (ES),Female
+947,2018-2019,Region V - Bicol Region,Non-Grade (ES),Female
+"1,943",2018-2019,Region VI - Western Visayas,Non-Grade (ES),Female
+"1,498",2018-2019,Region VII - Central Visayas,Non-Grade (ES),Female
+561,2018-2019,Region VIII - Eastern Visayas,Non-Grade (ES),Female
+"1,067",2018-2019,Region IX - Zamboanga Peninsula,Non-Grade (ES),Female
+987,2018-2019,Region X - Northern Mindanao,Non-Grade (ES),Female
+"1,252",2018-2019,Region XI - Davao Region,Non-Grade (ES),Female
+557,2018-2019,Region XII - Soccsksargen,Non-Grade (ES),Female
+628,2018-2019,CARAGA - CARAGA,Non-Grade (ES),Female
+113,2018-2019,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (ES),Female
+203,2018-2019,CAR - Cordillera Administrative Region,Non-Grade (ES),Female
+"3,098",2018-2019,NCR - National Capital Region,Non-Grade (ES),Female
+"1,741",2019-2020,Region I - Ilocos Region,Non-Grade (ES),Male
+883,2019-2020,Region II - Cagayan Valley,Non-Grade (ES),Male
+"4,211",2019-2020,Region III - Central Luzon,Non-Grade (ES),Male
+"6,045",2019-2020,Region IV-A - CALABARZON,Non-Grade (ES),Male
+957,2019-2020,Region IV-B - MIMAROPA,Non-Grade (ES),Male
+"1,478",2019-2020,Region V - Bicol Region,Non-Grade (ES),Male
+"3,056",2019-2020,Region VI - Western Visayas,Non-Grade (ES),Male
+"2,449",2019-2020,Region VII - Central Visayas,Non-Grade (ES),Male
+949,2019-2020,Region VIII - Eastern Visayas,Non-Grade (ES),Male
+"1,786",2019-2020,Region IX - Zamboanga Peninsula,Non-Grade (ES),Male
+"1,767",2019-2020,Region X - Northern Mindanao,Non-Grade (ES),Male
+"2,285",2019-2020,Region XI - Davao Region,Non-Grade (ES),Male
+928,2019-2020,Region XII - Soccsksargen,Non-Grade (ES),Male
+937,2019-2020,CARAGA - CARAGA,Non-Grade (ES),Male
+128,2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (ES),Male
+433,2019-2020,CAR - Cordillera Administrative Region,Non-Grade (ES),Male
+"6,088",2019-2020,NCR - National Capital Region,Non-Grade (ES),Male
+"1,092",2019-2020,Region I - Ilocos Region,Non-Grade (ES),Female
+579,2019-2020,Region II - Cagayan Valley,Non-Grade (ES),Female
+"2,535",2019-2020,Region III - Central Luzon,Non-Grade (ES),Female
+"3,560",2019-2020,Region IV-A - CALABARZON,Non-Grade (ES),Female
+659,2019-2020,Region IV-B - MIMAROPA,Non-Grade (ES),Female
+985,2019-2020,Region V - Bicol Region,Non-Grade (ES),Female
+"2,083",2019-2020,Region VI - Western Visayas,Non-Grade (ES),Female
+"1,540",2019-2020,Region VII - Central Visayas,Non-Grade (ES),Female
+595,2019-2020,Region VIII - Eastern Visayas,Non-Grade (ES),Female
+"1,132",2019-2020,Region IX - Zamboanga Peninsula,Non-Grade (ES),Female
+"1,070",2019-2020,Region X - Northern Mindanao,Non-Grade (ES),Female
+"1,387",2019-2020,Region XI - Davao Region,Non-Grade (ES),Female
+596,2019-2020,Region XII - Soccsksargen,Non-Grade (ES),Female
+626,2019-2020,CARAGA - CARAGA,Non-Grade (ES),Female
+99,2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (ES),Female
+213,2019-2020,CAR - Cordillera Administrative Region,Non-Grade (ES),Female
+"3,210",2019-2020,NCR - National Capital Region,Non-Grade (ES),Female
+"1,588",2020-2021,Region I - Ilocos Region,Non-Grade (ES),Male
+888,2020-2021,Region II - Cagayan Valley,Non-Grade (ES),Male
+"3,817",2020-2021,Region III - Central Luzon,Non-Grade (ES),Male
+"5,646",2020-2021,Region IV-A - CALABARZON,Non-Grade (ES),Male
+947,2020-2021,Region IV-B - MIMAROPA,Non-Grade (ES),Male
+"1,236",2020-2021,Region V - Bicol Region,Non-Grade (ES),Male
+"2,879",2020-2021,Region VI - Western Visayas,Non-Grade (ES),Male
+"2,206",2020-2021,Region VII - Central Visayas,Non-Grade (ES),Male
+828,2020-2021,Region VIII - Eastern Visayas,Non-Grade (ES),Male
+"1,777",2020-2021,Region IX - Zamboanga Peninsula,Non-Grade (ES),Male
+"1,665",2020-2021,Region X - Northern Mindanao,Non-Grade (ES),Male
+"2,005",2020-2021,Region XI - Davao Region,Non-Grade (ES),Male
+897,2020-2021,Region XII - Soccsksargen,Non-Grade (ES),Male
+904,2020-2021,CARAGA - CARAGA,Non-Grade (ES),Male
+131,2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (ES),Male
+400,2020-2021,CAR - Cordillera Administrative Region,Non-Grade (ES),Male
+"6,189",2020-2021,NCR - National Capital Region,Non-Grade (ES),Male
+"1,027",2020-2021,Region I - Ilocos Region,Non-Grade (ES),Female
+564,2020-2021,Region II - Cagayan Valley,Non-Grade (ES),Female
+"2,296",2020-2021,Region III - Central Luzon,Non-Grade (ES),Female
+"3,236",2020-2021,Region IV-A - CALABARZON,Non-Grade (ES),Female
+670,2020-2021,Region IV-B - MIMAROPA,Non-Grade (ES),Female
+807,2020-2021,Region V - Bicol Region,Non-Grade (ES),Female
+"1,907",2020-2021,Region VI - Western Visayas,Non-Grade (ES),Female
+"1,354",2020-2021,Region VII - Central Visayas,Non-Grade (ES),Female
+537,2020-2021,Region VIII - Eastern Visayas,Non-Grade (ES),Female
+"1,145",2020-2021,Region IX - Zamboanga Peninsula,Non-Grade (ES),Female
+"1,044",2020-2021,Region X - Northern Mindanao,Non-Grade (ES),Female
+"1,228",2020-2021,Region XI - Davao Region,Non-Grade (ES),Female
+558,2020-2021,Region XII - Soccsksargen,Non-Grade (ES),Female
+610,2020-2021,CARAGA - CARAGA,Non-Grade (ES),Female
+87,2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (ES),Female
+206,2020-2021,CAR - Cordillera Administrative Region,Non-Grade (ES),Female
+"3,078",2020-2021,NCR - National Capital Region,Non-Grade (ES),Female
+25,2016-2017,Region I - Ilocos Region,Non-Grade (JHS),Male
+4,2016-2017,Region II - Cagayan Valley,Non-Grade (JHS),Male
+88,2016-2017,Region III - Central Luzon,Non-Grade (JHS),Male
+280,2016-2017,Region IV-A - CALABARZON,Non-Grade (JHS),Male
+5,2016-2017,Region IV-B - MIMAROPA,Non-Grade (JHS),Male
+32,2016-2017,Region V - Bicol Region,Non-Grade (JHS),Male
+36,2016-2017,Region VI - Western Visayas,Non-Grade (JHS),Male
+-,2016-2017,Region VII - Central Visayas,Non-Grade (JHS),Male
+133,2016-2017,Region VIII - Eastern Visayas,Non-Grade (JHS),Male
+6,2016-2017,Region IX - Zamboanga Peninsula,Non-Grade (JHS),Male
+229,2016-2017,Region X - Northern Mindanao,Non-Grade (JHS),Male
+13,2016-2017,Region XI - Davao Region,Non-Grade (JHS),Male
+28,2016-2017,Region XII - Soccsksargen,Non-Grade (JHS),Male
+-,2016-2017,CARAGA - CARAGA,Non-Grade (JHS),Male
+16,2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (JHS),Male
+11,2016-2017,CAR - Cordillera Administrative Region,Non-Grade (JHS),Male
+141,2016-2017,NCR - National Capital Region,Non-Grade (JHS),Male
+14,2016-2017,Region I - Ilocos Region,Non-Grade (JHS),Female
+5,2016-2017,Region II - Cagayan Valley,Non-Grade (JHS),Female
+57,2016-2017,Region III - Central Luzon,Non-Grade (JHS),Female
+256,2016-2017,Region IV-A - CALABARZON,Non-Grade (JHS),Female
+8,2016-2017,Region IV-B - MIMAROPA,Non-Grade (JHS),Female
+24,2016-2017,Region V - Bicol Region,Non-Grade (JHS),Female
+40,2016-2017,Region VI - Western Visayas,Non-Grade (JHS),Female
+-,2016-2017,Region VII - Central Visayas,Non-Grade (JHS),Female
+120,2016-2017,Region VIII - Eastern Visayas,Non-Grade (JHS),Female
+-,2016-2017,Region IX - Zamboanga Peninsula,Non-Grade (JHS),Female
+172,2016-2017,Region X - Northern Mindanao,Non-Grade (JHS),Female
+7,2016-2017,Region XI - Davao Region,Non-Grade (JHS),Female
+12,2016-2017,Region XII - Soccsksargen,Non-Grade (JHS),Female
+-,2016-2017,CARAGA - CARAGA,Non-Grade (JHS),Female
+37,2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (JHS),Female
+16,2016-2017,CAR - Cordillera Administrative Region,Non-Grade (JHS),Female
+113,2016-2017,NCR - National Capital Region,Non-Grade (JHS),Female
+64,2017-2018,Region I - Ilocos Region,Non-Grade (JHS),Male
+21,2017-2018,Region II - Cagayan Valley,Non-Grade (JHS),Male
+96,2017-2018,Region III - Central Luzon,Non-Grade (JHS),Male
+230,2017-2018,Region IV-A - CALABARZON,Non-Grade (JHS),Male
+15,2017-2018,Region IV-B - MIMAROPA,Non-Grade (JHS),Male
+53,2017-2018,Region V - Bicol Region,Non-Grade (JHS),Male
+43,2017-2018,Region VI - Western Visayas,Non-Grade (JHS),Male
+407,2017-2018,Region VII - Central Visayas,Non-Grade (JHS),Male
+11,2017-2018,Region VIII - Eastern Visayas,Non-Grade (JHS),Male
+38,2017-2018,Region IX - Zamboanga Peninsula,Non-Grade (JHS),Male
+339,2017-2018,Region X - Northern Mindanao,Non-Grade (JHS),Male
+12,2017-2018,Region XI - Davao Region,Non-Grade (JHS),Male
+54,2017-2018,Region XII - Soccsksargen,Non-Grade (JHS),Male
+2,2017-2018,CARAGA - CARAGA,Non-Grade (JHS),Male
+-,2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (JHS),Male
+39,2017-2018,CAR - Cordillera Administrative Region,Non-Grade (JHS),Male
+199,2017-2018,NCR - National Capital Region,Non-Grade (JHS),Male
+39,2017-2018,Region I - Ilocos Region,Non-Grade (JHS),Female
+15,2017-2018,Region II - Cagayan Valley,Non-Grade (JHS),Female
+69,2017-2018,Region III - Central Luzon,Non-Grade (JHS),Female
+193,2017-2018,Region IV-A - CALABARZON,Non-Grade (JHS),Female
+7,2017-2018,Region IV-B - MIMAROPA,Non-Grade (JHS),Female
+32,2017-2018,Region V - Bicol Region,Non-Grade (JHS),Female
+30,2017-2018,Region VI - Western Visayas,Non-Grade (JHS),Female
+390,2017-2018,Region VII - Central Visayas,Non-Grade (JHS),Female
+8,2017-2018,Region VIII - Eastern Visayas,Non-Grade (JHS),Female
+18,2017-2018,Region IX - Zamboanga Peninsula,Non-Grade (JHS),Female
+234,2017-2018,Region X - Northern Mindanao,Non-Grade (JHS),Female
+17,2017-2018,Region XI - Davao Region,Non-Grade (JHS),Female
+43,2017-2018,Region XII - Soccsksargen,Non-Grade (JHS),Female
+4,2017-2018,CARAGA - CARAGA,Non-Grade (JHS),Female
+-,2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (JHS),Female
+41,2017-2018,CAR - Cordillera Administrative Region,Non-Grade (JHS),Female
+143,2017-2018,NCR - National Capital Region,Non-Grade (JHS),Female
+88,2019-2020,Region I - Ilocos Region,Non-Grade (JHS),Male
+8,2019-2020,Region II - Cagayan Valley,Non-Grade (JHS),Male
+106,2019-2020,Region III - Central Luzon,Non-Grade (JHS),Male
+350,2019-2020,Region IV-A - CALABARZON,Non-Grade (JHS),Male
+13,2019-2020,Region IV-B - MIMAROPA,Non-Grade (JHS),Male
+227,2019-2020,Region V - Bicol Region,Non-Grade (JHS),Male
+39,2019-2020,Region VI - Western Visayas,Non-Grade (JHS),Male
+8,2019-2020,Region VII - Central Visayas,Non-Grade (JHS),Male
+-,2019-2020,Region VIII - Eastern Visayas,Non-Grade (JHS),Male
+10,2019-2020,Region IX - Zamboanga Peninsula,Non-Grade (JHS),Male
+94,2019-2020,Region X - Northern Mindanao,Non-Grade (JHS),Male
+15,2019-2020,Region XI - Davao Region,Non-Grade (JHS),Male
+19,2019-2020,Region XII - Soccsksargen,Non-Grade (JHS),Male
+8,2019-2020,CARAGA - CARAGA,Non-Grade (JHS),Male
+-,2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (JHS),Male
+20,2019-2020,CAR - Cordillera Administrative Region,Non-Grade (JHS),Male
+182,2019-2020,NCR - National Capital Region,Non-Grade (JHS),Male
+53,2019-2020,Region I - Ilocos Region,Non-Grade (JHS),Female
+14,2019-2020,Region II - Cagayan Valley,Non-Grade (JHS),Female
+84,2019-2020,Region III - Central Luzon,Non-Grade (JHS),Female
+218,2019-2020,Region IV-A - CALABARZON,Non-Grade (JHS),Female
+6,2019-2020,Region IV-B - MIMAROPA,Non-Grade (JHS),Female
+76,2019-2020,Region V - Bicol Region,Non-Grade (JHS),Female
+34,2019-2020,Region VI - Western Visayas,Non-Grade (JHS),Female
+2,2019-2020,Region VII - Central Visayas,Non-Grade (JHS),Female
+-,2019-2020,Region VIII - Eastern Visayas,Non-Grade (JHS),Female
+14,2019-2020,Region IX - Zamboanga Peninsula,Non-Grade (JHS),Female
+64,2019-2020,Region X - Northern Mindanao,Non-Grade (JHS),Female
+16,2019-2020,Region XI - Davao Region,Non-Grade (JHS),Female
+10,2019-2020,Region XII - Soccsksargen,Non-Grade (JHS),Female
+9,2019-2020,CARAGA - CARAGA,Non-Grade (JHS),Female
+-,2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (JHS),Female
+21,2019-2020,CAR - Cordillera Administrative Region,Non-Grade (JHS),Female
+114,2019-2020,NCR - National Capital Region,Non-Grade (JHS),Female
+51,2020-2021,Region I - Ilocos Region,Non-Grade (JHS),Male
+11,2020-2021,Region II - Cagayan Valley,Non-Grade (JHS),Male
+94,2020-2021,Region III - Central Luzon,Non-Grade (JHS),Male
+317,2020-2021,Region IV-A - CALABARZON,Non-Grade (JHS),Male
+13,2020-2021,Region IV-B - MIMAROPA,Non-Grade (JHS),Male
+44,2020-2021,Region V - Bicol Region,Non-Grade (JHS),Male
+24,2020-2021,Region VI - Western Visayas,Non-Grade (JHS),Male
+7,2020-2021,Region VII - Central Visayas,Non-Grade (JHS),Male
+-,2020-2021,Region VIII - Eastern Visayas,Non-Grade (JHS),Male
+10,2020-2021,Region IX - Zamboanga Peninsula,Non-Grade (JHS),Male
+76,2020-2021,Region X - Northern Mindanao,Non-Grade (JHS),Male
+7,2020-2021,Region XI - Davao Region,Non-Grade (JHS),Male
+50,2020-2021,Region XII - Soccsksargen,Non-Grade (JHS),Male
+15,2020-2021,CARAGA - CARAGA,Non-Grade (JHS),Male
+-,2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (JHS),Male
+12,2020-2021,CAR - Cordillera Administrative Region,Non-Grade (JHS),Male
+222,2020-2021,NCR - National Capital Region,Non-Grade (JHS),Male
+26,2020-2021,Region I - Ilocos Region,Non-Grade (JHS),Female
+17,2020-2021,Region II - Cagayan Valley,Non-Grade (JHS),Female
+78,2020-2021,Region III - Central Luzon,Non-Grade (JHS),Female
+201,2020-2021,Region IV-A - CALABARZON,Non-Grade (JHS),Female
+12,2020-2021,Region IV-B - MIMAROPA,Non-Grade (JHS),Female
+25,2020-2021,Region V - Bicol Region,Non-Grade (JHS),Female
+21,2020-2021,Region VI - Western Visayas,Non-Grade (JHS),Female
+2,2020-2021,Region VII - Central Visayas,Non-Grade (JHS),Female
+-,2020-2021,Region VIII - Eastern Visayas,Non-Grade (JHS),Female
+23,2020-2021,Region IX - Zamboanga Peninsula,Non-Grade (JHS),Female
+47,2020-2021,Region X - Northern Mindanao,Non-Grade (JHS),Female
+10,2020-2021,Region XI - Davao Region,Non-Grade (JHS),Female
+24,2020-2021,Region XII - Soccsksargen,Non-Grade (JHS),Female
+15,2020-2021,CARAGA - CARAGA,Non-Grade (JHS),Female
+-,2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (JHS),Female
+9,2020-2021,CAR - Cordillera Administrative Region,Non-Grade (JHS),Female
+141,2020-2021,NCR - National Capital Region,Non-Grade (JHS),Female
+"1,588",2020-2021,Region I - Ilocos Region,Non-Grade (ES),Male
+888,2020-2021,Region II - Cagayan Valley,Non-Grade (ES),Male
+"3,817",2020-2021,Region III - Central Luzon,Non-Grade (ES),Male
+"5,646",2020-2021,Region IV-A - CALABARZON,Non-Grade (ES),Male
+947,2020-2021,Region IV-B - MIMAROPA,Non-Grade (ES),Male
+"1,236",2020-2021,Region V - Bicol Region,Non-Grade (ES),Male
+"2,879",2020-2021,Region VI - Western Visayas,Non-Grade (ES),Male
+"2,206",2020-2021,Region VII - Central Visayas,Non-Grade (ES),Male
+828,2020-2021,Region VIII - Eastern Visayas,Non-Grade (ES),Male
+"1,777",2020-2021,Region IX - Zamboanga Peninsula,Non-Grade (ES),Male
+"1,665",2020-2021,Region X - Northern Mindanao,Non-Grade (ES),Male
+"2,005",2020-2021,Region XI - Davao Region,Non-Grade (ES),Male
+897,2020-2021,Region XII - Soccsksargen,Non-Grade (ES),Male
+904,2020-2021,CARAGA - CARAGA,Non-Grade (ES),Male
+131,2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (ES),Male
+400,2020-2021,CAR - Cordillera Administrative Region,Non-Grade (ES),Male
+"6,189",2020-2021,NCR - National Capital Region,Non-Grade (ES),Male
+"1,027",2020-2021,Region I - Ilocos Region,Non-Grade (ES),Female
+564,2020-2021,Region II - Cagayan Valley,Non-Grade (ES),Female
+"2,296",2020-2021,Region III - Central Luzon,Non-Grade (ES),Female
+"3,236",2020-2021,Region IV-A - CALABARZON,Non-Grade (ES),Female
+670,2020-2021,Region IV-B - MIMAROPA,Non-Grade (ES),Female
+807,2020-2021,Region V - Bicol Region,Non-Grade (ES),Female
+"1,907",2020-2021,Region VI - Western Visayas,Non-Grade (ES),Female
+"1,354",2020-2021,Region VII - Central Visayas,Non-Grade (ES),Female
+537,2020-2021,Region VIII - Eastern Visayas,Non-Grade (ES),Female
+"1,145",2020-2021,Region IX - Zamboanga Peninsula,Non-Grade (ES),Female
+"1,044",2020-2021,Region X - Northern Mindanao,Non-Grade (ES),Female
+"1,228",2020-2021,Region XI - Davao Region,Non-Grade (ES),Female
+558,2020-2021,Region XII - Soccsksargen,Non-Grade (ES),Female
+610,2020-2021,CARAGA - CARAGA,Non-Grade (ES),Female
+87,2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (ES),Female
+206,2020-2021,CAR - Cordillera Administrative Region,Non-Grade (ES),Female
+"3,078",2020-2021,NCR - National Capital Region,Non-Grade (ES),Female
+25,2016-2017,Region I - Ilocos Region,Non-Grade (JHS),Male
+4,2016-2017,Region II - Cagayan Valley,Non-Grade (JHS),Male
+88,2016-2017,Region III - Central Luzon,Non-Grade (JHS),Male
+280,2016-2017,Region IV-A - CALABARZON,Non-Grade (JHS),Male
+5,2016-2017,Region IV-B - MIMAROPA,Non-Grade (JHS),Male
+32,2016-2017,Region V - Bicol Region,Non-Grade (JHS),Male
+36,2016-2017,Region VI - Western Visayas,Non-Grade (JHS),Male
+-,2016-2017,Region VII - Central Visayas,Non-Grade (JHS),Male
+133,2016-2017,Region VIII - Eastern Visayas,Non-Grade (JHS),Male
+6,2016-2017,Region IX - Zamboanga Peninsula,Non-Grade (JHS),Male
+229,2016-2017,Region X - Northern Mindanao,Non-Grade (JHS),Male
+13,2016-2017,Region XI - Davao Region,Non-Grade (JHS),Male
+28,2016-2017,Region XII - Soccsksargen,Non-Grade (JHS),Male
+-,2016-2017,CARAGA - CARAGA,Non-Grade (JHS),Male
+16,2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (JHS),Male
+11,2016-2017,CAR - Cordillera Administrative Region,Non-Grade (JHS),Male
+141,2016-2017,NCR - National Capital Region,Non-Grade (JHS),Male
+14,2016-2017,Region I - Ilocos Region,Non-Grade (JHS),Female
+5,2016-2017,Region II - Cagayan Valley,Non-Grade (JHS),Female
+57,2016-2017,Region III - Central Luzon,Non-Grade (JHS),Female
+256,2016-2017,Region IV-A - CALABARZON,Non-Grade (JHS),Female
+8,2016-2017,Region IV-B - MIMAROPA,Non-Grade (JHS),Female
+24,2016-2017,Region V - Bicol Region,Non-Grade (JHS),Female
+40,2016-2017,Region VI - Western Visayas,Non-Grade (JHS),Female
+-,2016-2017,Region VII - Central Visayas,Non-Grade (JHS),Female
+120,2016-2017,Region VIII - Eastern Visayas,Non-Grade (JHS),Female
+-,2016-2017,Region IX - Zamboanga Peninsula,Non-Grade (JHS),Female
+172,2016-2017,Region X - Northern Mindanao,Non-Grade (JHS),Female
+7,2016-2017,Region XI - Davao Region,Non-Grade (JHS),Female
+12,2016-2017,Region XII - Soccsksargen,Non-Grade (JHS),Female
+-,2016-2017,CARAGA - CARAGA,Non-Grade (JHS),Female
+37,2016-2017,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (JHS),Female
+16,2016-2017,CAR - Cordillera Administrative Region,Non-Grade (JHS),Female
+113,2016-2017,NCR - National Capital Region,Non-Grade (JHS),Female
+64,2017-2018,Region I - Ilocos Region,Non-Grade (JHS),Male
+21,2017-2018,Region II - Cagayan Valley,Non-Grade (JHS),Male
+96,2017-2018,Region III - Central Luzon,Non-Grade (JHS),Male
+230,2017-2018,Region IV-A - CALABARZON,Non-Grade (JHS),Male
+15,2017-2018,Region IV-B - MIMAROPA,Non-Grade (JHS),Male
+53,2017-2018,Region V - Bicol Region,Non-Grade (JHS),Male
+43,2017-2018,Region VI - Western Visayas,Non-Grade (JHS),Male
+407,2017-2018,Region VII - Central Visayas,Non-Grade (JHS),Male
+11,2017-2018,Region VIII - Eastern Visayas,Non-Grade (JHS),Male
+38,2017-2018,Region IX - Zamboanga Peninsula,Non-Grade (JHS),Male
+339,2017-2018,Region X - Northern Mindanao,Non-Grade (JHS),Male
+12,2017-2018,Region XI - Davao Region,Non-Grade (JHS),Male
+54,2017-2018,Region XII - Soccsksargen,Non-Grade (JHS),Male
+2,2017-2018,CARAGA - CARAGA,Non-Grade (JHS),Male
+-,2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (JHS),Male
+39,2017-2018,CAR - Cordillera Administrative Region,Non-Grade (JHS),Male
+199,2017-2018,NCR - National Capital Region,Non-Grade (JHS),Male
+39,2017-2018,Region I - Ilocos Region,Non-Grade (JHS),Female
+15,2017-2018,Region II - Cagayan Valley,Non-Grade (JHS),Female
+69,2017-2018,Region III - Central Luzon,Non-Grade (JHS),Female
+193,2017-2018,Region IV-A - CALABARZON,Non-Grade (JHS),Female
+7,2017-2018,Region IV-B - MIMAROPA,Non-Grade (JHS),Female
+32,2017-2018,Region V - Bicol Region,Non-Grade (JHS),Female
+30,2017-2018,Region VI - Western Visayas,Non-Grade (JHS),Female
+390,2017-2018,Region VII - Central Visayas,Non-Grade (JHS),Female
+8,2017-2018,Region VIII - Eastern Visayas,Non-Grade (JHS),Female
+18,2017-2018,Region IX - Zamboanga Peninsula,Non-Grade (JHS),Female
+234,2017-2018,Region X - Northern Mindanao,Non-Grade (JHS),Female
+17,2017-2018,Region XI - Davao Region,Non-Grade (JHS),Female
+43,2017-2018,Region XII - Soccsksargen,Non-Grade (JHS),Female
+4,2017-2018,CARAGA - CARAGA,Non-Grade (JHS),Female
+-,2017-2018,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (JHS),Female
+41,2017-2018,CAR - Cordillera Administrative Region,Non-Grade (JHS),Female
+143,2017-2018,NCR - National Capital Region,Non-Grade (JHS),Female
+88,2019-2020,Region I - Ilocos Region,Non-Grade (JHS),Male
+8,2019-2020,Region II - Cagayan Valley,Non-Grade (JHS),Male
+106,2019-2020,Region III - Central Luzon,Non-Grade (JHS),Male
+350,2019-2020,Region IV-A - CALABARZON,Non-Grade (JHS),Male
+13,2019-2020,Region IV-B - MIMAROPA,Non-Grade (JHS),Male
+227,2019-2020,Region V - Bicol Region,Non-Grade (JHS),Male
+39,2019-2020,Region VI - Western Visayas,Non-Grade (JHS),Male
+8,2019-2020,Region VII - Central Visayas,Non-Grade (JHS),Male
+-,2019-2020,Region VIII - Eastern Visayas,Non-Grade (JHS),Male
+10,2019-2020,Region IX - Zamboanga Peninsula,Non-Grade (JHS),Male
+94,2019-2020,Region X - Northern Mindanao,Non-Grade (JHS),Male
+15,2019-2020,Region XI - Davao Region,Non-Grade (JHS),Male
+19,2019-2020,Region XII - Soccsksargen,Non-Grade (JHS),Male
+8,2019-2020,CARAGA - CARAGA,Non-Grade (JHS),Male
+-,2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (JHS),Male
+20,2019-2020,CAR - Cordillera Administrative Region,Non-Grade (JHS),Male
+182,2019-2020,NCR - National Capital Region,Non-Grade (JHS),Male
+53,2019-2020,Region I - Ilocos Region,Non-Grade (JHS),Female
+14,2019-2020,Region II - Cagayan Valley,Non-Grade (JHS),Female
+84,2019-2020,Region III - Central Luzon,Non-Grade (JHS),Female
+218,2019-2020,Region IV-A - CALABARZON,Non-Grade (JHS),Female
+6,2019-2020,Region IV-B - MIMAROPA,Non-Grade (JHS),Female
+76,2019-2020,Region V - Bicol Region,Non-Grade (JHS),Female
+34,2019-2020,Region VI - Western Visayas,Non-Grade (JHS),Female
+2,2019-2020,Region VII - Central Visayas,Non-Grade (JHS),Female
+-,2019-2020,Region VIII - Eastern Visayas,Non-Grade (JHS),Female
+14,2019-2020,Region IX - Zamboanga Peninsula,Non-Grade (JHS),Female
+64,2019-2020,Region X - Northern Mindanao,Non-Grade (JHS),Female
+16,2019-2020,Region XI - Davao Region,Non-Grade (JHS),Female
+10,2019-2020,Region XII - Soccsksargen,Non-Grade (JHS),Female
+9,2019-2020,CARAGA - CARAGA,Non-Grade (JHS),Female
+-,2019-2020,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (JHS),Female
+21,2019-2020,CAR - Cordillera Administrative Region,Non-Grade (JHS),Female
+114,2019-2020,NCR - National Capital Region,Non-Grade (JHS),Female
+51,2020-2021,Region I - Ilocos Region,Non-Grade (JHS),Male
+11,2020-2021,Region II - Cagayan Valley,Non-Grade (JHS),Male
+94,2020-2021,Region III - Central Luzon,Non-Grade (JHS),Male
+317,2020-2021,Region IV-A - CALABARZON,Non-Grade (JHS),Male
+13,2020-2021,Region IV-B - MIMAROPA,Non-Grade (JHS),Male
+44,2020-2021,Region V - Bicol Region,Non-Grade (JHS),Male
+24,2020-2021,Region VI - Western Visayas,Non-Grade (JHS),Male
+7,2020-2021,Region VII - Central Visayas,Non-Grade (JHS),Male
+-,2020-2021,Region VIII - Eastern Visayas,Non-Grade (JHS),Male
+10,2020-2021,Region IX - Zamboanga Peninsula,Non-Grade (JHS),Male
+76,2020-2021,Region X - Northern Mindanao,Non-Grade (JHS),Male
+7,2020-2021,Region XI - Davao Region,Non-Grade (JHS),Male
+50,2020-2021,Region XII - Soccsksargen,Non-Grade (JHS),Male
+15,2020-2021,CARAGA - CARAGA,Non-Grade (JHS),Male
+-,2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (JHS),Male
+12,2020-2021,CAR - Cordillera Administrative Region,Non-Grade (JHS),Male
+222,2020-2021,NCR - National Capital Region,Non-Grade (JHS),Male
+26,2020-2021,Region I - Ilocos Region,Non-Grade (JHS),Female
+17,2020-2021,Region II - Cagayan Valley,Non-Grade (JHS),Female
+78,2020-2021,Region III - Central Luzon,Non-Grade (JHS),Female
+201,2020-2021,Region IV-A - CALABARZON,Non-Grade (JHS),Female
+12,2020-2021,Region IV-B - MIMAROPA,Non-Grade (JHS),Female
+25,2020-2021,Region V - Bicol Region,Non-Grade (JHS),Female
+21,2020-2021,Region VI - Western Visayas,Non-Grade (JHS),Female
+2,2020-2021,Region VII - Central Visayas,Non-Grade (JHS),Female
+-,2020-2021,Region VIII - Eastern Visayas,Non-Grade (JHS),Female
+23,2020-2021,Region IX - Zamboanga Peninsula,Non-Grade (JHS),Female
+47,2020-2021,Region X - Northern Mindanao,Non-Grade (JHS),Female
+10,2020-2021,Region XI - Davao Region,Non-Grade (JHS),Female
+24,2020-2021,Region XII - Soccsksargen,Non-Grade (JHS),Female
+15,2020-2021,CARAGA - CARAGA,Non-Grade (JHS),Female
+-,2020-2021,BARMM - Bangsamoro Autonomous Region in Muslim Mindanao,Non-Grade (JHS),Female
+9,2020-2021,CAR - Cordillera Administrative Region,Non-Grade (JHS),Female
+141,2020-2021,NCR - National Capital Region,Non-Grade (JHS),Female

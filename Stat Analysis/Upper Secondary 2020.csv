@@ -1,0 +1,85 @@
+Level of Education,Year,Continent,Country,Number of teachers,Number of students,Ratio
+Upper Secondary Education,2020,Africa,Burkina Faso,14876,311422,20.93453
+Upper Secondary Education,2020,Africa,Burundi,14049,349649,24.88782
+Upper Secondary Education,2020,Africa,Cabo Verde,1665,22940,13.77778
+Upper Secondary Education,2020,Africa,Djibouti,1537,23159,15.06766
+Upper Secondary Education,2020,Africa,Egypt,286027,4181781,14.62023
+Upper Secondary Education,2020,Africa,Ghana,60728,1266343,20.8527
+Upper Secondary Education,2020,Africa,Liberia,6307,106194,16.83748
+Upper Secondary Education,2020,Africa,Mali,21487,314452,14.63452
+Upper Secondary Education,2020,Africa,Morocco,69621,1120501,16.0943
+Upper Secondary Education,2020,Africa,Nigeria,452001,5731144,12.67949
+Upper Secondary Education,2020,Africa,Senegal,31812,368826,11.59393
+Upper Secondary Education,2020,Africa,South Africa,109008,2947954,27.04346
+Upper Secondary Education,2020,Asia,Armenia,12808,83139,6.491177
+Upper Secondary Education,2020,Asia,Azerbaijan,31154,292699,9.39523
+Upper Secondary Education,2020,Asia,Bangladesh,286285,7849556,27.41868
+Upper Secondary Education,2020,Asia,Brunei Darussalam,4898,28448,5.808085
+Upper Secondary Education,2020,Asia,China,2770298,39959877,14.4244
+Upper Secondary Education,2020,Asia,"China, Macao Special Administrative Region",1388,12299,8.860951
+Upper Secondary Education,2020,Asia,India,3078485,69080414,22.43974
+Upper Secondary Education,2020,Asia,Indonesia,612141,12450655,20.33952
+Upper Secondary Education,2020,Asia,Japan,354404,3507562,9.897072
+Upper Secondary Education,2020,Asia,Jordan,24745,236888,9.573166
+Upper Secondary Education,2020,Asia,Lao People's Democratic Republic,13213,210184,15.90736
+Upper Secondary Education,2020,Asia,Nepal,63399,1815077,28.62943
+Upper Secondary Education,2020,Asia,Palestine,16724,247526,14.80065
+Upper Secondary Education,2020,Asia,Philippines,118079,3195067,27.05872
+Upper Secondary Education,2020,Asia,Qatar,5644,57714,10.22573
+Upper Secondary Education,2020,Asia,Republic of Korea,124453,1346561,10.81984
+Upper Secondary Education,2020,Asia,Saudi Arabia,124236,1357437,10.92628
+Upper Secondary Education,2020,Asia,Thailand,115317,2362228,20.48465
+Upper Secondary Education,2020,Asia,Timor-Leste,2711,72778,26.84544
+Upper Secondary Education,2020,Asia,Türkiye,380631,5630652,14.79294
+Upper Secondary Education,2020,Asia,United Arab Emirates,42659,318449,7.46499
+Upper Secondary Education,2020,Asia,Uzbekistan,298876,1191143,3.985409
+Upper Secondary Education,2020,Europe,Albania,8832,109533,12.40183
+Upper Secondary Education,2020,Europe,Austria,30081.55,351565.1,11.68707
+Upper Secondary Education,2020,Europe,Belarus,22001,188814,8.582064
+Upper Secondary Education,2020,Europe,Belgium,83552,734308,8.788635
+Upper Secondary Education,2020,Europe,Bosnia and Herzegovina,12716,112796,8.870399
+Upper Secondary Education,2020,Europe,Bulgaria,22187,274024,12.35066
+Upper Secondary Education,2020,Europe,Croatia,28016,148181,5.289156
+Upper Secondary Education,2020,Europe,Cyprus,3742,27655,7.390433
+Upper Secondary Education,2020,Europe,Denmark,25346,286916,11.31997
+Upper Secondary Education,2020,Europe,Finland,18887,327235,17.32594
+Upper Secondary Education,2020,Europe,Georgia,25294,135544,5.358741
+Upper Secondary Education,2020,Europe,Germany,174954.1,2398670,13.71028
+Upper Secondary Education,2020,Europe,Greece,37639,344001,9.139483
+Upper Secondary Education,2020,Europe,Hungary,39162,407753,10.41196
+Upper Secondary Education,2020,Europe,Latvia,6032,59313,9.833057
+Upper Secondary Education,2020,Europe,Liechtenstein,60,1696,28.26667
+Upper Secondary Education,2020,Europe,Lithuania,7107,59681,8.397495
+Upper Secondary Education,2020,Europe,Malta,2571.3,17665.39,6.870218
+Upper Secondary Education,2020,Europe,Monaco,264,1539,5.829545
+Upper Secondary Education,2020,Europe,Montenegro,2043,27594,13.50661
+Upper Secondary Education,2020,Europe,Netherlands,57937.69,839691,14.493
+Upper Secondary Education,2020,Europe,North Macedonia,7464,70402,9.432208
+Upper Secondary Education,2020,Europe,Norway,26755,254884,9.526593
+Upper Secondary Education,2020,Europe,Poland,136451,1614772,11.83408
+Upper Secondary Education,2020,Europe,Republic of Moldova,5893,64539,10.95181
+Upper Secondary Education,2020,Europe,Romania,54963,719050,13.08244
+Upper Secondary Education,2020,Europe,San Marino,129,721,5.589147
+Upper Secondary Education,2020,Europe,Serbia,31025,251974,8.121644
+Upper Secondary Education,2020,Europe,Slovakia,16244,179587,11.05559
+Upper Secondary Education,2020,Europe,Slovenia,6292,89014,14.14717
+Upper Secondary Education,2020,Europe,Spain,162016,1770354,10.92703
+Upper Secondary Education,2020,Europe,Sweden,38341,549403.7,14.32941
+Upper Secondary Education,2020,North America,Barbados,592,8161,13.78547
+Upper Secondary Education,2020,North America,Belize,652,9948,15.25767
+Upper Secondary Education,2020,North America,Canada,146004,1400028,9.58897
+Upper Secondary Education,2020,North America,Cayman Islands,169,1584,9.372781
+Upper Secondary Education,2020,North America,Costa Rica,16841,213179,12.65833
+Upper Secondary Education,2020,North America,Cuba,45042,416308,9.242662
+Upper Secondary Education,2020,North America,Mexico,412353,5544608,13.44627
+Upper Secondary Education,2020,North America,Saint Lucia,434,4602,10.60369
+Upper Secondary Education,2020,North America,United States of America,844815.8,12248258,14.49814
+Upper Secondary Education,2020,Oceania,Marshall Islands,369,3074,8.330623
+Upper Secondary Education,2020,Oceania,New Zealand,18192.33,257465.2,14.1524
+Upper Secondary Education,2020,Oceania,Niue,21,130,6.190476
+Upper Secondary Education,2020,Oceania,Tokelau,13,39,3
+Upper Secondary Education,2020,South America,Brazil,605297,9059953,14.96778
+Upper Secondary Education,2020,South America,Chile,58016.53,1011573,17.43595
+Upper Secondary Education,2020,South America,Colombia,63202,1390305,21.9978
+Upper Secondary Education,2020,South America,Ecuador,48723.96,893100,18.32979
+Upper Secondary Education,2020,South America,Suriname,1900,19102,10.05368

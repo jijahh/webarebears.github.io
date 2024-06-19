@@ -1,0 +1,91 @@
+Level of Education,Year,Continent,Country,Number of teachers,Number of students,Ratio
+Upper Secondary Education,2019,Africa,Burkina Faso,13308,295718,22.22107
+Upper Secondary Education,2019,Africa,Burundi,14669,278852,19.00961
+Upper Secondary Education,2019,Africa,Cabo Verde,1404,21571,15.36396
+Upper Secondary Education,2019,Africa,Djibouti,1044,23642,22.64559
+Upper Secondary Education,2019,Africa,Egypt,288660,4006451,13.87948
+Upper Secondary Education,2019,Africa,Eritrea,2898,89066,30.73361
+Upper Secondary Education,2019,Africa,Ghana,59840,1173028,19.60274
+Upper Secondary Education,2019,Africa,Madagascar,19995,392869,19.64836
+Upper Secondary Education,2019,Africa,Mauritania,4491,78293,17.43331
+Upper Secondary Education,2019,Africa,Morocco,72458,1109452,15.31166
+Upper Secondary Education,2019,Africa,Rwanda,15104,250966,16.61586
+Upper Secondary Education,2019,Africa,Sierra Leone,9841,305085,31.00142
+Upper Secondary Education,2019,Africa,South Africa,115867,2972390,25.65346
+Upper Secondary Education,2019,Asia,Armenia,13798,81059,5.874692
+Upper Secondary Education,2019,Asia,Azerbaijan,32470,312823,9.634216
+Upper Secondary Education,2019,Asia,Bahrain,5156,48940,9.491854
+Upper Secondary Education,2019,Asia,Brunei Darussalam,3800,29015,7.635526
+Upper Secondary Education,2019,Asia,China,2763380,39357192,14.24241
+Upper Secondary Education,2019,Asia,"China, Macao Special Administrative Region",1452,12808,8.820937
+Upper Secondary Education,2019,Asia,India,2741783,66756920,24.348
+Upper Secondary Education,2019,Asia,Indonesia,610987,11836846,19.37332
+Upper Secondary Education,2019,Asia,Japan,355550,3565744,10.02881
+Upper Secondary Education,2019,Asia,Jordan,23581,220396,9.346338
+Upper Secondary Education,2019,Asia,Lao People's Democratic Republic,13936,221690,15.90772
+Upper Secondary Education,2019,Asia,Maldives,693,3932,5.673882
+Upper Secondary Education,2019,Asia,Nepal,64237,1597047,24.86179
+Upper Secondary Education,2019,Asia,Oman,9231,92745,10.04712
+Upper Secondary Education,2019,Asia,Pakistan,905912,6555273,7.236104
+Upper Secondary Education,2019,Asia,Palestine,16721,240157,14.3626
+Upper Secondary Education,2019,Asia,Philippines,107471.9,3024283,28.14023
+Upper Secondary Education,2019,Asia,Qatar,4784,55197,11.53783
+Upper Secondary Education,2019,Asia,Republic of Korea,126185,1420391,11.25642
+Upper Secondary Education,2019,Asia,Saudi Arabia,115067,1329300,11.5524
+Upper Secondary Education,2019,Asia,Thailand,110275,2427393,22.01218
+Upper Secondary Education,2019,Asia,Timor-Leste,2559,71546,27.95858
+Upper Secondary Education,2019,Asia,Türkiye,371234,5649594,15.21842
+Upper Secondary Education,2019,Asia,United Arab Emirates,28270,226912,8.026601
+Upper Secondary Education,2019,Asia,Uzbekistan,295201,2130846,7.218289
+Upper Secondary Education,2019,Europe,Albania,9003,116646,12.95635
+Upper Secondary Education,2019,Europe,Austria,29723.01,349697.5,11.76521
+Upper Secondary Education,2019,Europe,Belarus,22205,191580,8.627787
+Upper Secondary Education,2019,Europe,Belgium,82137,757543,9.22292
+Upper Secondary Education,2019,Europe,Bosnia and Herzegovina,12551,117475,9.359812
+Upper Secondary Education,2019,Europe,Bulgaria,21768,281563,12.93472
+Upper Secondary Education,2019,Europe,Croatia,28201,150575,5.33935
+Upper Secondary Education,2019,Europe,Cyprus,3747,27624,7.372298
+Upper Secondary Education,2019,Europe,Denmark,27147,284797,10.49092
+Upper Secondary Education,2019,Europe,Finland,18842,330405,17.53556
+Upper Secondary Education,2019,Europe,Georgia,20511,135201,6.591634
+Upper Secondary Education,2019,Europe,Germany,173292.4,2426607,14.00296
+Upper Secondary Education,2019,Europe,Greece,36935,359810,9.741708
+Upper Secondary Education,2019,Europe,Hungary,39354,409862,10.41475
+Upper Secondary Education,2019,Europe,Italy,290169,2861108,9.860144
+Upper Secondary Education,2019,Europe,Latvia,6280,60537,9.63965
+Upper Secondary Education,2019,Europe,Liechtenstein,61,1692,27.7377
+Upper Secondary Education,2019,Europe,Lithuania,7483,63458,8.480289
+Upper Secondary Education,2019,Europe,Malta,2406.346,17939.32,7.455004
+Upper Secondary Education,2019,Europe,Monaco,199,1540,7.738693
+Upper Secondary Education,2019,Europe,Montenegro,1951,28171,14.43926
+Upper Secondary Education,2019,Europe,Netherlands,56802.12,837871,14.7507
+Upper Secondary Education,2019,Europe,North Macedonia,7597,72123,9.493616
+Upper Secondary Education,2019,Europe,Norway,26521,255759,9.643641
+Upper Secondary Education,2019,Europe,Poland,138302,1266398,9.156758
+Upper Secondary Education,2019,Europe,Republic of Moldova,6125,64721,10.56669
+Upper Secondary Education,2019,Europe,Romania,55377,720206,13.00551
+Upper Secondary Education,2019,Europe,San Marino,125,702,5.616
+Upper Secondary Education,2019,Europe,Serbia,30940,254101,8.212702
+Upper Secondary Education,2019,Europe,Slovakia,16464,182797,11.10283
+Upper Secondary Education,2019,Europe,Slovenia,6087,90228,14.82307
+Upper Secondary Education,2019,Europe,Spain,159062,1743458,10.96087
+Upper Secondary Education,2019,Europe,Sweden,38230,541734,14.17039
+Upper Secondary Education,2019,North America,Bahamas,1283,12537,9.771629
+Upper Secondary Education,2019,North America,Barbados,547,8098,14.80439
+Upper Secondary Education,2019,North America,Belize,641,9855,15.37441
+Upper Secondary Education,2019,North America,Canada,144009,1407460,9.773417
+Upper Secondary Education,2019,North America,Cayman Islands,157.5,1526,9.688889
+Upper Secondary Education,2019,North America,Costa Rica,15560,205948,13.23573
+Upper Secondary Education,2019,North America,Cuba,43373,420871,9.703525
+Upper Secondary Education,2019,North America,Guatemala,53101,416177,7.837461
+Upper Secondary Education,2019,North America,Honduras,23467,238411,10.15942
+Upper Secondary Education,2019,North America,Mexico,418893,5608220,13.38819
+Upper Secondary Education,2019,North America,Saint Lucia,432,4704,10.88889
+Upper Secondary Education,2019,North America,United States of America,836244,12230286,14.62526
+Upper Secondary Education,2019,Oceania,Nauru,12,402,33.5
+Upper Secondary Education,2019,Oceania,New Zealand,18672.26,269607.1,14.43891
+Upper Secondary Education,2019,Oceania,Tokelau,13,31,2.384615
+Upper Secondary Education,2019,South America,Brazil,612396,9077330,14.82265
+Upper Secondary Education,2019,South America,Chile,58745.69,1035368,17.62458
+Upper Secondary Education,2019,South America,Colombia,57080,1389579,24.34441
+Upper Secondary Education,2019,South America,Ecuador,49288.78,889048,18.03753

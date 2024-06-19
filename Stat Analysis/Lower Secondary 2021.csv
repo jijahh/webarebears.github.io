@@ -1,0 +1,99 @@
+Level of Education,Year,Continent,Country,Number of teachers,Number of students,Ratio
+Lower Secondary Education,2021,Africa,Botswana,10341,120668,11.66889
+Lower Secondary Education,2021,Africa,Burkina Faso,51834,1041663,20.09613
+Lower Secondary Education,2021,Africa,Burundi,13249,362440,27.35603
+Lower Secondary Education,2021,Africa,Cabo Verde,2142,33421,15.60271
+Lower Secondary Education,2021,Africa,Djibouti,1638,46342,28.29182
+Lower Secondary Education,2021,Africa,Egypt,295610,5956893,20.15119
+Lower Secondary Education,2021,Africa,Gambia,8446,119405,14.13746
+Lower Secondary Education,2021,Africa,Ghana,131461,1819213,13.83842
+Lower Secondary Education,2021,Africa,Mali,34503,730064,21.15944
+Lower Secondary Education,2021,Africa,Morocco,78532,1823017,23.21368
+Lower Secondary Education,2021,Africa,Nigeria,458459,7900751,17.23328
+Lower Secondary Education,2021,Africa,Rwanda,11709,521631,44.54958
+Lower Secondary Education,2021,Africa,Senegal,23126,860296,37.20038
+Lower Secondary Education,2021,Africa,Sierra Leone,19986,536758,26.8567
+Lower Secondary Education,2021,Africa,Togo,21794,630367,28.92388
+Lower Secondary Education,2021,Africa,Tunisia,42547,564146,13.25936
+Lower Secondary Education,2021,Asia,Armenia,11208,180816,16.13276
+Lower Secondary Education,2021,Asia,Azerbaijan,90802,727820,8.015462
+Lower Secondary Education,2021,Asia,Bangladesh,219706,7853383,35.74496
+Lower Secondary Education,2021,Asia,Bhutan,1408,51493,36.57173
+Lower Secondary Education,2021,Asia,Cambodia,17442,670233,38.42638
+Lower Secondary Education,2021,Asia,China,3937921,49277220,12.51351
+Lower Secondary Education,2021,Asia,"China, Macao Special Administrative Region",1353,14984,11.07465
+Lower Secondary Education,2021,Asia,India,3491871,66006162,18.90281
+Lower Secondary Education,2021,Asia,Indonesia,670994,13990973,20.85111
+Lower Secondary Education,2021,Asia,Israel,31132,452369,14.53068
+Lower Secondary Education,2021,Asia,Japan,280701,3275607,11.66938
+Lower Secondary Education,2021,Asia,Jordan,38954,684083,17.5613
+Lower Secondary Education,2021,Asia,Lao People's Democratic Republic,23901,420355,17.58734
+Lower Secondary Education,2021,Asia,Nepal,55881,1764414,31.57449
+Lower Secondary Education,2021,Asia,Pakistan,433979,8357298,19.25738
+Lower Secondary Education,2021,Asia,Palestine,31424,577404,18.37462
+Lower Secondary Education,2021,Asia,Philippines,358220,8331535,23.25815
+Lower Secondary Education,2021,Asia,Qatar,4988,68017,13.63613
+Lower Secondary Education,2021,Asia,Republic of Korea,103916,1362579,13.11231
+Lower Secondary Education,2021,Asia,Saudi Arabia,120421,1461624,12.13762
+Lower Secondary Education,2021,Asia,Sri Lanka,77435,1387795,17.92206
+Lower Secondary Education,2021,Asia,Thailand,113884,2593790,22.77572
+Lower Secondary Education,2021,Asia,Türkiye,370798,5212969,14.05878
+Lower Secondary Education,2021,Asia,Uzbekistan,372191,2876753,7.729238
+Lower Secondary Education,2021,Asia,Viet Nam,286668,5910423,20.61766
+Lower Secondary Education,2021,Europe,Albania,14705,127958,8.701666
+Lower Secondary Education,2021,Europe,Austria,43594.06,343086.5,7.870029
+Lower Secondary Education,2021,Europe,Belarus,51544,507574,9.847393
+Lower Secondary Education,2021,Europe,Bosnia and Herzegovina,15091,120369,7.976211
+Lower Secondary Education,2021,Europe,Bulgaria,18831,198501,10.54118
+Lower Secondary Education,2021,Europe,Croatia,25277,177373,7.01717
+Lower Secondary Education,2021,Europe,Cyprus,3723,28690,7.706151
+Lower Secondary Education,2021,Europe,Denmark,27124,242518,8.941085
+Lower Secondary Education,2021,Europe,Estonia,5073.81,44522.7,8.775003
+Lower Secondary Education,2021,Europe,Finland,22432,190299,8.483372
+Lower Secondary Education,2021,Europe,Georgia,17334,138016,7.962155
+Lower Secondary Education,2021,Europe,Germany,422682.3,4467937,10.57044
+Lower Secondary Education,2021,Europe,Greece,45121,340692,7.550631
+Lower Secondary Education,2021,Europe,Hungary,37971,390447,10.28277
+Lower Secondary Education,2021,Europe,Iceland,1476,13665,9.25813
+Lower Secondary Education,2021,Europe,Italy,174355,1750809,10.04163
+Lower Secondary Education,2021,Europe,Latvia,7360,60745,8.253397
+Lower Secondary Education,2021,Europe,Liechtenstein,264,1554,5.886364
+Lower Secondary Education,2021,Europe,Lithuania,20513,167514,8.166236
+Lower Secondary Education,2021,Europe,Luxembourg,2667.645,23151,8.678442
+Lower Secondary Education,2021,Europe,Malta,2045.135,13606,6.652862
+Lower Secondary Education,2021,Europe,Monaco,229,1814,7.921397
+Lower Secondary Education,2021,Europe,Netherlands,56878,754158,13.25922
+Lower Secondary Education,2021,Europe,North Macedonia,11538,80462,6.973652
+Lower Secondary Education,2021,Europe,Norway,29411.89,201133,6.838492
+Lower Secondary Education,2021,Europe,Poland,186162,1607351,8.634152
+Lower Secondary Education,2021,Europe,Portugal,41820,342869,8.198685
+Lower Secondary Education,2021,Europe,Republic of Moldova,15041,159979,10.63619
+Lower Secondary Education,2021,Europe,Romania,69555,712526,10.24407
+Lower Secondary Education,2021,Europe,San Marino,151,1012,6.701987
+Lower Secondary Education,2021,Europe,Serbia,36126,260026,7.197752
+Lower Secondary Education,2021,Europe,Slovakia,23884,268827,11.25553
+Lower Secondary Education,2021,Europe,Spain,160608,1724043,10.73448
+Lower Secondary Education,2021,Europe,Sweden,37859,405305.7,10.70566
+Lower Secondary Education,2021,Europe,Switzerland,31340,261764,8.352393
+Lower Secondary Education,2021,Europe,United Kingdom of Great Britain and Northern Ireland,151631.4,2702202,17.82086
+Lower Secondary Education,2021,North America,Bahamas,1046,12676,12.11855
+Lower Secondary Education,2021,North America,Barbados,608,10765,17.70559
+Lower Secondary Education,2021,North America,Belize,1827,30168,16.51232
+Lower Secondary Education,2021,North America,Cayman Islands,173.6,2033,11.71083
+Lower Secondary Education,2021,North America,Costa Rica,21230.75,291814,13.74487
+Lower Secondary Education,2021,North America,Cuba,39495,322897,8.175642
+Lower Secondary Education,2021,North America,Dominican Republic,13838,484183,34.98938
+Lower Secondary Education,2021,North America,Guatemala,61715,712498,11.54497
+Lower Secondary Education,2021,North America,Honduras,26065,363828,13.95849
+Lower Secondary Education,2021,North America,Mexico,437706,7774706,17.76239
+Lower Secondary Education,2021,North America,United States of America,888622.1,12984382,14.61181
+Lower Secondary Education,2021,Oceania,Marshall Islands,195.1889,2623,13.43827
+Lower Secondary Education,2021,Oceania,Micronesia (Federated States of),489,3681,7.527607
+Lower Secondary Education,2021,Oceania,New Zealand,18315.74,276279,15.08424
+Lower Secondary Education,2021,Oceania,Niue,8,148,18.5
+Lower Secondary Education,2021,Oceania,Tokelau,15,179,11.93333
+Lower Secondary Education,2021,South America,Brazil,752995,13039316,17.3166
+Lower Secondary Education,2021,South America,Chile,29891.56,543845,18.19393
+Lower Secondary Education,2021,South America,Colombia,121928,3484598,28.57915
+Lower Secondary Education,2021,South America,Ecuador,40786.3,969480,23.76975
+Lower Secondary Education,2021,South America,Suriname,3346,36873,11.02002
